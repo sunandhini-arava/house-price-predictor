@@ -1,0 +1,2030 @@
+locality,property_type,area_sqft,bedrooms,bathrooms,balconies,age_years,floor,total_floors,parking,furnishing,facing,gym,swimming_pool,security,power_backup,lift,price
+Nizampet,Apartment,1805,3,2,2,0,11,12,1,Fully Furnished,East,1,1,1,1,1,10800000
+Bachupally,Apartment,1560,3,2,2,0,5,15,1,Fully Furnished,North-East,1,1,1,1,1,8580000
+Dundigal,Apartment,1070,2,1,2,0,3,10,1,Semi-Furnished,West,0,0,1,1,1,5564000
+Pocharam,Apartment,1210,2,1,2,0,3,7,1,Semi-Furnished,North,0,0,1,1,1,6048000
+Kollur,Apartment,1900,3,2,2,0,4,20,1,Fully Furnished,South,1,1,1,1,1,11300000
+Kukatpally,Apartment,1480,3,2,2,0,3,7,1,Fully Furnished,North-East,1,1,1,1,1,12400000
+Jeedimetla,Apartment,1675,3,2,2,0,2,5,1,Fully Furnished,West,1,1,1,1,1,10100000
+Uppal Kalan,Apartment,1705,3,2,2,0,14,15,1,Fully Furnished,West,1,1,1,1,1,10700000
+Rajendra Nagar,Apartment,1811,3,2,2,0,5,10,1,Fully Furnished,East,1,1,1,1,1,10800000
+Yapral,Apartment,1735,3,2,2,4,10,15,1,Fully Furnished,East,1,1,1,1,1,10400000
+Kompally,Apartment,1485,2,1,2,4,9,12,1,Semi-Furnished,West,1,0,1,1,1,6681999
+Patighanpur,Villa,4591,4,3,2,0,0,1,2,Fully Furnished,West,1,1,1,1,0,68800000
+Tellapur,Apartment,1845,3,2,2,0,10,15,1,Fully Furnished,South,1,1,1,1,1,13400000
+Tellapur,Apartment,1495,2,1,2,0,4,5,1,Fully Furnished,West,1,1,1,1,1,9417000
+Madeenaguda,Apartment,1285,2,1,2,0,3,12,1,Fully Furnished,North,1,1,1,1,1,8223999
+Shamshabad,Apartment,3500,4,3,2,0,4,12,1,Fully Furnished,West,1,1,1,1,1,22700000
+Puppalaguda,Apartment,3715,4,3,2,0,3,12,1,Fully Furnished,South,1,1,1,1,1,40400000
+Mallampet,Apartment,1625,3,2,2,0,7,20,1,Fully Furnished,North-East,1,1,1,1,1,8125000
+Tellapur,Apartment,1643,3,2,2,0,7,10,1,Fully Furnished,North,1,1,1,1,1,10600000
+Meerpet,Apartment,1711,3,2,2,0,1,5,1,Fully Furnished,South,1,1,1,1,1,10200000
+Pocharam,Apartment,1942,3,2,2,0,18,24,1,Fully Furnished,East,1,1,1,1,1,10000000
+Mallapur,Apartment,1107,2,1,2,0,10,12,1,Semi-Furnished,North,0,0,1,1,1,5533000
+Tukkuguda,Apartment,1722,3,2,2,0,4,7,1,Fully Furnished,West,1,1,1,1,1,8265000
+Kondapur,Apartment,1915,3,2,2,0,7,10,1,Fully Furnished,West,1,1,1,1,1,16600000
+Chandanagar,Apartment,1325,2,1,2,0,8,15,1,Fully Furnished,South,1,1,1,1,1,8612000
+Nizampet,Apartment,955,2,1,2,0,2,5,1,Semi-Furnished,North-East,0,0,1,1,1,5252000
+Bachupally,Apartment,1168,2,1,2,0,2,12,1,Semi-Furnished,East,1,0,1,1,1,6423999
+Dundigal,Apartment,1116,3,2,2,0,2,15,1,Semi-Furnished,North,0,0,1,1,1,5803000
+Pocharam,Apartment,1210,2,1,2,0,6,12,1,Semi-Furnished,North,0,0,1,1,1,6048000
+Kollur,Apartment,2425,3,2,2,0,6,12,1,Fully Furnished,East,1,1,1,1,1,14500000
+Kukatpally,Apartment,1250,2,1,2,0,2,5,1,Fully Furnished,East,1,1,1,1,1,10400000
+Saroor Nagar,Apartment,1983,3,2,2,0,2,15,1,Fully Furnished,East,1,1,1,1,1,14600000
+Uppal Kalan,Apartment,1350,3,2,2,0,4,12,1,Fully Furnished,East,1,1,1,1,1,8503000
+Rajendra Nagar,Apartment,1980,3,2,2,0,8,12,1,Fully Furnished,East,1,1,1,1,1,11800000
+Yapral,Apartment,1910,3,2,2,4,9,12,1,Fully Furnished,West,1,1,1,1,1,11400000
+Kompally,Apartment,1682,3,2,2,4,21,24,1,Semi-Furnished,South,0,0,1,1,1,7569000
+Patighanpur,Villa,6500,4,3,2,0,1,2,2,Fully Furnished,North,1,1,1,1,0,97400000
+Tellapur,Apartment,2115,3,2,2,0,5,10,1,Fully Furnished,North-West,1,1,1,1,1,15400000
+Sainikpuri,Apartment,1200,3,2,2,4,9,12,1,Semi-Furnished,West,1,0,1,1,1,7067000
+Chandanagar,Apartment,1785,3,2,2,0,9,10,1,Fully Furnished,South,1,1,1,1,1,14900000
+Chandanagar,Apartment,1600,3,2,2,0,1,10,1,Fully Furnished,North-East,1,1,1,1,1,13400000
+Kollur,Villa,3888,4,3,2,0,0,1,2,Fully Furnished,North,1,1,1,1,0,43300000
+Kollur,Villa,4455,4,3,2,0,0,2,2,Fully Furnished,West,1,1,1,1,0,49600000
+Kollur,Villa,5111,5,4,2,0,0,2,2,Fully Furnished,South,1,1,1,1,0,56900000
+Bolarum,Apartment,1240,2,1,2,4,3,10,1,Semi-Furnished,East,0,0,1,1,1,6076000
+Bolarum,Apartment,1601,3,2,2,4,3,15,1,Semi-Furnished,West,0,0,1,1,1,7841000
+Bolarum,Apartment,1400,3,2,2,4,11,15,1,Semi-Furnished,North,0,0,1,1,1,6861000
+Bolarum,Apartment,1200,2,1,2,4,2,7,1,Semi-Furnished,North,0,0,1,1,1,5880000
+Bolarum,Apartment,1570,3,2,2,4,1,7,1,Semi-Furnished,East,0,0,1,1,1,7693000
+Bolarum,Apartment,1581,3,2,2,4,2,15,1,Semi-Furnished,North-West,0,0,1,1,1,7743000
+Bolarum,Apartment,1321,3,2,2,4,6,7,1,Semi-Furnished,South,1,0,1,1,1,6469000
+Bolarum,Apartment,1150,2,1,2,4,3,10,1,Semi-Furnished,North,0,0,1,1,1,5636000
+Bolarum,Apartment,1180,2,1,2,4,6,12,1,Semi-Furnished,North-East,0,0,1,1,1,5783000
+Bolarum,Apartment,1100,2,1,2,4,1,20,1,Semi-Furnished,West,0,0,1,1,1,5390000
+Bolarum,Apartment,1170,2,1,2,4,3,12,1,Semi-Furnished,North-West,1,0,1,1,1,5734000
+Kollur,Apartment,1430,3,2,2,0,10,15,1,Fully Furnished,North,1,1,1,1,1,8578000
+Kollur,Apartment,1775,3,2,2,0,7,10,1,Fully Furnished,East,1,1,1,1,1,10600000
+Kollur,Apartment,1295,2,1,2,0,3,5,1,Semi-Furnished,South,1,0,1,1,1,7768000
+Mallampet,Apartment,1595,3,2,2,0,10,12,1,Semi-Furnished,North,0,0,1,1,1,7975000
+Mallampet,Apartment,1265,2,1,2,0,3,12,1,Semi-Furnished,South,1,0,1,1,1,6325000
+Bachupally,Apartment,1210,2,1,2,0,3,5,1,Semi-Furnished,North-West,0,0,1,1,1,6776000
+Bachupally,Apartment,1180,2,1,2,0,4,12,1,Semi-Furnished,South,1,0,1,1,1,6606999
+Bachupally,Apartment,1235,2,1,2,0,7,20,1,Semi-Furnished,North,0,0,1,1,1,6916000
+Bachupally,Apartment,1490,3,2,2,0,11,12,1,Fully Furnished,North-East,1,1,1,1,1,8343000
+Jeedimetla,Apartment,1830,3,2,2,4,7,10,1,Fully Furnished,North,1,1,1,1,1,10800000
+Jeedimetla,Apartment,1830,3,2,2,4,6,10,1,Fully Furnished,West,1,1,1,1,1,10800000
+Jeedimetla,Apartment,2080,3,2,2,4,10,20,1,Fully Furnished,North-East,1,1,1,1,1,12300000
+Jeedimetla,Apartment,2080,3,2,2,4,6,20,1,Fully Furnished,East,1,1,1,1,1,12300000
+Jeedimetla,Apartment,2495,3,2,2,4,4,12,1,Fully Furnished,South,1,1,1,1,1,14800000
+Jeedimetla,Apartment,2495,3,2,2,4,11,20,1,Fully Furnished,North-East,1,1,1,1,1,14800000
+Jeedimetla,Apartment,3030,4,3,2,4,7,10,1,Fully Furnished,South,1,1,1,1,1,18000000
+Jeedimetla,Apartment,3030,4,3,2,4,7,20,1,Fully Furnished,South,1,1,1,1,1,18000000
+Jeedimetla,Apartment,1915,3,2,2,4,1,20,1,Fully Furnished,South,1,1,1,1,1,11300000
+Jeedimetla,Apartment,1915,3,2,2,4,9,10,1,Fully Furnished,West,1,1,1,1,1,11300000
+Jeedimetla,Apartment,2590,3,2,2,4,9,20,1,Fully Furnished,North-East,1,1,1,1,1,15400000
+Jeedimetla,Apartment,2590,3,2,2,4,6,10,1,Fully Furnished,East,1,1,1,1,1,15400000
+Jeedimetla,Apartment,3150,4,3,2,4,9,12,1,Fully Furnished,East,1,1,1,1,1,18700000
+Jeedimetla,Apartment,3150,4,3,2,4,1,12,1,Fully Furnished,East,1,1,1,1,1,18700000
+Gagillapur,Villa,2176,4,3,2,0,0,2,2,Fully Furnished,North,1,1,1,1,0,15700000
+Gagillapur,Villa,2377,4,3,2,0,1,3,2,Fully Furnished,North,1,1,1,1,0,17100000
+Gagillapur,Villa,2635,4,3,2,0,0,1,2,Fully Furnished,North-East,1,1,1,1,0,19000000
+Gagillapur,Villa,3951,4,3,2,0,1,3,2,Fully Furnished,West,1,1,1,1,0,28400000
+Gagillapur,Villa,3283,4,3,2,0,1,3,2,Fully Furnished,North,1,1,1,1,0,23600000
+Gagillapur,Villa,4566,4,3,2,0,0,2,2,Fully Furnished,East,1,1,1,1,0,32900000
+Manikonda,Apartment,1841,3,2,2,4,1,12,1,Fully Furnished,West,1,1,1,1,1,12800000
+Manikonda,Apartment,1449,2,1,2,4,7,10,1,Fully Furnished,North,1,1,1,1,1,10100000
+Manikonda,Apartment,1316,2,1,2,4,1,12,1,Fully Furnished,East,1,1,1,1,1,9212000
+Manikonda,Apartment,1446,2,1,2,4,1,7,1,Fully Furnished,East,1,1,1,1,1,10100000
+Manikonda,Apartment,1296,2,1,2,4,2,10,1,Fully Furnished,East,1,1,1,1,1,9072000
+Manikonda,Apartment,1932,3,2,2,4,6,12,1,Fully Furnished,East,1,1,1,1,1,13500000
+Manikonda,Apartment,1874,3,2,2,4,4,5,1,Fully Furnished,West,1,1,1,1,1,13100000
+Manikonda,Apartment,1676,3,2,2,4,19,20,1,Fully Furnished,East,1,1,1,1,1,11700000
+Manikonda,Apartment,1551,2,1,2,4,5,15,1,Fully Furnished,South,1,1,1,1,1,10800000
+Manikonda,Apartment,1927,3,2,2,4,6,12,1,Fully Furnished,North-East,1,1,1,1,1,13400000
+Manikonda,Apartment,1926,3,2,2,4,4,10,1,Fully Furnished,North,1,1,1,1,1,13400000
+Manikonda,Apartment,1732,3,2,2,4,3,7,1,Fully Furnished,North-West,1,1,1,1,1,12100000
+Jubilee Hills,Apartment,3225,4,3,2,0,6,10,1,Fully Furnished,West,1,1,1,1,1,45100000
+Bachupally,Apartment,1185,2,1,2,4,4,12,1,Semi-Furnished,North,1,0,1,1,1,6634999
+Dammaiguda,Independent House,3200,3,2,2,4,1,3,1,Fully Furnished,North-West,1,0,1,1,0,26000000
+Dammaiguda,Independent House,3200,3,2,2,4,1,2,1,Fully Furnished,East,1,1,1,1,0,26000000
+Boduppal,Independent House,1200,2,1,2,4,0,2,1,Semi-Furnished,North-West,0,0,1,1,0,6000000
+Amberpet,Independent Floor,1200,3,2,2,4,1,2,0,Semi-Furnished,East,0,0,1,1,0,7000000
+Boduppal,Independent House,1200,2,1,2,4,0,2,1,Semi-Furnished,West,0,0,1,1,0,6000000
+Kukatpally,Apartment,672,2,1,2,4,3,12,1,Semi-Furnished,East,1,0,1,1,1,3800000
+Dammaiguda,Independent House,3200,3,2,2,4,1,3,1,Fully Furnished,South,1,0,1,1,0,26000000
+Boduppal,Independent House,1200,2,1,2,4,0,2,1,Semi-Furnished,North,1,0,1,1,0,6000000
+Old Bowenpally,Independent House,2800,5,4,2,4,0,2,1,Fully Furnished,South,1,1,1,1,0,20000000
+Kukatpally,Apartment,672,2,1,2,4,3,12,1,Semi-Furnished,West,1,0,1,1,1,3800000
+Sainikpuri,Independent House,2500,5,4,2,4,1,3,1,Fully Furnished,West,1,0,1,1,0,13500000
+Kukatpally,Apartment,672,2,1,2,4,8,20,1,Semi-Furnished,West,0,0,1,1,1,3800000
+Boduppal,Independent House,1200,2,1,2,4,1,2,1,Semi-Furnished,North-East,1,0,1,1,0,6000000
+Dammaiguda,Independent House,3200,3,2,2,4,1,3,1,Fully Furnished,West,0,0,1,1,0,26000000
+Old Bowenpally,Independent House,2800,5,4,2,4,0,1,1,Fully Furnished,North-East,1,1,1,1,0,20000000
+Sainikpuri,Independent House,2500,5,4,2,4,1,2,1,Fully Furnished,North-East,0,1,1,1,0,13500000
+Amberpet,Independent Floor,1200,3,2,2,4,0,1,0,Semi-Furnished,North,0,0,1,1,0,7000000
+Dammaiguda,Independent House,3200,3,2,2,4,1,3,1,Fully Furnished,East,1,1,1,1,0,26000000
+As Rao Nagar,Apartment,1004,2,1,2,4,9,10,1,Semi-Furnished,East,0,0,1,1,1,4400000
+As Rao Nagar,Apartment,1004,2,1,2,4,1,12,1,Semi-Furnished,East,1,0,1,1,1,4400000
+Kapra,Apartment,1430,3,2,2,4,5,10,1,Semi-Furnished,North,1,0,1,1,1,7200000
+Chengicherla,Apartment,1200,2,1,2,4,9,20,1,Semi-Furnished,West,1,0,1,1,1,5200000
+Adibatla,Apartment,1500,3,2,2,4,3,10,1,Semi-Furnished,West,1,0,1,1,1,7800000
+Tellapur,Apartment,1260,2,1,2,4,3,15,1,Semi-Furnished,North,1,0,1,1,1,4200000
+Kothapet,Apartment,940,2,1,2,4,1,20,1,Semi-Furnished,South,1,0,1,1,1,4700000
+Rampally,Independent House,2200,2,1,2,4,1,3,1,Fully Furnished,East,1,0,1,1,0,9000000
+Bairagiguda,Independent House,5600,7,6,2,4,0,1,1,Fully Furnished,South,0,1,1,1,0,26500000
+Bairagiguda,Independent House,5400,7,6,2,4,1,3,1,Fully Furnished,West,0,1,1,1,0,23500000
+Kompally,Apartment,1440,3,2,2,4,3,20,1,Fully Furnished,West,0,0,1,1,1,8000000
+East Marredpally,Apartment,1475,3,2,2,4,9,12,1,Fully Furnished,East,1,1,1,1,1,16000000
+East Marredpally,Apartment,1475,3,2,2,4,13,15,1,Fully Furnished,East,1,1,1,1,1,16000000
+Bandlaguda Jagir,Independent House,1033,2,1,2,4,1,3,1,Fully Furnished,North,0,1,1,1,0,13000000
+Boduppal,Independent House,1215,2,1,2,4,1,3,1,Fully Furnished,West,0,1,1,1,0,15000000
+Isnapur,Apartment,940,2,1,2,4,3,12,1,Semi-Furnished,South,1,0,1,1,1,4237000
+Shankarpalli,Apartment,940,2,1,2,4,9,15,1,Semi-Furnished,North-East,1,0,1,1,1,4190000
+Isnapur,Apartment,940,2,1,2,4,4,10,1,Semi-Furnished,North,0,0,1,1,1,4190000
+Isnapur,Apartment,940,2,1,2,4,5,10,1,Semi-Furnished,South,1,0,1,1,1,4190000
+Isnapur,Apartment,940,2,1,2,4,8,10,1,Semi-Furnished,West,0,0,1,1,1,4237000
+Shankarpalli,Apartment,940,2,1,2,4,7,15,1,Semi-Furnished,West,0,0,1,1,1,4190000
+Isnapur,Apartment,940,2,1,2,4,1,15,1,Semi-Furnished,South,1,0,1,1,1,4190000
+Isnapur,Apartment,940,2,1,2,4,11,12,1,Semi-Furnished,West,1,0,1,1,1,4190000
+Isnapur,Apartment,940,2,1,2,4,7,12,1,Semi-Furnished,North,0,0,1,1,1,4237000
+Shankarpalli,Apartment,940,2,1,2,4,6,10,1,Semi-Furnished,East,0,0,1,1,1,4190000
+Isnapur,Apartment,940,2,1,2,4,19,24,1,Semi-Furnished,North,0,0,1,1,1,4237000
+Isnapur,Apartment,940,2,1,2,4,2,20,1,Semi-Furnished,North-East,1,0,1,1,1,4237000
+Muthangi,Apartment,940,2,1,2,4,1,12,1,Semi-Furnished,North-East,0,0,1,1,1,4237000
+Rai Durg,Apartment,4983,4,3,2,0,1,12,1,Fully Furnished,South,1,1,1,1,1,66600000
+Rai Durg,Apartment,6069,4,3,2,0,3,10,1,Fully Furnished,South,1,1,1,1,1,71900000
+Rai Durg,Apartment,4955,4,3,2,0,1,12,1,Fully Furnished,North,1,1,1,1,1,58600000
+Taramatipet,Villa,2500,3,2,2,0,1,2,2,Fully Furnished,North,1,1,1,1,0,16700000
+Bacharam,Villa,2500,3,2,2,0,1,3,2,Fully Furnished,East,1,1,1,1,0,16700000
+Dundigal,Apartment,1060,2,1,2,0,5,12,1,Semi-Furnished,West,1,0,1,1,1,4733000
+Dundigal,Apartment,1500,3,2,2,0,9,20,1,Semi-Furnished,West,1,0,1,1,1,6698999
+Nagaram,Independent House,1750,3,2,2,4,0,2,1,Semi-Furnished,West,1,0,1,1,0,7500000
+Nagaram,Independent House,900,2,1,2,4,0,1,1,Semi-Furnished,North,1,0,1,1,0,4900000
+Nagaram,Independent House,1750,2,1,2,0,1,2,1,Semi-Furnished,North,1,0,1,1,0,7000000
+Nagaram,Independent House,1780,3,2,2,4,0,1,1,Semi-Furnished,North,0,0,1,1,0,6800000
+Toli Chowki,Independent House,3600,4,3,2,4,1,2,1,Fully Furnished,South,0,0,1,1,0,65000000
+Bacharam,Villa,3500,3,2,2,4,1,2,2,Fully Furnished,East,1,1,1,1,0,23500000
+Kondapur,Apartment,2000,3,2,2,0,7,10,1,Fully Furnished,North,1,1,1,1,1,21000000
+Kondapur,Apartment,1935,3,2,2,0,3,10,1,Fully Furnished,North-East,1,1,1,1,1,20300000
+Kondapur,Apartment,2410,3,2,2,0,9,10,1,Fully Furnished,West,1,1,1,1,1,25300000
+Kondapur,Apartment,2360,3,2,2,0,6,12,1,Fully Furnished,East,1,1,1,1,1,24700000
+Kondapur,Apartment,2710,3,2,2,0,8,15,1,Fully Furnished,North,1,1,1,1,1,28400000
+Kondapur,Apartment,2390,3,2,2,0,2,7,1,Fully Furnished,North-East,1,1,1,1,1,25000000
+Kondapur,Apartment,2060,3,2,2,0,6,15,1,Fully Furnished,East,1,1,1,1,1,21600000
+Madhapur,Apartment,1300,2,1,2,4,11,12,1,Fully Furnished,South,1,1,1,1,1,10000000
+Kokapet,Apartment,3030,4,3,2,0,1,10,1,Fully Furnished,South,1,1,1,1,1,30300000
+Puppalaguda,Apartment,5454,4,3,2,0,9,20,1,Fully Furnished,South,1,1,1,1,1,61000000
+Boduppal,Apartment,1224,2,1,2,4,7,15,1,Semi-Furnished,North-East,0,0,1,1,1,6200000
+Mallapur,Apartment,1636,3,2,2,4,7,10,1,Fully Furnished,North,1,1,1,1,1,8500000
+Quthbullapur,Apartment,1125,2,1,2,4,2,12,1,Semi-Furnished,North-East,1,0,1,1,1,6200000
+Bolarum,Apartment,1125,2,1,2,4,13,20,1,Semi-Furnished,South,0,0,1,1,1,6600000
+Quthbullapur,Apartment,1125,2,1,2,4,1,7,1,Semi-Furnished,West,1,0,1,1,1,6200000
+Serilingampally,Apartment,2070,3,2,2,4,4,15,1,Fully Furnished,East,1,1,1,1,1,21500000
+Tarnaka,Independent House,4500,8,7,2,4,0,2,1,Fully Furnished,North,0,1,1,1,0,30000000
+Banjara Hills,Apartment,3600,4,3,2,4,14,15,1,Fully Furnished,South,1,1,1,1,1,48000000
+Himayat Nagar,Apartment,2415,3,2,2,4,15,20,1,Fully Furnished,West,1,1,1,1,1,32000000
+Kavadiguda,Independent House,4800,8,7,2,4,1,3,1,Fully Furnished,North,1,0,1,1,0,40600000
+Himayat Nagar,Independent House,4000,8,7,2,4,1,3,1,Fully Furnished,East,1,0,1,1,0,40000000
+Habsiguda,Independent House,6000,6,5,2,4,1,2,1,Fully Furnished,South,0,1,1,1,0,48000000
+Ameenpur,Apartment,1100,2,1,2,4,6,12,1,Semi-Furnished,West,0,0,1,1,1,6380000
+Bachupally,Villa,3075,4,3,2,0,1,3,2,Fully Furnished,West,1,1,1,1,0,38400000
+Bachupally,Villa,3865,4,3,2,0,1,2,2,Fully Furnished,North,1,1,1,1,0,48300000
+Narsingi,Apartment,1737,3,2,2,0,2,5,1,Fully Furnished,North,1,1,1,1,1,10700000
+Manchirevula,Apartment,1557,3,2,2,0,5,10,1,Fully Furnished,West,1,1,1,1,1,9400000
+Bachupally,Apartment,1700,3,2,2,0,5,12,1,Fully Furnished,West,1,1,1,1,1,12200000
+Narsingi,Apartment,1431,3,2,2,0,5,10,1,Fully Furnished,North,1,1,1,1,1,8729000
+Yapral,Villa,3200,5,4,2,4,0,2,2,Fully Furnished,North-East,1,1,1,1,0,23500000
+Kapra,Villa,2300,3,2,2,4,1,2,2,Fully Furnished,West,1,1,1,1,0,12000000
+Bolarum,Apartment,1180,2,1,2,4,3,10,1,Semi-Furnished,North-East,0,0,1,1,1,5428000
+Bolarum,Apartment,1165,2,1,2,4,4,15,1,Semi-Furnished,North,0,0,1,1,1,5242000
+Sainikpuri,Independent House,4800,5,4,2,4,1,2,1,Fully Furnished,North-West,0,1,1,1,0,18000000
+Suraram,Apartment,1240,2,1,2,0,10,24,1,Semi-Furnished,North-East,1,0,1,1,1,6198000
+Suraram,Apartment,1550,3,2,2,0,1,10,1,Semi-Furnished,West,0,0,1,1,1,7748000
+Kollur,Apartment,1370,2,1,2,0,3,12,1,Semi-Furnished,East,0,0,1,1,1,7534999
+Kollur,Apartment,2020,3,2,2,0,7,12,1,Fully Furnished,North-East,1,1,1,1,1,11100000
+Kollur,Apartment,2210,3,2,2,0,5,10,1,Fully Furnished,North,1,1,1,1,1,12100000
+Kollur,Apartment,1835,3,2,2,0,1,7,1,Fully Furnished,East,1,1,1,1,1,10000000
+Kondapur,Apartment,2005,3,2,2,0,1,15,1,Fully Furnished,North,1,1,1,1,1,17000000
+Kondapur,Apartment,1945,3,2,2,0,1,10,1,Fully Furnished,North-West,1,1,1,1,1,16500000
+Puppalaguda,Apartment,1620,3,2,2,0,6,12,1,Fully Furnished,East,1,1,1,1,1,10000000
+Puppalaguda,Apartment,1320,2,1,2,0,8,15,1,Fully Furnished,North,1,1,1,1,1,8580000
+Puppalaguda,Apartment,1295,2,1,2,0,1,20,1,Fully Furnished,South,1,1,1,1,1,8417000
+Puppalaguda,Apartment,1241,2,1,2,0,7,24,1,Semi-Furnished,South,1,0,1,1,1,7688000
+Manikonda,Apartment,1240,2,1,2,0,5,15,1,Fully Furnished,West,1,1,1,1,1,8059999
+Puppalaguda,Apartment,1575,3,2,2,0,7,15,1,Fully Furnished,East,1,1,1,1,1,9765000
+Manikonda,Apartment,1300,2,1,2,0,2,5,1,Fully Furnished,East,1,1,1,1,1,8450000
+Manikonda,Apartment,1190,2,1,2,0,5,12,1,Semi-Furnished,North,0,0,1,1,1,7734999
+Kokapet,Villa,3300,4,3,2,4,1,2,2,Fully Furnished,West,1,1,1,1,0,120000000
+Aminpur,Apartment,1210,2,1,2,0,5,10,1,Semi-Furnished,North-West,1,0,1,1,1,5082000
+Attapur,Apartment,1560,3,2,2,4,6,7,1,Fully Furnished,East,1,1,1,1,1,9700000
+Kokapet,Apartment,2048,3,2,2,4,5,20,1,Fully Furnished,South,1,1,1,1,1,23200000
+Manikonda,Apartment,1400,3,2,2,4,10,12,1,Fully Furnished,East,0,0,1,1,1,8000000
+Puppalaguda,Apartment,1075,2,1,2,4,5,15,1,Semi-Furnished,West,0,0,1,1,1,6800000
+Kondapur,Apartment,1500,3,2,2,0,1,12,1,Fully Furnished,West,1,1,1,1,1,9750000
+Kondapur,Apartment,1750,3,2,2,4,5,12,1,Fully Furnished,South,1,1,1,1,1,11000000
+Vanasthalipuram,Apartment,1170,2,1,2,4,10,12,1,Semi-Furnished,North-East,0,0,1,1,1,5900000
+Uppal Kalan,Apartment,1500,3,2,2,0,4,20,1,Fully Furnished,North,1,1,1,1,1,8250000
+Kothapet,Apartment,970,2,1,2,4,3,5,1,Semi-Furnished,North-West,0,0,1,1,1,6000000
+Tukkuguda,Villa,4250,4,3,2,4,1,3,2,Fully Furnished,North-East,1,1,1,1,0,40300000
+Attapur,Villa,3379,4,3,2,4,0,2,2,Fully Furnished,North,1,1,1,1,0,48900000
+Hayathnagar,Independent House,2400,3,2,2,4,1,2,1,Fully Furnished,South,0,0,1,1,0,16000000
+Pocharam,Apartment,1850,3,2,2,4,4,12,1,Fully Furnished,North,1,1,1,1,1,9620000
+Rajendra Nagar,Apartment,1265,2,1,2,4,7,15,1,Semi-Furnished,North,1,0,1,1,1,6900000
+Peerzadiguda,Apartment,1370,3,2,2,4,12,20,1,Semi-Furnished,North-West,0,0,1,1,1,6500000
+Peerzadiguda,Apartment,1110,2,1,2,4,1,12,1,Semi-Furnished,South,1,0,1,1,1,5000000
+Peerzadiguda,Apartment,1351,3,2,2,4,3,12,1,Semi-Furnished,East,0,0,1,1,1,6400000
+Peerzadiguda,Apartment,1385,3,2,2,4,12,20,1,Semi-Furnished,West,1,0,1,1,1,6500000
+Peerzadiguda,Apartment,1594,3,2,2,4,1,12,1,Semi-Furnished,West,1,0,1,1,1,7500000
+Kukatpally,Apartment,1050,2,1,2,4,11,15,1,Semi-Furnished,West,0,0,1,1,1,5500000
+Bowenpally,Apartment,1640,3,2,2,0,2,10,1,Fully Furnished,North,1,1,1,1,1,10000000
+Kondapur,Apartment,1615,3,2,2,0,2,5,1,Fully Furnished,North-East,1,1,1,1,1,12500000
+Old Bowenpally,Apartment,875,1,1,1,0,1,15,1,Semi-Furnished,West,1,0,1,1,1,5475000
+Kukatpally,Apartment,1661,3,2,2,0,13,15,1,Fully Furnished,North,1,1,1,1,1,11400000
+Kukatpally,Apartment,1575,3,2,2,0,2,20,1,Fully Furnished,South,1,1,1,1,1,11900000
+Kukatpally,Apartment,1300,2,1,2,4,7,10,1,Semi-Furnished,West,0,0,1,1,1,7700000
+Patancheru,Apartment,1655,3,2,2,0,5,7,1,Fully Furnished,East,1,1,1,1,1,8438000
+Patancheru,Apartment,1300,2,1,2,0,8,10,1,Semi-Furnished,West,0,0,1,1,1,6628000
+Kapra,Apartment,1200,2,1,2,4,5,15,1,Semi-Furnished,East,1,0,1,1,1,6700000
+Suchitra,Independent House,4000,7,6,2,0,0,1,1,Fully Furnished,East,0,1,1,1,0,20000000
+Kondapur,Apartment,1585,3,2,2,0,5,12,1,Fully Furnished,East,1,1,1,1,1,13900000
+Kapra,Apartment,1600,3,2,2,4,3,15,1,Fully Furnished,East,1,1,1,1,1,8900000
+Lb Nagar,Apartment,1170,2,1,2,4,16,24,1,Semi-Furnished,East,1,0,1,1,1,6500000
+Kothapet,Apartment,1610,3,2,2,4,1,7,1,Fully Furnished,North,1,1,1,1,1,10500000
+Dilsukhnagar,Apartment,1140,2,1,2,4,8,15,1,Semi-Furnished,East,1,0,1,1,1,5900000
+Lb Nagar,Apartment,810,2,1,2,4,5,20,1,Semi-Furnished,East,1,0,1,1,1,4900000
+Kothapet,Apartment,2100,3,2,2,4,7,10,1,Fully Furnished,North-East,1,1,1,1,1,13000000
+Quthbullapur,Independent House,3000,5,4,2,4,0,1,1,Fully Furnished,West,0,1,1,1,0,17500000
+Kokapet,Villa,4200,4,3,2,4,0,1,2,Fully Furnished,West,1,1,1,1,0,79800000
+Bachupally,Apartment,1422,3,2,2,0,1,7,1,Semi-Furnished,North,0,0,1,1,1,7820999
+Bachupally,Apartment,1520,3,2,2,0,4,12,1,Fully Furnished,East,1,1,1,1,1,8510000
+Bachupally,Apartment,1440,3,2,2,0,13,20,1,Fully Furnished,West,1,1,1,1,1,8062000
+Bachupally,Apartment,1185,2,1,2,0,17,20,1,Semi-Furnished,South,1,0,1,1,1,6634000
+Bachupally,Apartment,1160,2,1,2,0,5,7,1,Semi-Furnished,West,0,0,1,1,1,6494000
+Bachupally,Apartment,1150,2,1,2,4,12,20,1,Semi-Furnished,West,1,0,1,1,1,6438000
+Bachupally,Apartment,1385,3,2,2,0,4,12,1,Semi-Furnished,East,0,0,1,1,1,7617000
+Mallampet,Apartment,1460,2,1,2,0,5,12,1,Semi-Furnished,East,1,0,1,1,1,5986000
+Mallampet,Apartment,1885,3,2,2,0,4,7,1,Fully Furnished,North-East,1,1,1,1,1,10100000
+Mallampet,Apartment,1460,2,1,2,0,5,10,1,Semi-Furnished,West,0,0,1,1,1,7736000
+Puppalaguda,Apartment,2490,3,2,2,0,7,15,1,Fully Furnished,North-West,1,1,1,1,1,24600000
+Puppalaguda,Apartment,3510,4,3,2,0,7,15,1,Fully Furnished,West,1,1,1,1,1,38600000
+Puppalaguda,Apartment,1925,3,2,2,0,2,7,1,Fully Furnished,South,1,1,1,1,1,19000000
+Puppalaguda,Apartment,1725,3,2,2,0,14,24,1,Fully Furnished,East,1,1,1,1,1,17200000
+Kokapet,Apartment,4540,4,3,2,0,5,12,1,Fully Furnished,West,1,1,1,1,1,37400000
+Manikonda,Apartment,4410,4,3,2,0,13,15,1,Fully Furnished,East,1,1,1,1,1,41400000
+Manikonda,Apartment,2565,3,2,2,0,2,12,1,Fully Furnished,West,1,1,1,1,1,24100000
+Manikonda,Apartment,3360,3,2,2,0,9,24,1,Fully Furnished,North,1,1,1,1,1,31500000
+Manikonda,Apartment,3010,3,2,2,0,12,15,1,Fully Furnished,North-West,1,1,1,1,1,28200000
+Narsingi,Apartment,1550,3,2,2,4,6,20,1,Fully Furnished,East,1,1,1,1,1,10000000
+Narsingi,Apartment,1555,3,2,2,4,5,7,1,Fully Furnished,South,1,1,1,1,1,10000000
+Aminpur,Apartment,1250,2,1,2,0,9,10,1,Semi-Furnished,West,0,0,1,1,1,6000000
+Chandanagar,Apartment,1815,3,2,2,0,2,20,1,Fully Furnished,North,1,1,1,1,1,12100000
+Hyder Nagar,Apartment,1548,3,2,2,0,5,7,1,Fully Furnished,North-East,1,1,1,1,1,12200000
+Chandanagar,Apartment,2020,3,2,2,0,8,10,1,Fully Furnished,North-East,1,1,1,1,1,13500000
+Kukatpally,Apartment,1382,2,1,2,0,1,12,1,Fully Furnished,South,1,1,1,1,1,10500000
+Bowenpally,Apartment,875,1,1,1,0,17,20,1,Semi-Furnished,North,0,0,1,1,1,5475000
+Old Bowenpally,Apartment,1800,3,2,2,0,13,20,1,Fully Furnished,South,1,1,1,1,1,10900000
+Nizampet,Apartment,1375,3,2,2,4,6,15,1,Semi-Furnished,North,1,0,1,1,1,6875000
+Nizampet,Apartment,1185,2,1,2,4,3,15,1,Semi-Furnished,North-East,0,0,1,1,1,5925000
+Nizampet,Apartment,1120,2,1,2,4,6,15,1,Semi-Furnished,West,1,0,1,1,1,5600000
+Nizampet,Apartment,1050,2,1,2,4,10,15,1,Semi-Furnished,North-West,1,0,1,1,1,5250000
+Nizampet,Apartment,1420,3,2,2,4,7,20,1,Semi-Furnished,North-East,1,0,1,1,1,7100000
+Nizampet,Apartment,1015,2,1,2,4,2,12,1,Semi-Furnished,South,1,0,1,1,1,5075000
+Peerzadiguda,Apartment,1370,3,2,2,0,10,12,1,Semi-Furnished,East,0,0,1,1,1,6611000
+Peerzadiguda,Apartment,1110,2,1,2,0,8,15,1,Semi-Furnished,East,0,0,1,1,1,5356000
+Peerzadiguda,Apartment,1175,2,1,2,0,1,7,1,Semi-Furnished,North-East,0,0,1,1,1,5670000
+Peerzadiguda,Apartment,1375,3,2,2,0,3,15,1,Semi-Furnished,East,0,0,1,1,1,6634999
+Peerzadiguda,Apartment,1385,3,2,2,0,9,12,1,Semi-Furnished,North-East,1,0,1,1,1,6684000
+Peerzadiguda,Apartment,1249,2,1,2,0,1,12,1,Semi-Furnished,North,1,0,1,1,1,6027000
+Peerzadiguda,Apartment,1360,3,2,2,0,1,7,1,Semi-Furnished,West,1,0,1,1,1,6563000
+Peerzadiguda,Apartment,1339,3,2,2,0,6,10,1,Semi-Furnished,North-East,0,0,1,1,1,6462000
+Peerzadiguda,Apartment,1407,3,2,2,0,13,20,1,Semi-Furnished,North,1,0,1,1,1,6790000
+Peerzadiguda,Apartment,1218,2,1,2,0,15,24,1,Semi-Furnished,North,0,0,1,1,1,5878000
+Peerzadiguda,Apartment,1351,3,2,2,0,11,20,1,Semi-Furnished,North,0,0,1,1,1,6519000
+Peerzadiguda,Apartment,1260,3,2,2,0,4,20,1,Semi-Furnished,West,0,0,1,1,1,6080000
+Peerzadiguda,Apartment,1190,2,1,2,0,4,12,1,Semi-Furnished,South,1,0,1,1,1,5742000
+Peerzadiguda,Apartment,1595,3,2,2,0,1,7,1,Semi-Furnished,East,0,0,1,1,1,7697000
+Peerzadiguda,Apartment,1594,3,2,2,0,1,10,1,Semi-Furnished,North-East,1,0,1,1,1,7692000
+Peerzadiguda,Apartment,1136,2,1,2,0,6,15,1,Semi-Furnished,North-East,1,0,1,1,1,5482000
+Kothapet,Apartment,1475,3,2,2,4,7,12,1,Semi-Furnished,West,1,0,1,1,1,7500000
+Habsiguda,Apartment,1750,3,2,2,4,4,5,1,Fully Furnished,South,1,1,1,1,1,13900000
+Nanakramguda,Apartment,3010,3,2,2,0,16,24,1,Fully Furnished,East,1,1,1,1,1,28200000
+Nanakramguda,Apartment,2565,3,2,2,0,12,20,1,Fully Furnished,North,1,1,1,1,1,24100000
+Kukatpally,Apartment,1425,3,2,2,4,5,7,1,Fully Furnished,East,1,1,1,1,1,10900000
+Kukatpally,Apartment,1300,2,1,2,4,4,10,1,Fully Furnished,East,1,1,1,1,1,10000000
+Kukatpally,Apartment,1235,2,1,2,4,10,12,1,Fully Furnished,East,1,1,1,1,1,9509000
+Kukatpally,Apartment,1600,3,2,2,4,5,10,1,Fully Furnished,North-West,1,1,1,1,1,12300000
+Kukatpally,Apartment,1500,3,2,2,4,22,24,1,Fully Furnished,North-West,1,1,1,1,1,11500000
+Kukatpally,Apartment,1200,2,1,2,4,1,5,1,Fully Furnished,North,1,1,1,1,1,9240000
+Narsingi,Apartment,2020,3,2,2,0,4,10,1,Fully Furnished,North-East,1,1,1,1,1,21500000
+Kondapur,Apartment,2080,3,2,2,4,13,15,1,Fully Furnished,South,1,1,1,1,1,20800000
+Bachupally,Apartment,1555,3,2,2,4,3,7,1,Fully Furnished,North,1,1,1,1,1,8500000
+Medchal,Villa,4620,4,3,2,4,0,2,2,Fully Furnished,East,1,1,1,1,0,55300000
+Ghatkesar,Villa,1950,3,2,2,0,1,2,2,Fully Furnished,South,1,1,1,1,0,11800000
+Bachupally,Apartment,1100,2,1,2,0,9,15,1,Semi-Furnished,South,1,0,1,1,1,5390000
+Bachupally,Apartment,1000,2,1,2,0,8,12,1,Semi-Furnished,North,1,0,1,1,1,4900000
+Mallampet,Apartment,1350,2,1,2,0,13,20,1,Semi-Furnished,South,1,0,1,1,1,7155000
+Chandanagar,Apartment,3170,3,2,2,0,8,10,1,Fully Furnished,North,1,1,1,1,1,22800000
+Chandanagar,Apartment,2518,3,2,2,0,1,12,1,Fully Furnished,South,1,1,1,1,1,18100000
+Kukatpally,Apartment,1050,2,1,2,4,1,12,1,Semi-Furnished,North-East,0,0,1,1,1,6800000
+Kukatpally,Apartment,1050,2,1,2,4,10,12,1,Semi-Furnished,West,1,0,1,1,1,7000000
+Kukatpally,Apartment,1050,2,1,2,4,6,12,1,Semi-Furnished,South,1,0,1,1,1,6900000
+Kukatpally,Apartment,1350,3,2,2,4,17,20,1,Semi-Furnished,West,1,0,1,1,1,7800000
+Kukatpally,Apartment,1350,3,2,2,4,2,20,1,Fully Furnished,North,0,0,1,1,1,8000000
+Kukatpally,Apartment,1350,3,2,2,4,3,5,1,Semi-Furnished,South,0,0,1,1,1,7800000
+Kukatpally,Apartment,1350,3,2,2,4,7,10,1,Fully Furnished,East,1,0,1,1,1,8000000
+Bowenpally,Apartment,1800,3,2,2,0,17,20,1,Fully Furnished,North,1,1,1,1,1,10400000
+Ameenpur,Apartment,1150,2,1,2,4,5,12,1,Semi-Furnished,East,0,0,1,1,1,5820000
+Bowenpally,Apartment,1640,3,2,2,0,21,24,1,Fully Furnished,North,1,1,1,1,1,9512000
+Kondapur,Apartment,1290,2,1,2,4,5,12,1,Fully Furnished,West,1,1,1,1,1,15500000
+Nanakramguda,Apartment,1432,3,2,2,0,10,20,1,Fully Furnished,South,1,1,1,1,1,12400000
+Peerzadiguda,Apartment,1615,3,2,2,0,5,12,1,Fully Furnished,North,1,1,1,1,1,9528000
+Peerzadiguda,Apartment,1500,3,2,2,0,1,12,1,Fully Furnished,East,1,1,1,1,1,8850000
+Adibatla,Apartment,1161,2,1,2,0,13,24,1,Semi-Furnished,North-East,0,0,1,1,1,4992000
+Ameenpur,Independent Floor,2300,2,1,2,4,1,3,0,Fully Furnished,North-East,1,1,1,1,0,16000000
+Ameenpur,Apartment,1580,3,2,2,0,8,20,1,Semi-Furnished,North-West,1,0,1,1,1,7111000
+Ameenpur,Apartment,1390,3,2,2,4,12,15,1,Semi-Furnished,South,0,0,1,1,1,6533000
+Nanakramguda,Apartment,2664,4,3,2,0,7,10,1,Fully Furnished,South,1,1,1,1,1,20900000
+Nanakramguda,Apartment,1307,2,1,2,0,2,15,1,Fully Furnished,East,1,1,1,1,1,10200000
+Nanakramguda,Apartment,1382,2,1,2,0,3,12,1,Fully Furnished,West,1,1,1,1,1,10800000
+Nanakramguda,Apartment,2644,4,3,2,0,1,12,1,Fully Furnished,West,1,1,1,1,1,20700000
+Nanakramguda,Apartment,1424,2,1,2,0,5,12,1,Fully Furnished,South,1,1,1,1,1,11100000
+Nanakramguda,Apartment,1290,2,1,2,0,3,7,1,Fully Furnished,North-East,1,1,1,1,1,10100000
+Nanakramguda,Apartment,1886,3,2,2,0,7,12,1,Fully Furnished,East,1,1,1,1,1,14800000
+Nanakramguda,Apartment,1487,2,1,2,0,5,15,1,Fully Furnished,North-East,1,1,1,1,1,11600000
+Nanakramguda,Apartment,1364,2,1,2,0,11,15,1,Fully Furnished,South,1,1,1,1,1,10700000
+Nanakramguda,Apartment,2000,3,2,2,0,6,10,1,Fully Furnished,North,1,1,1,1,1,15700000
+Nanakramguda,Apartment,1273,2,1,2,0,2,15,1,Fully Furnished,East,1,1,1,1,1,10000000
+Gachibowli,Apartment,798,2,1,2,0,2,12,1,Semi-Furnished,East,0,0,1,1,1,7820000
+Kokapet,Apartment,2130,3,2,2,4,11,15,1,Fully Furnished,North,1,1,1,1,1,18600000
+Kokapet,Apartment,1840,3,2,2,4,2,7,1,Fully Furnished,North,1,1,1,1,1,16100000
+Kokapet,Apartment,1960,3,2,2,4,6,10,1,Fully Furnished,East,1,1,1,1,1,17100000
+Kokapet,Apartment,2575,3,2,2,4,7,12,1,Fully Furnished,North,1,1,1,1,1,22500000
+Kokapet,Apartment,1330,2,1,2,4,1,12,1,Fully Furnished,North-East,1,1,1,1,1,11600000
+Kokapet,Apartment,1555,3,2,2,4,4,20,1,Fully Furnished,North-East,1,1,1,1,1,13600000
+Kokapet,Apartment,1960,3,2,2,4,1,12,1,Fully Furnished,North-East,1,1,1,1,1,17100000
+Kokapet,Apartment,1840,3,2,2,4,4,12,1,Fully Furnished,West,1,1,1,1,1,16100000
+Kokapet,Apartment,1330,2,1,2,4,2,12,1,Fully Furnished,West,1,1,1,1,1,11600000
+Kokapet,Apartment,1330,2,1,2,4,2,15,1,Fully Furnished,South,1,1,1,1,1,11600000
+Kokapet,Apartment,1330,2,1,2,4,3,10,1,Fully Furnished,West,1,1,1,1,1,11600000
+Kokapet,Apartment,1960,3,2,2,4,7,12,1,Fully Furnished,East,1,1,1,1,1,17100000
+Kokapet,Apartment,1840,3,2,2,4,3,7,1,Fully Furnished,East,1,1,1,1,1,16100000
+Kokapet,Apartment,2575,3,2,2,4,4,7,1,Fully Furnished,West,1,1,1,1,1,22500000
+Kokapet,Apartment,1555,3,2,2,4,8,10,1,Fully Furnished,East,1,1,1,1,1,13600000
+Kokapet,Apartment,1960,3,2,2,4,3,12,1,Fully Furnished,West,1,1,1,1,1,17100000
+Kokapet,Apartment,1960,3,2,2,4,2,12,1,Fully Furnished,East,1,1,1,1,1,17100000
+Kokapet,Apartment,1555,3,2,2,4,3,15,1,Fully Furnished,East,1,1,1,1,1,13600000
+Kokapet,Apartment,1330,2,1,2,4,1,5,1,Fully Furnished,North,1,1,1,1,1,11600000
+Gandipet,Apartment,2400,3,2,2,4,6,10,1,Fully Furnished,North,1,1,1,1,1,20400000
+Gandipet,Apartment,1395,2,1,2,4,1,7,1,Fully Furnished,North,1,1,1,1,1,11800000
+Gandipet,Apartment,2540,3,2,2,0,10,12,1,Fully Furnished,East,1,1,1,1,1,22800000
+Bachupally,Apartment,1280,2,1,2,0,17,20,1,Semi-Furnished,East,1,0,1,1,1,6398000
+Bachupally,Apartment,1655,3,2,2,0,11,12,1,Fully Furnished,North-West,1,1,1,1,1,8273000
+Bachupally,Apartment,1700,3,2,2,0,1,5,1,Fully Furnished,North,1,1,1,1,1,8498000
+Bachupally,Apartment,1100,2,1,2,0,6,12,1,Semi-Furnished,North-West,1,0,1,1,1,5498000
+Tellapur,Apartment,1375,2,1,2,0,6,7,1,Fully Furnished,North-East,1,1,1,1,1,8662000
+Tellapur,Apartment,1375,3,2,2,0,1,10,1,Fully Furnished,West,1,1,1,1,1,8662000
+Tellapur,Apartment,1845,3,2,2,0,1,10,1,Fully Furnished,East,1,1,1,1,1,11600000
+Tellapur,Apartment,1700,3,2,2,0,3,7,1,Fully Furnished,East,1,1,1,1,1,10700000
+Tellapur,Apartment,2205,3,2,2,0,8,10,1,Fully Furnished,East,1,1,1,1,1,13800000
+Narsingi,Apartment,2150,3,2,2,0,10,12,1,Fully Furnished,South,1,1,1,1,1,16100000
+Narsingi,Apartment,1310,2,1,2,0,14,15,1,Fully Furnished,East,1,1,1,1,1,9825000
+Narsingi,Apartment,3330,4,3,2,0,10,12,1,Fully Furnished,West,1,1,1,1,1,24900000
+Narsingi,Apartment,2550,3,2,2,0,4,5,1,Fully Furnished,West,1,1,1,1,1,19100000
+Narsingi,Apartment,1250,2,1,2,0,3,7,1,Fully Furnished,North-East,1,1,1,1,1,9375000
+Narsingi,Apartment,2170,3,2,2,0,14,20,1,Fully Furnished,East,1,1,1,1,1,16200000
+Narsingi,Apartment,2020,3,2,2,0,12,15,1,Fully Furnished,East,1,1,1,1,1,15100000
+Narsingi,Apartment,1760,3,2,2,0,2,7,1,Fully Furnished,East,1,1,1,1,1,13200000
+Narsingi,Apartment,2220,3,2,2,0,3,12,1,Fully Furnished,North-East,1,1,1,1,1,16600000
+Narsingi,Apartment,2100,3,2,2,0,9,10,1,Fully Furnished,North,1,1,1,1,1,15700000
+Narsingi,Apartment,1610,3,2,2,0,12,15,1,Fully Furnished,East,1,1,1,1,1,12000000
+Panchavati Colony,Apartment,1550,3,2,2,4,1,5,1,Semi-Furnished,South,1,0,1,1,1,5500000
+Habsiguda,Apartment,1350,3,2,2,4,12,20,1,Semi-Furnished,North-East,1,0,1,1,1,4500000
+Panchavati Colony,Apartment,1000,2,1,2,4,4,10,1,Semi-Furnished,West,0,0,1,1,1,4500000
+Kukatpally,Apartment,2300,3,2,2,0,10,12,1,Fully Furnished,South,1,1,1,1,1,19000000
+Kondapur,Apartment,2080,3,2,2,0,13,15,1,Fully Furnished,East,1,1,1,1,1,20100000
+Suchitra,Apartment,1220,2,1,2,4,4,12,1,Semi-Furnished,East,0,0,1,1,1,6500000
+Dulapally,Apartment,1175,2,1,2,0,2,12,1,Semi-Furnished,East,1,0,1,1,1,5052000
+Dulapally,Apartment,1150,2,1,2,0,8,12,1,Semi-Furnished,West,0,0,1,1,1,4945000
+Dulapally,Apartment,1500,3,2,2,0,3,12,1,Semi-Furnished,South,0,0,1,1,1,6450000
+Kompally,Apartment,1310,2,1,2,0,5,12,1,Semi-Furnished,North-West,1,0,1,1,1,5502000
+Kompally,Apartment,1745,3,2,2,0,10,12,1,Semi-Furnished,North,0,0,1,1,1,7329000
+Kompally,Apartment,1610,3,2,2,0,11,15,1,Semi-Furnished,North-East,0,0,1,1,1,6762000
+Bachupally,Apartment,1510,3,2,2,0,6,12,1,Fully Furnished,North,1,1,1,1,1,8605000
+Bachupally,Apartment,1616,3,2,2,0,1,15,1,Fully Furnished,East,1,1,1,1,1,9289000
+Bachupally,Apartment,1258,2,1,2,0,1,5,1,Semi-Furnished,South,0,0,1,1,1,7169000
+Aminpur,Apartment,1530,3,2,2,0,7,10,1,Semi-Furnished,North-West,1,0,1,1,1,7650000
+Aminpur,Apartment,1300,2,1,2,0,11,12,1,Semi-Furnished,East,1,0,1,1,1,6500000
+Bachupally,Apartment,1803,3,2,2,0,6,7,1,Fully Furnished,South,1,1,1,1,1,10200000
+Aminpur,Apartment,1530,3,2,2,0,7,10,1,Semi-Furnished,North,1,0,1,1,1,7000000
+Ramachandra Puram,Apartment,1100,2,1,2,0,3,20,1,Semi-Furnished,North,0,0,1,1,1,5650000
+Aminpur,Apartment,1100,2,1,2,0,8,12,1,Semi-Furnished,West,0,0,1,1,1,5550000
+Aminpur,Apartment,1250,2,1,2,0,8,15,1,Semi-Furnished,West,1,0,1,1,1,5670000
+Aminpur,Apartment,1120,2,1,2,0,2,7,1,Semi-Furnished,East,0,0,1,1,1,5400000
+Ramachandra Puram,Apartment,1250,2,1,2,4,11,12,1,Semi-Furnished,East,1,0,1,1,1,5470000
+Aminpur,Independent House,2500,4,3,2,0,1,2,1,Fully Furnished,East,0,0,1,1,0,16000000
+Ameenpur,Apartment,1505,3,2,2,0,17,20,1,Semi-Furnished,North,1,0,1,1,1,7300000
+Ameenpur,Apartment,1490,3,2,2,0,6,12,1,Semi-Furnished,East,1,0,1,1,1,7020000
+Aminpur,Apartment,1250,2,1,2,0,9,15,1,Semi-Furnished,North-East,1,0,1,1,1,5800000
+Aminpur,Independent House,2200,4,3,2,0,1,2,1,Fully Furnished,North,0,0,1,1,0,17000000
+Aminpur,Apartment,1210,2,1,2,0,10,12,1,Semi-Furnished,South,1,0,1,1,1,5700000
+Peerzadiguda,Independent House,1200,4,3,2,4,0,1,1,Fully Furnished,North,0,0,1,1,0,15000000
+Peerzadiguda,Independent House,740,3,2,2,4,1,2,1,Fully Furnished,North-West,1,1,1,1,0,9250000
+Manikonda,Apartment,1667,3,2,2,4,6,10,1,Fully Furnished,East,1,1,1,1,1,11600000
+Manikonda,Apartment,1227,2,1,2,4,4,15,1,Fully Furnished,East,1,1,1,1,1,8587000
+Neknampur,Apartment,1667,3,2,2,4,1,12,1,Fully Furnished,South,1,1,1,1,1,11600000
+Manchirevula,Apartment,1250,2,1,2,4,1,12,1,Fully Furnished,East,1,1,1,1,1,10000000
+Manchirevula,Apartment,1250,2,1,2,4,6,15,1,Fully Furnished,East,1,1,1,1,1,10000000
+Manchirevula,Apartment,1250,2,1,2,4,11,12,1,Fully Furnished,West,1,1,1,1,1,10000000
+Manchirevula,Apartment,1250,2,1,2,4,13,20,1,Fully Furnished,East,1,1,1,1,1,10000000
+Narsingi,Apartment,1325,2,1,2,4,1,12,1,Fully Furnished,North,1,1,1,1,1,10600000
+Narsingi,Apartment,1635,3,2,2,4,8,12,1,Fully Furnished,East,1,1,1,1,1,13500000
+Manikonda,Apartment,1217,2,1,2,4,2,7,1,Fully Furnished,North-East,1,1,1,1,1,8517000
+Manikonda,Apartment,1321,2,1,2,4,13,24,1,Fully Furnished,South,1,1,1,1,1,9245000
+Neknampur,Apartment,1321,2,1,2,4,4,15,1,Fully Furnished,South,1,1,1,1,1,9245000
+Narsingi,Apartment,1325,2,1,2,4,5,10,1,Fully Furnished,North,1,1,1,1,1,10600000
+Narsingi,Apartment,1635,3,2,2,4,1,5,1,Fully Furnished,North-East,1,1,1,1,1,13500000
+Gachibowli,Apartment,1492,3,2,2,4,8,12,1,Fully Furnished,South,1,1,1,1,1,18000000
+Bhanur,Villa,2520,4,3,2,0,1,2,2,Fully Furnished,South,1,1,1,1,0,17600000
+Whitefield,Villa,3200,4,3,2,4,0,2,2,Fully Furnished,North,1,1,1,1,0,75000000
+Kokapet,Apartment,4037,4,3,2,0,5,7,1,Fully Furnished,East,1,1,1,1,1,40800000
+Kokapet,Apartment,3465,4,3,2,0,12,20,1,Fully Furnished,West,1,1,1,1,1,31100000
+Kokapet,Apartment,3259,4,3,2,0,5,12,1,Fully Furnished,South,1,1,1,1,1,29300000
+Kokapet,Apartment,3775,4,3,2,0,9,15,1,Fully Furnished,East,1,1,1,1,1,33900000
+Kokapet,Apartment,2640,3,2,2,0,3,10,1,Fully Furnished,South,1,1,1,1,1,23700000
+Kokapet,Apartment,2639,3,2,2,0,6,7,1,Fully Furnished,East,1,1,1,1,1,23700000
+Kokapet,Apartment,3755,4,3,2,0,1,5,1,Fully Furnished,East,1,1,1,1,1,33700000
+Meerpet,Apartment,1680,3,2,2,4,1,7,1,Semi-Furnished,East,1,0,1,1,1,7500000
+Muthangi,Villa,2269,3,2,2,0,0,2,2,Fully Furnished,East,1,1,1,1,0,11000000
+Chandanagar,Apartment,1700,3,2,2,4,3,15,1,Fully Furnished,North,1,1,1,1,1,16000000
+Patancheru,Villa,3125,3,2,2,0,0,1,2,Fully Furnished,East,1,1,1,1,0,15000000
+Patancheru,Apartment,1900,3,2,2,0,14,20,1,Fully Furnished,North-West,1,1,1,1,1,9688000
+Patancheru,Apartment,1450,3,2,2,0,4,12,1,Semi-Furnished,North,1,0,1,1,1,7393000
+Patancheru,Apartment,1750,3,2,2,0,9,10,1,Fully Furnished,East,1,1,1,1,1,8923000
+Patancheru,Apartment,1655,3,2,2,0,8,15,1,Fully Furnished,South,1,1,1,1,1,8438000
+Patancheru,Apartment,1300,2,1,2,0,3,12,1,Semi-Furnished,North-East,0,0,1,1,1,6628000
+Bachupally,Villa,2675,4,3,2,4,0,2,2,Fully Furnished,South,1,1,1,1,0,16000000
+Bachupally,Villa,1763,3,2,2,4,0,1,2,Fully Furnished,East,1,1,1,1,0,10500000
+Nizampet,Apartment,1220,2,1,2,4,1,12,1,Semi-Furnished,North-East,0,0,1,1,1,6706999
+Manchirevula,Apartment,1290,2,1,2,4,1,10,1,Fully Furnished,South,1,1,1,1,1,9675000
+Manchirevula,Apartment,2063,3,2,2,4,2,12,1,Fully Furnished,East,1,1,1,1,1,15400000
+Manchirevula,Apartment,2063,3,2,2,4,8,12,1,Fully Furnished,East,1,1,1,1,1,15400000
+Manchirevula,Apartment,1290,2,1,2,4,7,10,1,Fully Furnished,East,1,1,1,1,1,9675000
+Manchirevula,Apartment,1290,2,1,2,4,6,7,1,Fully Furnished,North,1,1,1,1,1,9159000
+Bachupally,Apartment,1200,2,1,2,4,3,10,1,Semi-Furnished,East,0,0,1,1,1,6600000
+Kukatpally,Apartment,1435,3,2,2,4,4,10,1,Semi-Furnished,West,1,0,1,1,1,7800000
+Chandanagar,Apartment,1150,2,1,2,4,13,15,1,Semi-Furnished,North,1,0,1,1,1,6300000
+Chandanagar,Apartment,1150,2,1,2,4,7,12,1,Semi-Furnished,North-East,0,0,1,1,1,6300000
+Chandanagar,Apartment,1725,3,2,2,4,6,12,1,Fully Furnished,West,1,1,1,1,1,8975000
+Chandanagar,Apartment,1725,3,2,2,4,13,15,1,Fully Furnished,East,1,1,1,1,1,8975000
+Chandanagar,Apartment,1725,3,2,2,4,7,10,1,Fully Furnished,North,1,1,1,1,1,8975000
+Chandanagar,Apartment,1150,2,1,2,4,4,7,1,Semi-Furnished,North,1,0,1,1,1,6300000
+Chandanagar,Apartment,1150,2,1,2,4,10,12,1,Semi-Furnished,West,1,0,1,1,1,6300000
+Chandanagar,Apartment,1725,3,2,2,4,10,12,1,Fully Furnished,North-East,1,1,1,1,1,8975000
+Chandanagar,Apartment,1150,2,1,2,4,6,10,1,Semi-Furnished,North-East,0,0,1,1,1,6300000
+Chandanagar,Apartment,1725,3,2,2,4,4,12,1,Fully Furnished,East,1,1,1,1,1,8975000
+Chandanagar,Apartment,1150,2,1,2,4,4,12,1,Semi-Furnished,East,0,0,1,1,1,6300000
+Chandanagar,Apartment,1725,3,2,2,4,8,12,1,Fully Furnished,North,1,1,1,1,1,8975000
+Chandanagar,Apartment,1725,3,2,2,4,4,7,1,Fully Furnished,South,1,1,1,1,1,8975000
+Chandanagar,Apartment,1150,2,1,2,4,2,15,1,Semi-Furnished,East,0,0,1,1,1,6300000
+Chandanagar,Apartment,1150,2,1,2,4,3,5,1,Semi-Furnished,South,0,0,1,1,1,6300000
+Chandanagar,Apartment,1725,3,2,2,4,4,15,1,Fully Furnished,North,1,1,1,1,1,8975000
+Chandanagar,Apartment,1150,2,1,2,4,11,15,1,Semi-Furnished,East,0,0,1,1,1,6300000
+Chandanagar,Apartment,1725,3,2,2,4,8,10,1,Fully Furnished,South,1,1,1,1,1,8975000
+Kukatpally,Apartment,2085,3,2,2,4,8,12,1,Fully Furnished,North-West,1,1,1,1,1,13700000
+Kollur,Apartment,1440,2,1,2,0,10,12,1,Fully Furnished,East,1,1,1,1,1,8500000
+Tellapur,Apartment,1935,3,2,2,0,12,20,1,Fully Furnished,West,1,1,1,1,1,12000000
+Kondapur,Apartment,2548,3,2,2,0,8,20,1,Fully Furnished,North-East,1,1,1,1,1,23600000
+Kondapur,Apartment,2566,3,2,2,0,9,12,1,Fully Furnished,North-West,1,1,1,1,1,23800000
+Kondapur,Apartment,2567,3,2,2,0,8,10,1,Fully Furnished,West,1,1,1,1,1,23800000
+Kondapur,Apartment,1956,3,2,2,0,12,20,1,Fully Furnished,South,1,1,1,1,1,18100000
+Kondapur,Apartment,1433,2,1,2,0,4,7,1,Fully Furnished,North,1,1,1,1,1,13300000
+Kondapur,Apartment,1367,2,1,2,0,5,15,1,Fully Furnished,North,1,1,1,1,1,12700000
+Kondapur,Apartment,2534,3,2,2,0,10,15,1,Fully Furnished,East,1,1,1,1,1,23500000
+Kondapur,Apartment,1933,3,2,2,0,10,15,1,Fully Furnished,East,1,1,1,1,1,17900000
+Kondapur,Apartment,2097,3,2,2,0,3,7,1,Fully Furnished,East,1,1,1,1,1,19500000
+Kondapur,Apartment,2105,3,2,2,0,8,15,1,Fully Furnished,North,1,1,1,1,1,19500000
+Kondapur,Apartment,1457,2,1,2,0,11,20,1,Fully Furnished,East,1,1,1,1,1,13500000
+Kondapur,Apartment,1390,2,1,2,0,5,12,1,Fully Furnished,North-East,1,1,1,1,1,12900000
+Kondapur,Apartment,1921,3,2,2,0,14,24,1,Fully Furnished,East,1,1,1,1,1,17800000
+Kondapur,Apartment,2597,3,2,2,0,7,10,1,Fully Furnished,East,1,1,1,1,1,24100000
+Kondapur,Apartment,1931,3,2,2,0,19,20,1,Fully Furnished,North,1,1,1,1,1,17900000
+Kondapur,Apartment,2300,3,2,2,0,5,12,1,Fully Furnished,South,1,1,1,1,1,19500000
+Kondapur,Apartment,1515,2,1,2,0,5,12,1,Fully Furnished,East,1,1,1,1,1,12800000
+Mettuguda,Independent House,850,1,1,1,4,0,2,1,Fully Furnished,West,0,1,1,1,0,8700000
+Ameerpet,Independent House,3250,5,4,2,4,1,2,1,Fully Furnished,North-West,1,1,1,1,0,26000000
+Puppalaguda,Apartment,4724,3,2,2,0,1,5,1,Fully Furnished,East,1,1,1,1,1,40200000
+Trimalgherry,Apartment,1995,3,2,2,4,4,7,1,Fully Furnished,West,1,1,1,1,1,11400000
+Begumpet,Independent House,1377,3,2,2,4,0,2,1,Fully Furnished,North-East,1,1,1,1,0,69700000
+Adibatla,Villa,2300,3,2,2,0,0,2,2,Fully Furnished,East,1,1,1,1,0,14500000
+Puppalaguda,Apartment,6500,4,3,2,0,2,10,1,Fully Furnished,West,1,1,1,1,1,55300000
+Puppalaguda,Apartment,4803,3,2,2,0,11,12,1,Fully Furnished,West,1,1,1,1,1,40800000
+Sultanpur,Independent House,2780,3,2,2,0,0,2,1,Fully Furnished,West,1,1,1,1,0,20800000
+Sultanpur,Independent House,1960,3,2,2,0,0,1,1,Fully Furnished,East,0,1,1,1,0,14700000
+Kollur,Apartment,1440,2,1,2,0,3,12,1,Fully Furnished,West,1,1,1,1,1,8500000
+Hafeezpet,Apartment,1250,2,1,2,0,9,10,1,Fully Furnished,West,1,1,1,1,1,10000000
+Bandlaguda Jagir,Apartment,1804,3,2,2,0,6,12,1,Fully Furnished,North-East,1,1,1,1,1,14000000
+Moosapet,Apartment,1425,2,1,2,0,1,5,1,Fully Furnished,North,1,1,1,1,1,10700000
+Moosapet,Apartment,1660,3,2,2,0,11,12,1,Fully Furnished,East,1,1,1,1,1,13000000
+Kompally,Villa,4338,3,2,2,0,1,3,2,Fully Furnished,North-West,1,1,1,1,0,53000000
+Ramachandrapuram,Independent House,2310,3,2,2,4,1,3,1,Fully Furnished,East,1,1,1,1,0,21000000
+Adibatla,Villa,1972,3,2,2,0,0,1,2,Fully Furnished,East,1,1,1,1,0,10800000
+Adibatla,Villa,2300,3,2,2,0,0,1,2,Fully Furnished,South,1,1,1,1,0,12600000
+Adibatla,Villa,2767,3,2,2,0,1,2,2,Fully Furnished,North,1,1,1,1,0,15200000
+Adibatla,Villa,2587,3,2,2,0,0,2,2,Fully Furnished,West,1,1,1,1,0,14200000
+Kokapet,Apartment,3465,4,3,2,0,8,12,1,Fully Furnished,East,1,1,1,1,1,31100000
+Kokapet,Apartment,3260,4,3,2,0,1,12,1,Fully Furnished,North,1,1,1,1,1,29300000
+Kokapet,Apartment,3775,4,3,2,0,7,10,1,Fully Furnished,East,1,1,1,1,1,33900000
+Kokapet,Apartment,2640,3,2,2,0,8,12,1,Fully Furnished,North-East,1,1,1,1,1,23700000
+Kokapet,Apartment,3755,4,3,2,0,17,20,1,Fully Furnished,East,1,1,1,1,1,33700000
+Gandipet,Apartment,2040,3,2,2,0,2,5,1,Fully Furnished,North-East,1,1,1,1,1,18300000
+Kokapet,Apartment,4037,4,3,2,0,19,20,1,Fully Furnished,North,1,1,1,1,1,40800000
+Gandipet,Apartment,2540,3,2,2,0,6,7,1,Fully Furnished,North-East,1,1,1,1,1,22800000
+Gandipet,Apartment,1765,3,2,2,0,2,15,1,Fully Furnished,South,1,1,1,1,1,15800000
+Kukatpally,Apartment,1540,3,2,2,0,1,12,1,Fully Furnished,South,1,1,1,1,1,10900000
+Kukatpally,Apartment,1390,3,2,2,0,6,12,1,Fully Furnished,West,1,1,1,1,1,9868000
+Kukatpally,Apartment,1295,2,1,2,0,4,15,1,Fully Furnished,East,1,1,1,1,1,9194000
+Nizampet,Apartment,1551,3,2,2,4,7,10,1,Fully Furnished,East,1,1,1,1,1,9303000
+Kukatpally,Apartment,1395,3,2,2,0,10,20,1,Fully Furnished,North-East,1,1,1,1,1,9904000
+Nizampet,Apartment,1854,3,2,2,4,2,10,1,Fully Furnished,North-East,1,1,1,1,1,11100000
+Kompally,Apartment,1250,2,1,2,4,7,12,1,Semi-Furnished,West,1,0,1,1,1,5250000
+Kompally,Apartment,1156,2,1,2,4,18,24,1,Semi-Furnished,East,0,0,1,1,1,4855000
+Kompally,Apartment,1230,2,1,2,4,8,20,1,Semi-Furnished,West,0,0,1,1,1,5166000
+Kompally,Apartment,1165,2,1,2,4,3,5,1,Semi-Furnished,North,1,0,1,1,1,4893000
+Banjara Hills,Independent House,1950,4,3,2,4,0,2,1,Fully Furnished,West,0,1,1,1,0,26000000
+West Marredpally,Apartment,1050,2,1,2,4,8,10,1,Semi-Furnished,South,0,0,1,1,1,7700000
+Velmala,Apartment,1835,3,2,2,0,5,7,1,Fully Furnished,North-West,1,1,1,1,1,10800000
+Velmala,Apartment,2610,3,2,2,0,1,10,1,Fully Furnished,East,1,1,1,1,1,15300000
+Tellapur,Apartment,1965,3,2,2,0,8,12,1,Fully Furnished,West,1,1,1,1,1,12100000
+Velmala,Apartment,2300,3,2,2,0,6,7,1,Fully Furnished,West,1,1,1,1,1,13500000
+Tellapur,Apartment,1495,2,1,2,0,14,15,1,Fully Furnished,West,1,1,1,1,1,9267000
+Tellapur,Apartment,2035,3,2,2,0,4,20,1,Fully Furnished,East,1,1,1,1,1,12600000
+Velmala,Apartment,1350,2,1,2,0,14,20,1,Semi-Furnished,East,0,0,1,1,1,7963000
+Tellapur,Apartment,1915,3,2,2,0,2,10,1,Fully Furnished,North-East,1,1,1,1,1,11800000
+Velmala,Apartment,2310,3,2,2,0,3,5,1,Fully Furnished,West,1,1,1,1,1,13600000
+Tellapur,Apartment,1865,3,2,2,0,5,15,1,Fully Furnished,North,1,1,1,1,1,11500000
+Velmala,Apartment,2110,3,2,2,0,1,5,1,Fully Furnished,North-East,1,1,1,1,1,12400000
+Velmala,Apartment,1715,3,2,2,0,18,20,1,Fully Furnished,South,1,1,1,1,1,10100000
+Velmala,Apartment,1325,2,1,2,0,15,20,1,Semi-Furnished,East,1,0,1,1,1,7816000
+Velmala,Apartment,2060,3,2,2,0,11,15,1,Fully Furnished,North,1,1,1,1,1,12100000
+Velmala,Apartment,1895,3,2,2,0,2,10,1,Fully Furnished,West,1,1,1,1,1,11100000
+Attapur,Apartment,1426,3,2,2,0,7,12,1,Fully Furnished,South,1,1,1,1,1,9411000
+Attapur,Apartment,2122,3,2,2,0,5,10,1,Fully Furnished,South,1,1,1,1,1,14000000
+Attapur,Apartment,1298,2,1,2,0,9,10,1,Fully Furnished,South,1,1,1,1,1,8566000
+Attapur,Apartment,2086,3,2,2,0,3,12,1,Fully Furnished,West,1,1,1,1,1,13700000
+Chandanagar,Apartment,1999,3,2,2,0,12,20,1,Fully Furnished,South,1,1,1,1,1,13600000
+Attapur,Apartment,2344,3,2,2,0,2,7,1,Fully Furnished,East,1,1,1,1,1,15400000
+Chandanagar,Apartment,1374,2,1,2,0,11,12,1,Fully Furnished,East,1,1,1,1,1,9410000
+Attapur,Apartment,2080,3,2,2,0,17,20,1,Fully Furnished,West,1,1,1,1,1,13700000
+Attapur,Apartment,1668,3,2,2,0,1,12,1,Fully Furnished,East,1,1,1,1,1,11000000
+Chandanagar,Apartment,1373,2,1,2,0,8,10,1,Fully Furnished,East,1,1,1,1,1,9403000
+Attapur,Apartment,2623,3,2,2,0,9,15,1,Fully Furnished,North-East,1,1,1,1,1,17300000
+Chandanagar,Apartment,1074,2,1,2,0,6,10,1,Semi-Furnished,North-West,1,0,1,1,1,7355000
+Chandanagar,Apartment,1654,3,2,2,0,14,15,1,Fully Furnished,West,1,1,1,1,1,11300000
+Chandanagar,Apartment,1363,2,1,2,0,13,24,1,Fully Furnished,East,1,1,1,1,1,9335000
+Attapur,Apartment,1540,3,2,2,0,5,15,1,Fully Furnished,East,1,1,1,1,1,10100000
+Attapur,Apartment,1272,2,1,2,0,2,5,1,Fully Furnished,East,1,1,1,1,1,8395000
+Attapur,Apartment,2367,3,2,2,0,10,12,1,Fully Furnished,East,1,1,1,1,1,15600000
+Attapur,Apartment,2361,3,2,2,0,6,12,1,Fully Furnished,North-East,1,1,1,1,1,15500000
+Attapur,Apartment,2096,3,2,2,0,5,7,1,Fully Furnished,East,1,1,1,1,1,13800000
+Kollur,Apartment,1950,3,2,2,0,10,15,1,Fully Furnished,West,1,1,1,1,1,13000000
+Kollur,Apartment,5000,4,3,2,0,5,15,1,Fully Furnished,East,1,1,1,1,1,33400000
+Kollur,Apartment,1820,3,2,2,0,1,5,1,Fully Furnished,North-East,1,1,1,1,1,12100000
+Kollur,Apartment,1430,2,1,2,0,6,10,1,Fully Furnished,South,1,1,1,1,1,9533000
+Kollur,Apartment,2600,4,3,2,0,2,15,1,Fully Furnished,North-West,1,1,1,1,1,17300000
+Kollur,Apartment,1280,2,1,2,0,9,15,1,Fully Furnished,South,1,1,1,1,1,8533000
+Kollur,Apartment,1260,2,1,2,0,10,12,1,Fully Furnished,West,1,1,1,1,1,8400000
+Kollur,Apartment,1790,3,2,2,0,14,20,1,Fully Furnished,East,1,1,1,1,1,11900000
+Kollur,Apartment,2070,3,2,2,0,4,5,1,Fully Furnished,South,1,1,1,1,1,13800000
+Kollur,Apartment,1400,2,1,2,0,1,24,1,Fully Furnished,West,1,1,1,1,1,9333000
+Gachibowli,Villa,5000,4,3,2,4,0,1,2,Fully Furnished,North,1,1,1,1,0,50000000
+Kondapur,Apartment,1413,2,1,2,0,10,15,1,Fully Furnished,East,1,1,1,1,1,13900000
+Kondapur,Apartment,1915,3,2,2,0,3,7,1,Fully Furnished,East,1,1,1,1,1,18800000
+Kondapur,Apartment,1496,3,2,2,0,4,10,1,Fully Furnished,North,1,1,1,1,1,14700000
+Kondapur,Apartment,1432,2,1,2,0,7,15,1,Fully Furnished,North,1,1,1,1,1,14100000
+Kondapur,Apartment,1798,3,2,2,0,6,15,1,Fully Furnished,South,1,1,1,1,1,17700000
+Kondapur,Apartment,1632,3,2,2,0,8,12,1,Fully Furnished,East,1,1,1,1,1,16100000
+Kondapur,Apartment,1297,2,1,2,0,5,20,1,Fully Furnished,North,1,1,1,1,1,12800000
+Kondapur,Apartment,1934,3,2,2,0,10,12,1,Fully Furnished,East,1,1,1,1,1,19000000
+Kondapur,Apartment,1613,3,2,2,0,4,5,1,Fully Furnished,East,1,1,1,1,1,15900000
+Puppalaguda,Apartment,3620,4,3,2,0,4,10,1,Fully Furnished,East,1,1,1,1,1,32500000
+Puppalaguda,Apartment,3605,4,3,2,0,6,7,1,Fully Furnished,East,1,1,1,1,1,32400000
+Kokapet,Apartment,8032,4,3,2,0,11,24,1,Fully Furnished,East,1,1,1,1,1,96300000
+Kokapet,Apartment,3450,3,2,2,0,2,10,1,Fully Furnished,North-East,1,1,1,1,1,41400000
+Kokapet,Apartment,3336,3,2,2,0,1,7,1,Fully Furnished,North,1,1,1,1,1,40000000
+Kokapet,Apartment,3592,3,2,2,0,1,12,1,Fully Furnished,South,1,1,1,1,1,43100000
+Kokapet,Apartment,3997,4,3,2,0,11,12,1,Fully Furnished,West,1,1,1,1,1,47900000
+Kokapet,Apartment,3614,3,2,2,0,9,12,1,Fully Furnished,West,1,1,1,1,1,43300000
+Nanakramguda,Apartment,3400,3,2,2,0,3,10,1,Fully Furnished,East,1,1,1,1,1,37400000
+Nanakramguda,Apartment,4555,4,3,2,0,4,7,1,Fully Furnished,East,1,1,1,1,1,50100000
+Nanakramguda,Apartment,2675,3,2,2,0,14,15,1,Fully Furnished,North-East,1,1,1,1,1,29400000
+Nanakramguda,Apartment,6858,4,3,2,0,4,5,1,Fully Furnished,North,1,1,1,1,1,75400000
+Nanakramguda,Apartment,2390,3,2,2,0,11,12,1,Fully Furnished,West,1,1,1,1,1,26200000
+Nanakramguda,Apartment,2130,3,2,2,0,17,20,1,Fully Furnished,South,1,1,1,1,1,23400000
+Nanakramguda,Apartment,5751,4,3,2,0,23,24,1,Fully Furnished,East,1,1,1,1,1,63200000
+Nanakramguda,Apartment,2880,3,2,2,0,8,12,1,Fully Furnished,North-West,1,1,1,1,1,31600000
+Nanakramguda,Apartment,5600,4,3,2,0,5,15,1,Fully Furnished,West,1,1,1,1,1,61600000
+Nanakramguda,Apartment,2355,3,2,2,0,5,15,1,Fully Furnished,West,1,1,1,1,1,25900000
+Nanakramguda,Apartment,2315,3,2,2,0,6,15,1,Fully Furnished,West,1,1,1,1,1,25400000
+Nanakramguda,Apartment,6723,4,3,2,0,18,24,1,Fully Furnished,East,1,1,1,1,1,73900000
+Narsingi,Apartment,2035,3,2,2,0,11,12,1,Fully Furnished,East,1,1,1,1,1,12800000
+Kokapet,Apartment,6779,4,3,2,0,10,15,1,Fully Furnished,North-East,1,1,1,1,1,108400000
+Kokapet,Apartment,6836,4,3,2,0,5,10,1,Fully Furnished,East,1,1,1,1,1,109300000
+Kokapet,Apartment,3333,4,3,2,0,1,5,1,Fully Furnished,East,1,1,1,1,1,34900000
+Kokapet,Apartment,2552,3,2,2,0,3,15,1,Fully Furnished,East,1,1,1,1,1,26700000
+Kokapet,Apartment,3030,4,3,2,0,18,20,1,Fully Furnished,North,1,1,1,1,1,31800000
+Kokapet,Apartment,3939,4,3,2,0,2,12,1,Fully Furnished,North,1,1,1,1,1,41300000
+Khajiguda,Apartment,9599,5,4,2,0,4,15,1,Fully Furnished,East,1,1,1,1,1,153500000
+Khajiguda,Apartment,5739,4,3,2,0,18,20,1,Fully Furnished,East,1,1,1,1,1,91800000
+Khajiguda,Apartment,5039,4,3,2,0,3,5,1,Fully Furnished,East,1,1,1,1,1,80600000
+Khajiguda,Apartment,6339,4,3,2,0,2,12,1,Fully Furnished,West,1,1,1,1,1,101400000
+Khajiguda,Apartment,4650,4,3,2,0,11,20,1,Fully Furnished,North,1,1,1,1,1,74400000
+Khajiguda,Apartment,2011,4,3,2,0,7,10,1,Fully Furnished,East,1,1,1,1,1,32100000
+Khajiguda,Apartment,8234,4,3,2,0,7,12,1,Fully Furnished,East,1,1,1,1,1,131700000
+Khajiguda,Apartment,8224,4,3,2,0,6,12,1,Fully Furnished,South,1,1,1,1,1,131500000
+Uppal,Apartment,1350,2,1,2,0,2,10,1,Semi-Furnished,North,1,0,1,1,1,4725000
+Manikonda,Apartment,1247,2,1,2,4,10,12,1,Fully Furnished,North,1,1,1,1,1,11300000
+Manikonda,Apartment,1245,2,1,2,4,2,20,1,Fully Furnished,North-West,1,1,1,1,1,11300000
+Manikonda,Apartment,1230,2,1,2,4,2,5,1,Fully Furnished,South,1,1,1,1,1,11200000
+Manikonda,Apartment,1605,3,2,2,4,23,24,1,Fully Furnished,West,1,1,1,1,1,14600000
+Manikonda,Apartment,980,2,1,2,4,2,10,1,Fully Furnished,West,1,1,1,1,1,8925000
+Manikonda,Apartment,1995,3,2,2,4,3,20,1,Fully Furnished,North,1,1,1,1,1,18100000
+Manikonda,Apartment,1340,2,1,2,4,6,7,1,Fully Furnished,North,1,1,1,1,1,12200000
+Manikonda,Apartment,1065,2,1,2,4,1,12,1,Fully Furnished,North,1,1,1,1,1,9700000
+Boduppal,Apartment,1202,2,1,2,0,5,12,1,Semi-Furnished,North,1,0,1,1,1,4327000
+Manikonda,Apartment,2150,3,2,2,4,8,12,1,Fully Furnished,East,1,1,1,1,1,19500000
+Manikonda,Apartment,2410,3,2,2,4,9,10,1,Fully Furnished,West,1,1,1,1,1,21900000
+Manikonda,Apartment,970,2,1,2,4,9,15,1,Fully Furnished,East,1,1,1,1,1,8837000
+Uppal,Apartment,2470,4,3,2,0,4,10,1,Fully Furnished,East,1,1,1,1,1,8892000
+Nacharam,Apartment,1350,3,2,2,0,14,15,1,Semi-Furnished,East,0,0,1,1,1,4860000
+Kokapet,Apartment,1885,3,2,2,0,1,5,1,Fully Furnished,North,1,1,1,1,1,14900000
+Tellapur,Apartment,1560,3,2,2,4,2,12,1,Fully Furnished,North,1,1,1,1,1,9826000
+Miyapur,Apartment,1244,2,1,2,4,5,10,1,Fully Furnished,East,1,1,1,1,1,11700000
+Miyapur,Apartment,1454,2,1,2,4,1,5,1,Fully Furnished,West,1,1,1,1,1,13700000
+Miyapur,Apartment,1225,2,1,2,4,15,20,1,Fully Furnished,North,1,1,1,1,1,11500000
+Moti Nagar,Apartment,1567,3,2,2,0,1,12,1,Fully Furnished,East,1,1,1,1,1,14800000
+Moti Nagar,Apartment,1583,3,2,2,0,4,12,1,Fully Furnished,North,1,1,1,1,1,15000000
+Moti Nagar,Apartment,1793,3,2,2,0,5,10,1,Fully Furnished,South,1,1,1,1,1,17000000
+Pocharam,Apartment,1442,3,2,2,4,11,15,1,Semi-Furnished,South,1,0,1,1,1,6000000
+Narepally,Independent House,1800,3,2,2,4,1,3,1,Fully Furnished,East,1,1,1,1,0,9000000
+Mallampet,Apartment,1200,3,2,2,4,14,24,1,Semi-Furnished,West,1,0,1,1,1,6500000
+Gachibowli,Apartment,2729,4,3,2,4,14,15,1,Fully Furnished,West,1,1,1,1,1,32700000
+Tellapur,Villa,4146,4,3,2,0,0,2,2,Fully Furnished,North-West,1,1,1,1,0,70100000
+Gachibowli,Apartment,2848,4,3,2,4,4,10,1,Fully Furnished,West,1,1,1,1,1,34100000
+Tellapur,Villa,3786,4,3,2,0,1,2,2,Fully Furnished,North,1,1,1,1,0,64000000
+Tellapur,Villa,4756,4,3,2,0,1,3,2,Fully Furnished,North,1,1,1,1,0,80399999
+Gachibowli,Apartment,2713,4,3,2,4,19,20,1,Fully Furnished,East,1,1,1,1,1,32500000
+Tellapur,Villa,3223,4,3,2,0,0,2,2,Fully Furnished,North,1,1,1,1,0,54400000
+Malikdanguda,Apartment,1025,2,1,2,4,2,10,1,Semi-Furnished,East,0,0,1,1,1,7000000
+Maheshwaram,Apartment,1150,2,1,2,4,9,12,1,Semi-Furnished,East,0,0,1,1,1,7000000
+Maheshwaram,Villa,2043,3,2,2,4,0,2,2,Fully Furnished,South,1,1,1,1,0,20400000
+Nagole,Apartment,1141,3,2,2,4,6,15,1,Semi-Furnished,East,0,0,1,1,1,6100000
+Kokapet,Apartment,3465,4,3,2,0,15,20,1,Fully Furnished,North-West,1,1,1,1,1,31100000
+Kokapet,Apartment,3260,4,3,2,0,9,10,1,Fully Furnished,East,1,1,1,1,1,29300000
+Kokapet,Apartment,3775,4,3,2,0,17,20,1,Fully Furnished,North,1,1,1,1,1,33900000
+Kokapet,Apartment,2640,3,2,2,0,3,10,1,Fully Furnished,West,1,1,1,1,1,23700000
+Kokapet,Apartment,3755,4,3,2,0,14,15,1,Fully Furnished,East,1,1,1,1,1,33700000
+Kokapet,Apartment,1310,2,1,2,0,3,24,1,Fully Furnished,East,1,1,1,1,1,9563000
+Miyapur,Apartment,1242,2,1,2,4,6,20,1,Semi-Furnished,North,1,0,1,1,1,5800000
+Manikonda,Apartment,1660,3,2,2,0,13,15,1,Fully Furnished,South,1,1,1,1,1,10700000
+Nacharam,Apartment,1215,2,1,2,0,9,12,1,Semi-Furnished,North-East,1,0,1,1,1,3765999
+Hayathnagar,Independent House,3400,4,3,2,4,1,3,1,Fully Furnished,North,1,0,1,1,0,16500000
+Badangpet,Apartment,1285,2,1,2,4,11,20,1,Semi-Furnished,South,1,0,1,1,1,6039000
+Hayathnagar,Independent House,2400,4,3,2,4,0,2,1,Fully Furnished,North,0,0,1,1,0,13000000
+Hayathnagar,Independent House,5800,5,4,2,4,0,1,1,Fully Furnished,South,0,1,1,1,0,19000000
+Hayathnagar,Independent House,3700,4,3,2,4,1,2,1,Fully Furnished,North,0,1,1,1,0,18500000
+Kukatpally,Apartment,1325,2,1,2,0,2,20,1,Fully Furnished,North-West,1,1,1,1,1,10300000
+Madhapur,Independent Floor,3430,3,2,2,4,1,3,0,Fully Furnished,South,1,1,1,1,0,55000000
+Isnapur,Apartment,1520,3,2,2,0,8,20,1,Semi-Furnished,South,0,0,1,1,1,6534000
+Miyapur,Apartment,1099,2,1,2,0,11,20,1,Semi-Furnished,North-West,0,0,1,1,1,7498000
+HITEC City,Apartment,1334,2,1,2,4,4,7,1,Fully Furnished,North,1,1,1,1,1,17000000
+Gachibowli,Apartment,1298,2,1,2,0,8,12,1,Fully Furnished,West,1,1,1,1,1,9028000
+Nanakramguda,Apartment,1980,3,2,2,4,10,15,1,Fully Furnished,North-East,1,1,1,1,1,22000000
+Tellapur,Villa,3650,4,3,2,4,1,3,2,Fully Furnished,North,1,1,1,1,0,53500000
+Kondapur,Apartment,1710,3,2,2,4,16,24,1,Fully Furnished,North,1,1,1,1,1,23000000
+Narsingi,Apartment,1915,3,2,2,4,5,15,1,Fully Furnished,East,1,1,1,1,1,21300000
+Kukatpally,Apartment,1650,3,2,2,0,18,24,1,Fully Furnished,South,1,1,1,1,1,12800000
+Gachibowli,Apartment,1291,2,1,2,0,3,12,1,Fully Furnished,East,1,1,1,1,1,9028000
+Kokapet,Apartment,1087,2,1,2,0,8,20,1,Fully Furnished,North-East,1,1,1,1,1,8137000
+HITEC City,Apartment,3090,4,3,2,4,1,12,1,Fully Furnished,East,1,1,1,1,1,40000000
+Kokapet,Apartment,1087,2,1,2,0,19,20,1,Fully Furnished,West,1,1,1,1,1,8137000
+Gachibowli,Apartment,1290,2,1,2,0,1,20,1,Fully Furnished,East,1,1,1,1,1,9028000
+Isnapur,Villa,2100,3,2,2,0,0,1,2,Fully Furnished,South,1,1,1,1,0,13400000
+Gachibowli,Apartment,1290,2,1,2,0,9,10,1,Fully Furnished,North-East,1,1,1,1,1,9028000
+Kondapur,Apartment,1618,3,2,2,4,4,20,1,Fully Furnished,North-East,1,1,1,1,1,10800000
+Kompally,Apartment,1200,2,1,2,0,6,15,1,Semi-Furnished,East,1,0,1,1,1,6200000
+Osman Nagar,Apartment,1600,3,2,2,0,5,10,1,Fully Furnished,East,1,1,1,1,1,8400000
+Osman Nagar,Apartment,1600,2,1,2,0,19,20,1,Fully Furnished,South,1,1,1,1,1,8400000
+Kollur,Apartment,1600,3,2,2,0,10,20,1,Fully Furnished,North-East,1,1,1,1,1,8400000
+Shankarpalli,Villa,2400,4,3,2,4,1,3,2,Fully Furnished,West,1,1,1,1,0,18500000
+Kukatpally,Apartment,4761,4,3,2,4,7,10,1,Fully Furnished,North,1,1,1,1,1,41600000
+Bandlaguda Jagir,Apartment,1440,2,1,2,0,4,10,1,Fully Furnished,West,1,1,1,1,1,9828000
+Moosapet,Apartment,1995,3,2,2,0,7,12,1,Fully Furnished,North-East,1,1,1,1,1,10900000
+Miyapur,Apartment,1140,2,1,2,4,1,10,1,Fully Furnished,North,1,1,1,1,1,8300000
+Kollur,Villa,4100,4,3,2,4,0,1,2,Fully Furnished,East,1,1,1,1,0,55000000
+Moosapet,Apartment,1850,3,2,2,0,2,7,1,Fully Furnished,East,1,1,1,1,1,10100000
+Gopanpally,Apartment,1965,3,2,2,0,8,15,1,Fully Furnished,North-East,1,1,1,1,1,19500000
+Kukatpally,Apartment,2880,3,2,2,0,16,20,1,Fully Furnished,East,1,1,1,1,1,15800000
+Moosapet,Apartment,1660,3,2,2,0,6,7,1,Fully Furnished,West,1,1,1,1,1,9130000
+Kondapur,Apartment,2390,3,2,2,0,1,5,1,Fully Furnished,North,1,1,1,1,1,16200000
+Kondapur,Apartment,2298,3,2,2,0,15,24,1,Fully Furnished,East,1,1,1,1,1,15600000
+Nizampet,Apartment,1700,3,2,2,0,4,20,1,Fully Furnished,East,1,1,1,1,1,10700000
+Kukatpally,Apartment,1450,2,1,2,0,4,10,1,Semi-Furnished,South,0,0,1,1,1,6813000
+Narsingi,Apartment,2170,3,2,2,0,3,7,1,Fully Furnished,North-East,1,1,1,1,1,14700000
+Kukatpally,Apartment,2450,4,3,2,0,6,10,1,Fully Furnished,North-East,1,1,1,1,1,11500000
+Bandlaguda Jagir,Apartment,1260,2,1,2,0,6,15,1,Semi-Furnished,North-East,1,0,1,1,1,6352000
+Patancheru,Apartment,1200,3,2,2,0,8,10,1,Semi-Furnished,North,1,0,1,1,1,6358000
+Patancheru,Apartment,967,2,1,2,0,2,5,1,Semi-Furnished,South,1,0,1,1,1,5124000
+Patancheru,Apartment,931,2,1,2,0,15,24,1,Semi-Furnished,West,1,0,1,1,1,4933000
+Patancheru,Apartment,700,1,1,1,0,4,24,1,Semi-Furnished,North,1,0,1,1,1,3709000
+Kokapet,Apartment,2049,3,2,2,0,4,15,1,Fully Furnished,North-West,1,1,1,1,1,15300000
+Kokapet,Apartment,2050,3,2,2,0,7,15,1,Fully Furnished,East,1,1,1,1,1,15300000
+Kokapet,Apartment,1770,3,2,2,0,1,7,1,Fully Furnished,West,1,1,1,1,1,13200000
+Kokapet,Apartment,1765,3,2,2,0,3,10,1,Fully Furnished,North,1,1,1,1,1,13200000
+Kokapet,Apartment,1390,3,2,2,0,7,10,1,Fully Furnished,East,1,1,1,1,1,13000000
+Patancheru,Apartment,1203,3,2,2,0,2,12,1,Semi-Furnished,East,1,0,1,1,1,6374000
+Patancheru,Apartment,1196,3,2,2,0,17,24,1,Semi-Furnished,North-East,0,0,1,1,1,6337000
+Patancheru,Apartment,964,2,1,2,0,1,7,1,Semi-Furnished,North-West,1,0,1,1,1,5108000
+Patancheru,Apartment,769,1,1,1,0,7,10,1,Semi-Furnished,West,0,0,1,1,1,4074000
+Kondapur,Apartment,2160,3,2,2,0,11,20,1,Fully Furnished,East,1,1,1,1,1,17000000
+Kondapur,Apartment,2125,3,2,2,0,2,10,1,Fully Furnished,East,1,1,1,1,1,16700000
+Kondapur,Apartment,2080,3,2,2,0,4,15,1,Fully Furnished,North-East,1,1,1,1,1,16400000
+Kondapur,Apartment,2035,3,2,2,0,11,15,1,Fully Furnished,West,1,1,1,1,1,16000000
+Kondapur,Apartment,1960,3,2,2,0,12,20,1,Fully Furnished,West,1,1,1,1,1,15400000
+Kondapur,Apartment,1945,3,2,2,0,1,5,1,Fully Furnished,West,1,1,1,1,1,15300000
+Manikonda,Apartment,1545,3,2,2,0,16,20,1,Fully Furnished,West,1,1,1,1,1,15000000
+Manikonda,Apartment,980,2,1,2,0,6,20,1,Fully Furnished,North,1,1,1,1,1,9600000
+Manikonda,Apartment,1230,2,1,2,0,5,15,1,Fully Furnished,North-East,1,1,1,1,1,12000000
+Manikonda,Apartment,1150,2,1,2,0,1,24,1,Fully Furnished,North,1,1,1,1,1,11200000
+Manikonda,Apartment,1340,2,1,2,0,6,10,1,Fully Furnished,South,1,1,1,1,1,11800000
+Manikonda,Apartment,1245,2,1,2,0,3,10,1,Fully Furnished,West,1,1,1,1,1,10900000
+Bachupally,Apartment,1556,3,2,2,0,1,5,1,Fully Furnished,South,1,1,1,1,1,10300000
+Bachupally,Apartment,1294,3,2,2,0,2,15,1,Fully Furnished,North,1,1,1,1,1,8605000
+Bachupally,Apartment,1045,2,1,2,0,16,20,1,Semi-Furnished,East,0,0,1,1,1,6948999
+Hafeezpet,Apartment,1791,3,2,2,0,9,12,1,Fully Furnished,North,1,1,1,1,1,10700000
+Hafeezpet,Apartment,1906,3,2,2,0,8,20,1,Fully Furnished,East,1,1,1,1,1,11400000
+Hafeezpet,Apartment,1771,3,2,2,0,14,15,1,Fully Furnished,South,1,1,1,1,1,10600000
+Hafeezpet,Apartment,1726,3,2,2,0,7,12,1,Fully Furnished,West,1,1,1,1,1,10300000
+Hafeezpet,Apartment,1941,3,2,2,0,12,15,1,Fully Furnished,North-West,1,1,1,1,1,11600000
+Hafeezpet,Apartment,1911,3,2,2,0,4,5,1,Fully Furnished,East,1,1,1,1,1,11400000
+Hafeezpet,Apartment,2086,3,2,2,0,20,24,1,Fully Furnished,South,1,1,1,1,1,12500000
+Hafeezpet,Apartment,1481,3,2,2,0,9,15,1,Fully Furnished,North,1,1,1,1,1,8884000
+Hafeezpet,Apartment,1706,3,2,2,0,3,5,1,Fully Furnished,South,1,1,1,1,1,10200000
+Hafeezpet,Apartment,1290,2,1,2,0,4,7,1,Semi-Furnished,West,0,0,1,1,1,7738000
+Hafeezpet,Apartment,1400,2,1,2,0,9,10,1,Fully Furnished,North,1,1,1,1,1,8398000
+Miyapur,Apartment,1180,2,1,2,0,9,10,1,Semi-Furnished,South,1,0,1,1,1,7670000
+Miyapur,Apartment,1217,2,1,2,0,6,10,1,Semi-Furnished,East,0,0,1,1,1,7909999
+Miyapur,Apartment,1209,2,1,2,0,5,12,1,Semi-Furnished,East,0,0,1,1,1,7858000
+Miyapur,Apartment,1259,2,1,2,0,8,12,1,Fully Furnished,North,1,1,1,1,1,8183000
+Miyapur,Apartment,1170,2,1,2,0,1,10,1,Semi-Furnished,North,0,0,1,1,1,7605000
+Mokila,Villa,3910,3,2,2,4,1,2,2,Fully Furnished,East,1,1,1,1,0,60300000
+Miyapur,Apartment,1215,2,1,2,0,2,7,1,Semi-Furnished,East,0,0,1,1,1,7897000
+Mokila,Villa,3890,3,2,2,4,1,2,2,Fully Furnished,East,1,1,1,1,0,60000000
+Miyapur,Apartment,1256,2,1,2,0,11,15,1,Fully Furnished,South,1,1,1,1,1,8164000
+Miyapur,Apartment,1244,2,1,2,0,1,15,1,Fully Furnished,North,1,1,1,1,1,8086000
+Miyapur,Apartment,1225,2,1,2,0,9,24,1,Semi-Furnished,North-East,0,0,1,1,1,7962000
+Miyapur,Apartment,1231,2,1,2,0,2,5,1,Fully Furnished,North-West,1,1,1,1,1,8001000
+Narsingi,Apartment,2540,4,3,2,0,9,15,1,Fully Furnished,West,1,1,1,1,1,19000000
+Miyapur,Apartment,1173,2,1,2,0,9,10,1,Semi-Furnished,East,1,0,1,1,1,7626000
+Narsingi,Apartment,1535,3,2,2,0,6,12,1,Fully Furnished,East,1,1,1,1,1,11500000
+Narsingi,Apartment,1875,3,2,2,0,4,15,1,Fully Furnished,East,1,1,1,1,1,14000000
+Miyapur,Apartment,1572,3,2,2,0,8,10,1,Fully Furnished,North-East,1,1,1,1,1,10200000
+Miyapur,Apartment,1500,2,1,2,0,4,5,1,Fully Furnished,North,1,1,1,1,1,9750000
+Narsingi,Apartment,2630,4,3,2,0,1,7,1,Fully Furnished,East,1,1,1,1,1,19700000
+Miyapur,Apartment,1490,2,1,2,0,5,7,1,Fully Furnished,West,1,1,1,1,1,9685000
+Kondapur,Apartment,2265,3,2,2,0,5,7,1,Fully Furnished,North,1,1,1,1,1,15800000
+Rajendra Nagar,Apartment,1280,3,2,2,4,6,7,1,Fully Furnished,North,1,1,1,1,1,8343000
+Kondapur,Apartment,2225,3,2,2,0,6,10,1,Fully Furnished,East,1,1,1,1,1,15500000
+Rajendra Nagar,Apartment,1327,3,2,2,4,10,12,1,Fully Furnished,North-West,1,1,1,1,1,8649000
+Rajendra Nagar,Apartment,1324,3,2,2,4,2,20,1,Fully Furnished,North,1,1,1,1,1,8599000
+Kondapur,Apartment,2160,3,2,2,0,4,5,1,Fully Furnished,East,1,1,1,1,1,15100000
+Rajendra Nagar,Apartment,1314,3,2,2,4,3,7,1,Fully Furnished,North-East,1,1,1,1,1,8564000
+Rajendra Nagar,Apartment,1312,3,2,2,4,3,7,1,Fully Furnished,East,1,1,1,1,1,8551000
+Rajendra Nagar,Apartment,1280,3,2,2,4,2,5,1,Fully Furnished,North-East,1,1,1,1,1,8343000
+Rajendra Nagar,Apartment,1327,3,2,2,4,9,15,1,Fully Furnished,North-West,1,1,1,1,1,8649000
+Rajendra Nagar,Apartment,1324,3,2,2,4,8,15,1,Fully Furnished,South,1,1,1,1,1,8599000
+Rajendra Nagar,Apartment,1315,3,2,2,4,15,20,1,Fully Furnished,South,1,1,1,1,1,9499000
+Rajendra Nagar,Apartment,1314,3,2,2,4,7,20,1,Fully Furnished,West,1,1,1,1,1,8564000
+Rajendra Nagar,Apartment,1312,3,2,2,4,4,15,1,Fully Furnished,North-West,1,1,1,1,1,8551000
+Rajendra Nagar,Apartment,1280,3,2,2,4,6,12,1,Fully Furnished,North,1,1,1,1,1,8343000
+Rajendra Nagar,Apartment,1221,3,2,2,4,3,12,1,Fully Furnished,South,1,1,1,1,1,8820000
+Rajendra Nagar,Apartment,1314,3,2,2,4,4,5,1,Fully Furnished,North-East,1,1,1,1,1,8564000
+Rajendra Nagar,Apartment,1327,3,2,2,4,11,15,1,Fully Furnished,North-West,1,1,1,1,1,8649000
+Rajendra Nagar,Apartment,1221,3,2,2,4,12,15,1,Semi-Furnished,North-East,1,0,1,1,1,7958000
+Kondapur,Apartment,2150,3,2,2,0,9,10,1,Fully Furnished,West,1,1,1,1,1,15000000
+Kokapet,Apartment,6566,4,3,2,0,19,20,1,Fully Furnished,North-West,1,1,1,1,1,58400000
+Sanath Nagar,Apartment,1520,2,1,2,0,4,24,1,Fully Furnished,North,1,1,1,1,1,9121000
+Sanath Nagar,Apartment,1407,2,1,2,0,13,15,1,Fully Furnished,North-East,1,1,1,1,1,8442000
+Sanath Nagar,Apartment,1292,2,1,2,0,7,15,1,Semi-Furnished,North,0,0,1,1,1,7753000
+Puppalaguda,Apartment,2708,4,3,2,4,4,5,1,Fully Furnished,West,1,1,1,1,1,23500000
+Sanath Nagar,Apartment,1405,2,1,2,0,2,12,1,Fully Furnished,West,1,1,1,1,1,8428000
+Sanath Nagar,Apartment,1279,2,1,2,0,5,15,1,Semi-Furnished,North,1,0,1,1,1,7670999
+Sanath Nagar,Apartment,1270,2,1,2,0,9,24,1,Semi-Furnished,South,1,0,1,1,1,7618000
+Sanath Nagar,Apartment,1290,2,1,2,0,10,12,1,Semi-Furnished,West,0,0,1,1,1,7741000
+Sanath Nagar,Apartment,1324,2,1,2,0,6,12,1,Semi-Furnished,North,1,0,1,1,1,7941000
+Puppalaguda,Apartment,2848,4,3,2,4,1,5,1,Fully Furnished,West,1,1,1,1,1,19900000
+Puppalaguda,Apartment,2713,4,3,2,4,17,20,1,Fully Furnished,South,1,1,1,1,1,18900000
+Narsingi,Apartment,3020,4,3,2,0,5,20,1,Fully Furnished,West,1,1,1,1,1,23200000
+Narsingi,Apartment,2180,3,2,2,0,4,10,1,Fully Furnished,East,1,1,1,1,1,16700000
+Narsingi,Apartment,2165,3,2,2,0,2,12,1,Fully Furnished,East,1,1,1,1,1,16600000
+Narsingi,Apartment,2160,3,2,2,0,9,20,1,Fully Furnished,East,1,1,1,1,1,16600000
+Narsingi,Apartment,1915,3,2,2,0,5,12,1,Fully Furnished,North,1,1,1,1,1,14700000
+Nanakramguda,Apartment,4340,4,3,2,4,4,12,1,Fully Furnished,East,1,1,1,1,1,31000000
+Nanakramguda,Apartment,2220,3,2,2,0,2,20,1,Fully Furnished,East,1,1,1,1,1,18000000
+Nanakramguda,Apartment,2210,3,2,2,0,7,15,1,Fully Furnished,North-West,1,1,1,1,1,16700000
+Rajendra Nagar,Apartment,941,2,1,2,4,3,10,1,Semi-Furnished,North-East,1,0,1,1,1,6133000
+Manikonda,Apartment,1875,3,2,2,0,3,10,1,Fully Furnished,West,1,1,1,1,1,14500000
+Toli Chowki,Apartment,4037,4,3,2,4,8,15,1,Fully Furnished,North-West,1,1,1,1,1,30200000
+Appa Junction Peerancheru,Apartment,1562,2,1,2,0,1,20,1,Fully Furnished,East,1,1,1,1,1,8590000
+Toli Chowki,Apartment,3620,4,3,2,4,4,7,1,Fully Furnished,North,1,1,1,1,1,27100000
+Rajendra Nagar,Apartment,940,2,1,2,4,10,20,1,Semi-Furnished,North,0,0,1,1,1,6126000
+Toli Chowki,Apartment,3593,3,2,2,4,2,10,1,Fully Furnished,West,1,1,1,1,1,26900000
+Appa Junction Peerancheru,Apartment,1659,3,2,2,0,5,10,1,Fully Furnished,West,1,1,1,1,1,9124000
+Kismatpur,Villa,3403,4,3,2,4,1,2,2,Fully Furnished,West,1,1,1,1,0,29000000
+Manikonda,Apartment,1780,3,2,2,0,6,12,1,Fully Furnished,West,1,1,1,1,1,13700000
+Rajendra Nagar,Apartment,935,2,1,2,4,15,20,1,Semi-Furnished,South,0,0,1,1,1,6094000
+Toli Chowki,Apartment,2563,3,2,2,4,7,12,1,Fully Furnished,East,1,1,1,1,1,19200000
+Appa Junction Peerancheru,Apartment,1663,3,2,2,0,2,12,1,Fully Furnished,East,1,1,1,1,1,9146000
+Rajendra Nagar,Apartment,931,2,1,2,4,1,7,1,Semi-Furnished,East,1,0,1,1,1,6068000
+Manikonda,Apartment,1172,2,1,2,0,9,12,1,Fully Furnished,East,1,1,1,1,1,9083000
+Rajendra Nagar,Apartment,929,2,1,2,4,3,12,1,Semi-Furnished,North,1,0,1,1,1,6055000
+Appa Junction Peerancheru,Apartment,1666,3,2,2,0,1,15,1,Fully Furnished,East,1,1,1,1,1,9163000
+Manikonda,Apartment,1030,2,1,2,0,8,15,1,Semi-Furnished,North-East,0,0,1,1,1,7981999
+Rajendra Nagar,Apartment,941,2,1,2,4,7,12,1,Semi-Furnished,East,1,0,1,1,1,6133000
+Appa Junction Peerancheru,Apartment,1713,3,2,2,0,11,12,1,Fully Furnished,East,1,1,1,1,1,9421000
+Appa Junction Peerancheru,Apartment,1788,3,2,2,4,14,20,1,Fully Furnished,North,1,1,1,1,1,9834000
+Kondapur,Apartment,1955,3,2,2,0,9,10,1,Fully Furnished,East,1,1,1,1,1,14200000
+Kokapet,Apartment,1770,3,2,2,4,4,12,1,Fully Furnished,North,1,1,1,1,1,11500000
+Kismatpur,Villa,4729,4,3,2,4,1,2,2,Fully Furnished,South,1,1,1,1,0,43900000
+Appa Junction Peerancheru,Apartment,1707,3,2,2,4,11,20,1,Fully Furnished,East,1,1,1,1,1,9388000
+Kismatpur,Villa,5143,4,3,2,4,0,1,2,Fully Furnished,East,1,1,1,1,0,47800000
+Appa Junction Peerancheru,Apartment,1972,3,2,2,4,5,15,1,Fully Furnished,West,1,1,1,1,1,10800000
+Gachibowli,Villa,3990,4,3,2,4,0,1,2,Fully Furnished,East,1,1,1,1,0,30700000
+Appa Junction Peerancheru,Apartment,1966,3,2,2,4,8,15,1,Fully Furnished,East,1,1,1,1,1,10800000
+Rajendra Nagar,Apartment,610,1,1,1,4,6,12,1,Semi-Furnished,East,1,0,1,1,1,4800000
+Appa Junction Peerancheru,Apartment,1784,3,2,2,4,4,10,1,Fully Furnished,East,1,1,1,1,1,9812000
+Rajendra Nagar,Apartment,380,1,1,1,4,2,10,1,Semi-Furnished,North,0,0,1,1,1,3399000
+Gachibowli,Villa,3925,4,3,2,4,0,1,2,Fully Furnished,North,1,1,1,1,0,51000000
+Appa Junction Peerancheru,Apartment,1568,2,1,2,4,1,10,1,Fully Furnished,North,1,1,1,1,1,10600000
+Gachibowli,Villa,3895,4,3,2,4,0,1,2,Fully Furnished,East,1,1,1,1,0,50600000
+Rajendra Nagar,Apartment,593,1,1,1,4,5,12,1,Semi-Furnished,East,0,0,1,1,1,3999000
+Appa Junction Peerancheru,Apartment,1663,3,2,2,4,1,7,1,Fully Furnished,North-East,1,1,1,1,1,11300000
+Gachibowli,Villa,3140,4,3,2,4,0,1,2,Fully Furnished,North,1,1,1,1,0,24100000
+Gachibowli,Villa,3440,4,3,2,4,1,3,2,Fully Furnished,North-East,1,1,1,1,0,26400000
+Appa Junction Peerancheru,Apartment,1642,3,2,2,4,5,7,1,Fully Furnished,West,1,1,1,1,1,11100000
+Rajendra Nagar,Apartment,380,1,1,1,4,11,12,1,Semi-Furnished,North,0,0,1,1,1,3399000
+Gachibowli,Villa,3925,4,3,2,4,0,2,2,Fully Furnished,North,1,1,1,1,0,51000000
+Appa Junction Peerancheru,Apartment,1568,2,1,2,4,18,24,1,Fully Furnished,West,1,1,1,1,1,10600000
+Gachibowli,Villa,3895,4,3,2,4,0,1,2,Fully Furnished,West,1,1,1,1,0,50600000
+Rajendra Nagar,Apartment,593,1,1,1,4,8,12,1,Semi-Furnished,North,0,0,1,1,1,3999000
+Appa Junction Peerancheru,Apartment,1663,3,2,2,4,2,12,1,Fully Furnished,East,1,1,1,1,1,11300000
+Gachibowli,Villa,3140,4,3,2,4,0,2,2,Fully Furnished,West,1,1,1,1,0,24100000
+Gachibowli,Villa,3440,4,3,2,4,1,3,2,Fully Furnished,South,1,1,1,1,0,26400000
+Appa Junction Peerancheru,Apartment,1642,3,2,2,4,6,7,1,Fully Furnished,North-East,1,1,1,1,1,11100000
+Rajendra Nagar,Apartment,379,1,1,1,4,2,10,1,Unfurnished,West,0,0,1,1,1,2599000
+Gachibowli,Villa,3780,4,3,2,4,1,3,2,Fully Furnished,West,1,1,1,1,0,29100000
+Appa Junction Peerancheru,Apartment,1638,3,2,2,4,2,15,1,Fully Furnished,East,1,1,1,1,1,11100000
+Bolarum,Apartment,842,2,1,2,0,7,10,1,Semi-Furnished,North,0,0,1,1,1,5500000
+Rajendra Nagar,Apartment,1193,3,2,2,4,6,15,1,Semi-Furnished,West,1,0,1,1,1,7775000
+Gachibowli,Villa,3700,4,3,2,4,0,1,2,Fully Furnished,North-West,1,1,1,1,0,28400000
+Gachibowli,Villa,3595,4,3,2,4,1,2,2,Fully Furnished,West,1,1,1,1,0,27600000
+Rajendra Nagar,Apartment,1097,3,2,2,4,7,15,1,Semi-Furnished,West,0,0,1,1,1,7150000
+Appa Junction Peerancheru,Apartment,1633,3,2,2,4,11,24,1,Fully Furnished,North,1,1,1,1,1,11100000
+Gachibowli,Villa,3580,4,3,2,4,1,3,2,Fully Furnished,South,1,1,1,1,0,27500000
+Rajendra Nagar,Apartment,1092,3,2,2,4,1,12,1,Semi-Furnished,West,0,0,1,1,1,7117000
+Nanakramguda,Apartment,1565,3,2,2,0,15,20,1,Fully Furnished,West,1,1,1,1,1,10000000
+Nanakramguda,Apartment,1765,3,2,2,0,11,12,1,Fully Furnished,North-West,1,1,1,1,1,11200000
+Nanakramguda,Apartment,1475,3,2,2,0,14,20,1,Fully Furnished,East,1,1,1,1,1,9440000
+Nanakramguda,Apartment,1385,2,1,2,0,1,20,1,Fully Furnished,North-East,1,1,1,1,1,8864000
+Nanakramguda,Apartment,1450,3,2,2,0,5,10,1,Fully Furnished,East,1,1,1,1,1,9280000
+Nanakramguda,Apartment,1150,2,1,2,0,9,15,1,Semi-Furnished,South,0,0,1,1,1,7359999
+Tellapur,Villa,3399,3,2,2,4,1,3,2,Fully Furnished,North,1,1,1,1,0,25500000
+Tellapur,Villa,3333,3,2,2,4,1,3,2,Fully Furnished,West,1,1,1,1,0,23300000
+Tellapur,Villa,3600,3,2,2,4,1,3,2,Fully Furnished,North-East,1,1,1,1,0,27000000
+Puppalaguda,Apartment,1725,2,1,2,0,1,5,1,Fully Furnished,East,1,1,1,1,1,12400000
+Puppalaguda,Apartment,1500,2,1,2,0,16,20,1,Fully Furnished,East,1,1,1,1,1,10800000
+Pocharam,Apartment,1475,3,2,2,0,5,15,1,Fully Furnished,North,1,1,1,1,1,8105000
+Pocharam,Apartment,1900,3,2,2,0,9,12,1,Fully Furnished,West,1,1,1,1,1,8550000
+Pocharam,Apartment,1665,3,2,2,0,2,7,1,Semi-Furnished,North,0,0,1,1,1,7492000
+Pocharam,Apartment,1250,2,1,2,0,4,12,1,Semi-Furnished,East,1,0,1,1,1,5625000
+Kollur,Apartment,1495,3,2,2,0,6,15,1,Semi-Furnished,East,0,0,1,1,1,7472000
+Rajendra Nagar,Apartment,1315,3,2,2,4,13,20,1,Fully Furnished,East,1,1,1,1,1,8571000
+Rajendra Nagar,Apartment,1315,3,2,2,4,3,15,1,Fully Furnished,East,1,1,1,1,1,8571000
+Rajendra Nagar,Apartment,1221,3,2,2,4,1,20,1,Semi-Furnished,West,1,0,1,1,1,7958000
+Rajendra Nagar,Apartment,1221,3,2,2,4,6,7,1,Semi-Furnished,South,0,0,1,1,1,7958000
+Rajendra Nagar,Villa,6484,4,3,2,4,0,1,2,Fully Furnished,North-East,1,1,1,1,0,140000000
+Mallampet,Apartment,1100,2,1,2,0,1,10,1,Semi-Furnished,North-East,1,0,1,1,1,3960000
+Rajendra Nagar,Villa,6486,4,3,2,4,1,3,2,Fully Furnished,East,1,1,1,1,0,140000000
+Kondapur,Apartment,5999,4,3,2,0,5,12,1,Fully Furnished,West,1,1,1,1,1,95600000
+Gandipet,Apartment,1120,2,1,2,0,9,12,1,Semi-Furnished,East,1,0,1,1,1,6495999
+Nagaram,Apartment,1325,3,2,2,0,1,12,1,Semi-Furnished,East,1,0,1,1,1,6293000
+Kokapet,Apartment,2124,3,2,2,4,6,12,1,Fully Furnished,North,1,1,1,1,1,24400000
+Gandipet,Apartment,1210,2,1,2,0,3,7,1,Semi-Furnished,East,0,0,1,1,1,7018000
+Mallampet,Apartment,1050,2,1,2,0,2,10,1,Semi-Furnished,East,0,0,1,1,1,3779999
+Toli Chowki,Apartment,2945,3,2,2,4,3,12,1,Fully Furnished,North-East,1,1,1,1,1,30000000
+Manchirevula,Apartment,1250,2,1,2,4,8,12,1,Fully Furnished,West,1,1,1,1,1,9725000
+Gandipet,Apartment,1190,2,1,2,0,6,12,1,Semi-Furnished,West,0,0,1,1,1,6902000
+Uppal,Apartment,1600,3,2,2,4,12,20,1,Semi-Furnished,East,1,0,1,1,1,7600000
+Uppal,Apartment,1170,2,1,2,4,5,7,1,Semi-Furnished,East,0,0,1,1,1,5500000
+Nagaram,Apartment,1450,3,2,2,0,4,10,1,Semi-Furnished,North-East,1,0,1,1,1,6887000
+Kollur,Apartment,1050,2,1,2,0,7,15,1,Semi-Furnished,East,1,0,1,1,1,3779999
+Kokapet,Apartment,1940,3,2,2,4,18,20,1,Fully Furnished,West,1,1,1,1,1,17600000
+Bollaram Industrial Area,Apartment,1050,2,1,2,0,11,15,1,Semi-Furnished,East,0,0,1,1,1,3779999
+Serilingampally,Apartment,1050,2,1,2,0,3,5,1,Semi-Furnished,West,1,0,1,1,1,3779999
+Kokapet,Apartment,1180,2,1,2,0,5,12,1,Fully Furnished,East,1,1,1,1,1,8848000
+Bandlaguda Jagir,Independent House,1800,4,3,2,4,1,2,1,Fully Furnished,South,1,1,1,1,0,16000000
+Gachibowli,Villa,5200,5,4,2,4,0,2,2,Fully Furnished,North-East,1,1,1,1,0,107500000
+Bandlaguda Jagir,Villa,2800,3,2,2,0,0,1,2,Fully Furnished,South,1,1,1,1,0,21000000
+Kismatpur,Villa,2800,3,2,2,0,0,2,2,Fully Furnished,East,1,1,1,1,0,21000000
+Serilingampally,Apartment,1877,3,2,2,0,19,20,1,Fully Furnished,North-East,1,1,1,1,1,13500000
+Mallampet,Apartment,1050,2,1,2,0,5,7,1,Semi-Furnished,North,0,0,1,1,1,3779999
+Puppalaguda,Apartment,4500,4,3,2,0,5,15,1,Fully Furnished,West,1,1,1,1,1,40400000
+Tellapur,Villa,4146,4,3,2,4,1,3,2,Fully Furnished,North,1,1,1,1,0,85000000
+Serilingampally,Apartment,1877,3,2,2,0,3,10,1,Fully Furnished,East,1,1,1,1,1,13500000
+Manikonda,Apartment,1250,2,1,2,0,10,12,1,Fully Furnished,East,1,1,1,1,1,8320000
+Nagaram,Apartment,1160,2,1,2,4,2,15,1,Semi-Furnished,South,0,0,1,1,1,5072000
+Isnapur,Apartment,915,2,1,2,4,4,12,1,Semi-Furnished,East,0,0,1,1,1,3900000
+Isnapur,Apartment,915,2,1,2,4,11,20,1,Semi-Furnished,North,1,0,1,1,1,3900000
+Nagaram,Apartment,1170,2,1,2,4,4,7,1,Semi-Furnished,West,1,0,1,1,1,5114000
+Bandlaguda Jagir,Independent House,2200,4,3,2,4,1,2,1,Fully Furnished,North-East,0,1,1,1,0,16300000
+Serilingampally,Apartment,2540,3,2,2,0,7,12,1,Fully Furnished,North-West,1,1,1,1,1,18200000
+Kondapur,Apartment,1958,3,2,2,0,1,10,1,Fully Furnished,North-East,1,1,1,1,1,14000000
+Manikonda,Apartment,1420,3,2,2,0,10,12,1,Fully Furnished,East,1,1,1,1,1,8804000
+Sainikpuri,Independent Floor,2100,3,2,2,4,1,3,0,Fully Furnished,East,0,1,1,1,0,12900000
+Narsingi,Apartment,1501,3,2,2,0,6,12,1,Fully Furnished,West,1,1,1,1,1,9306000
+Lb Nagar,Apartment,1290,2,1,2,4,1,20,1,Semi-Furnished,East,1,0,1,1,1,7480000
+Kondapur,Apartment,1571,3,2,2,0,10,12,1,Fully Furnished,East,1,1,1,1,1,10600000
+Lb Nagar,Apartment,1350,2,1,2,4,5,7,1,Semi-Furnished,North,1,0,1,1,1,7800000
+Pocharam,Apartment,1251,2,1,2,4,6,15,1,Semi-Furnished,North,1,0,1,1,1,5800000
+Lb Nagar,Apartment,1290,2,1,2,4,9,12,1,Semi-Furnished,North-West,0,0,1,1,1,7480000
+Bandlaguda Jagir,Apartment,1450,2,1,2,0,10,15,1,Fully Furnished,East,1,1,1,1,1,9890000
+Banjara Hills,Independent House,5000,4,3,2,4,1,3,1,Fully Furnished,East,0,1,1,1,0,173500000
+Kapra,Apartment,3150,4,3,2,0,10,12,1,Fully Furnished,East,1,1,1,1,1,18900000
+Patancheru,Apartment,1015,2,1,2,4,16,20,1,Semi-Furnished,North-East,0,0,0,0,1,3200000
+Sainikpuri,Apartment,1640,3,2,2,4,11,12,1,Fully Furnished,South,1,1,1,1,1,8500000
+As Rao Nagar,Apartment,2100,3,2,2,4,2,15,1,Fully Furnished,North-East,1,1,1,1,1,13000000
+Kollur,Villa,4146,4,3,2,4,1,2,2,Fully Furnished,South,1,1,1,1,0,67500000
+Tellapur,Villa,3223,4,3,2,4,1,3,2,Fully Furnished,South,1,1,1,1,0,57600000
+Manikonda,Apartment,1065,2,1,2,4,9,15,1,Fully Furnished,South,1,1,1,1,1,9159000
+Mallampet,Apartment,1050,2,1,2,0,4,7,1,Semi-Furnished,East,1,0,1,1,1,3900000
+Velimela,Apartment,1665,3,2,2,0,2,7,1,Fully Furnished,East,1,1,1,1,1,10500000
+Puppalaguda,Independent House,3500,4,3,2,4,0,1,1,Fully Furnished,South,0,1,1,1,0,28000000
+Patancheru,Apartment,1050,2,1,2,0,2,10,1,Semi-Furnished,South,0,0,1,1,1,3900000
+Manikonda,Apartment,2235,3,2,2,4,5,12,1,Fully Furnished,East,1,1,1,1,1,20000000
+Nagaram,Villa,2040,3,2,2,4,0,2,2,Fully Furnished,North-East,1,1,1,1,0,15000000
+Sainikpuri,Independent House,6500,4,3,2,4,1,2,1,Fully Furnished,East,1,0,1,1,0,98500000
+Sainikpuri,Villa,5200,4,3,2,4,0,1,2,Fully Furnished,East,1,1,1,1,0,80000000
+Sainikpuri,Independent House,3500,3,2,2,4,1,2,1,Fully Furnished,North,1,0,1,1,0,38500000
+Kismatpur,Independent House,2250,3,2,2,0,1,2,1,Fully Furnished,East,0,0,1,1,0,15500000
+Nagole,Apartment,2000,3,2,2,4,9,10,1,Fully Furnished,East,1,1,1,1,1,13200000
+Gachibowli,Apartment,1280,2,1,2,0,2,12,1,Fully Furnished,West,1,1,1,1,1,8960000
+Gachibowli,Apartment,1150,2,1,2,0,7,10,1,Fully Furnished,South,1,1,1,1,1,8050000
+Chandanagar,Apartment,1985,3,2,2,0,3,15,1,Fully Furnished,East,1,1,1,1,1,11500000
+Kondapur,Apartment,2785,3,2,2,4,7,12,1,Fully Furnished,East,1,1,1,1,1,37600000
+Narsingi,Apartment,1290,2,1,2,4,11,15,1,Semi-Furnished,North,0,0,1,1,1,7998000
+Neknampur,Apartment,1203,2,1,2,0,14,24,1,Fully Furnished,East,1,1,1,1,1,8421000
+Manikonda,Apartment,1440,2,1,2,4,2,7,1,Fully Furnished,North,1,1,1,1,1,8928000
+Neknampur,Apartment,1162,2,1,2,0,7,10,1,Semi-Furnished,East,1,0,1,1,1,6972000
+Puppalaguda,Apartment,1190,2,1,2,0,4,15,1,Semi-Furnished,West,1,0,1,1,1,7020999
+Puppalaguda,Apartment,1240,2,1,2,0,1,7,1,Semi-Furnished,South,1,0,1,1,1,7316000
+Manikonda,Apartment,1600,3,2,2,0,9,12,1,Fully Furnished,West,1,1,1,1,1,11500000
+Chandanagar,Apartment,1150,2,1,2,0,6,10,1,Semi-Furnished,North,1,0,1,1,1,6000000
+Kukatpally,Apartment,1585,3,2,2,0,4,12,1,Semi-Furnished,North,0,0,1,1,1,7150000
+Kukatpally,Apartment,1685,3,2,2,0,2,12,1,Semi-Furnished,North-East,0,0,1,1,1,7500000
+Puppalaguda,Apartment,1900,3,2,2,0,12,15,1,Fully Furnished,West,1,1,1,1,1,12000000
+Kapra,Villa,2592,3,2,2,4,0,2,2,Fully Furnished,South,1,1,1,1,0,15000000
+Chandanagar,Apartment,1166,2,1,2,4,6,12,1,Semi-Furnished,North-West,1,0,1,1,1,7112000
+Neknampur,Apartment,1201,2,1,2,0,3,12,1,Fully Furnished,South,1,1,1,1,1,8500000
+Kapra,Villa,4509,5,4,2,4,1,3,2,Fully Furnished,North,1,1,1,1,0,18500000
+Narsingi,Apartment,1350,2,1,2,0,3,10,1,Fully Furnished,North,1,1,1,1,1,10700000
+Puppalaguda,Apartment,1162,2,1,2,0,2,10,1,Semi-Furnished,South,0,0,1,1,1,7500000
+Narsingi,Apartment,1650,2,1,2,0,2,24,1,Fully Furnished,North,1,1,1,1,1,13100000
+Osman Nagar,Apartment,1655,2,1,2,0,3,12,1,Fully Furnished,East,1,1,1,1,1,11900000
+Nacharam,Apartment,1238,2,1,2,4,14,15,1,Semi-Furnished,East,1,0,1,1,1,6000000
+Nizampet,Apartment,1642,3,2,2,4,6,10,1,Fully Furnished,South,1,1,1,1,1,10300000
+Nizampet,Apartment,1700,3,2,2,4,4,12,1,Fully Furnished,East,1,1,1,1,1,10700000
+Moosapet,Apartment,1440,3,2,2,0,15,24,1,Fully Furnished,South,1,1,1,1,1,8208000
+Moosapet,Apartment,1840,3,2,2,0,9,10,1,Fully Furnished,West,1,1,1,1,1,10400000
+Shaikpet,Apartment,1750,3,2,2,0,12,20,1,Fully Furnished,North,1,1,1,1,1,15000000
+Krishna Nagar Colony,Apartment,2213,3,2,2,4,8,10,1,Fully Furnished,East,1,1,1,1,1,15000000
+Bowenpally,Independent House,4000,5,4,2,4,1,2,1,Fully Furnished,East,1,1,1,1,0,32500000
+Kistareddypet,Apartment,1100,2,1,2,4,13,20,1,Semi-Furnished,North-West,0,0,1,1,1,3900000
+Miyapur,Apartment,1500,3,2,2,4,3,7,1,Fully Furnished,North-East,1,1,1,1,1,9500000
+Tellapur,Apartment,1840,3,2,2,4,5,10,1,Fully Furnished,North,1,1,1,1,1,19500000
+Kistareddypet,Apartment,1050,2,1,2,4,8,15,1,Semi-Furnished,West,0,0,1,1,1,4150000
+Kukatpally,Apartment,3157,4,3,2,0,9,12,1,Fully Furnished,South,1,1,1,1,1,23900000
+Kukatpally,Apartment,4002,4,3,2,0,4,15,1,Fully Furnished,North-West,1,1,1,1,1,30400000
+Kukatpally,Apartment,3052,4,3,2,0,2,15,1,Fully Furnished,East,1,1,1,1,1,23100000
+Patancheru,Villa,3360,4,3,2,0,1,2,2,Fully Furnished,South,1,1,1,1,0,17400000
+Aminpur,Apartment,1745,3,2,2,0,16,20,1,Semi-Furnished,North,1,0,1,1,1,7200000
+Adikmet,Apartment,950,2,1,2,4,4,12,1,Semi-Furnished,West,1,0,1,1,1,4200000
+Kokapet,Apartment,6565,4,3,2,0,14,15,1,Fully Furnished,East,1,1,1,1,1,88600000
+Manikonda,Apartment,2695,3,2,2,0,2,7,1,Fully Furnished,West,1,1,1,1,1,16700000
+Kokapet,Apartment,2185,2,1,2,4,9,10,1,Fully Furnished,West,1,1,1,1,1,18500000
+Kondapur,Apartment,2534,3,2,2,4,3,7,1,Fully Furnished,West,1,1,1,1,1,25000000
+Narayanguda,Apartment,1120,2,1,2,4,1,10,1,Semi-Furnished,South,1,0,1,1,1,7500000
+Narayanguda,Apartment,1120,2,1,2,4,4,10,1,Semi-Furnished,South,1,0,1,1,1,6700000
+Nallakunta,Apartment,925,2,1,2,4,4,10,1,Semi-Furnished,North,0,0,1,1,1,5500000
+Narayanguda,Apartment,1520,3,2,2,4,6,20,1,Fully Furnished,North-East,1,1,1,1,1,12500000
+Himayat Nagar,Apartment,890,2,1,2,4,11,20,1,Semi-Furnished,West,0,0,1,1,1,4200000
+Miyapur,Apartment,1333,3,2,2,0,5,12,1,Fully Furnished,East,1,1,1,1,1,9800000
+HITEC City,Apartment,1450,2,1,2,0,1,12,1,Fully Furnished,East,1,1,1,1,1,8200000
+Moosapet,Apartment,1850,3,2,2,0,2,7,1,Semi-Furnished,North-East,0,0,1,1,1,7770000
+Gachibowli,Apartment,1820,3,2,2,0,14,15,1,Fully Furnished,East,1,1,1,1,1,9400000
+Kukatpally,Apartment,1590,3,2,2,0,14,20,1,Fully Furnished,West,1,1,1,1,1,11900000
+Kukatpally,Apartment,1325,2,1,2,0,16,20,1,Fully Furnished,East,1,1,1,1,1,9937000
+Kukatpally,Apartment,1590,3,2,2,0,9,10,1,Fully Furnished,South,1,1,1,1,1,11900000
+Kukatpally,Apartment,1325,2,1,2,0,3,10,1,Fully Furnished,West,1,1,1,1,1,9937000
+HITEC City,Apartment,2125,3,2,2,0,2,10,1,Fully Furnished,South,1,1,1,1,1,15500000
+Miyapur,Apartment,1509,3,2,2,0,4,10,1,Fully Furnished,West,1,1,1,1,1,9808000
+Miyapur,Apartment,2325,3,2,2,0,10,12,1,Fully Furnished,East,1,1,1,1,1,15500000
+Kukatpally,Apartment,2895,3,2,2,0,1,20,1,Fully Furnished,North,1,1,1,1,1,21100000
+Kukatpally,Apartment,1325,2,1,2,0,14,20,1,Fully Furnished,East,1,1,1,1,1,9900000
+Hafeezpet,Apartment,1215,2,1,2,0,6,7,1,Fully Furnished,West,1,1,1,1,1,8200000
+Hafeezpet,Apartment,1940,3,2,2,0,3,20,1,Fully Furnished,West,1,1,1,1,1,13000000
+Bachupally,Apartment,1365,3,2,2,0,6,24,1,Fully Furnished,North-East,1,1,1,1,1,9300000
+Gachibowli,Apartment,1909,3,2,2,0,5,7,1,Fully Furnished,North-East,1,1,1,1,1,12900000
+HITEC City,Apartment,1909,3,2,2,0,5,7,1,Fully Furnished,East,1,1,1,1,1,12900000
+Kondapur,Apartment,1909,3,2,2,0,1,5,1,Fully Furnished,East,1,1,1,1,1,12900000
+Osman Nagar,Apartment,1565,3,2,2,0,4,10,1,Fully Furnished,West,1,1,1,1,1,8607000
+Aminpur,Apartment,1200,2,1,2,4,6,12,1,Semi-Furnished,South,0,0,1,1,1,5500000
+Chandanagar,Apartment,2055,3,2,2,0,3,5,1,Fully Furnished,West,1,1,1,1,1,8500000
+Chandanagar,Apartment,1745,3,2,2,0,12,15,1,Semi-Furnished,East,0,0,1,1,1,7200000
+Chandanagar,Apartment,1335,2,1,2,0,3,12,1,Semi-Furnished,East,0,0,1,1,1,5400000
+Shamshabad,Apartment,3698,4,3,2,0,2,12,1,Fully Furnished,North,1,1,1,1,1,22700000
+Shamshabad,Apartment,2337,3,2,2,0,2,12,1,Fully Furnished,East,1,1,1,1,1,14300000
+Malkajgiri,Apartment,1450,3,2,2,4,2,12,1,Semi-Furnished,North,0,0,1,1,1,7200000
+Nandigama,Apartment,1050,2,1,2,0,1,7,1,Semi-Furnished,South,0,0,1,1,1,4776000
+Kachiguda,Independent House,2890,4,3,2,4,0,1,1,Fully Furnished,North-East,0,1,1,1,0,20000000
+Nanakramguda,Apartment,2150,3,2,2,0,5,10,1,Fully Furnished,West,1,1,1,1,1,21500000
+Narayanguda,Apartment,1120,2,1,2,4,6,7,1,Semi-Furnished,East,1,0,1,1,1,6500000
+Adikmet,Apartment,1057,2,1,2,4,7,10,1,Semi-Furnished,East,1,0,1,1,1,5500000
+Nallakunta,Apartment,1057,2,1,2,4,12,15,1,Semi-Furnished,West,1,0,1,1,1,5800000
+Adikmet,Independent House,4260,5,4,2,4,0,2,1,Fully Furnished,North,1,1,1,1,0,16000000
+Amberpet,Independent House,1080,2,1,2,4,1,2,1,Fully Furnished,South,1,1,1,1,0,9000000
+Nallakunta,Independent House,1350,3,2,2,4,1,2,1,Fully Furnished,North,0,0,1,1,0,13000000
+Nallakunta,Independent House,1987,4,3,2,4,0,1,1,Fully Furnished,South,1,0,1,1,0,22000000
+Gachibowli,Apartment,1200,2,1,2,0,4,10,1,Fully Furnished,North-East,1,1,1,1,1,8784000
+Kondapur,Apartment,2440,3,2,2,4,6,15,1,Fully Furnished,South,1,1,1,1,1,22500000
+Kondapur,Apartment,1225,2,1,2,0,5,12,1,Fully Furnished,East,1,1,1,1,1,9720000
+Khajaguda Nanakramguda Road,Villa,3850,4,3,2,4,1,2,2,Fully Furnished,South,1,1,1,1,0,150000000
+Gachibowli,Apartment,4150,4,3,2,4,3,12,1,Fully Furnished,East,1,1,1,1,1,40000000
+Patancheru,Villa,2000,3,2,2,4,0,1,2,Fully Furnished,East,1,1,1,1,0,13000000
+Nanakramguda,Apartment,1960,3,2,2,4,7,12,1,Fully Furnished,North,1,1,1,1,1,20000000
+Madhapur,Apartment,1180,2,1,2,4,6,15,1,Fully Furnished,West,1,1,1,1,1,11800000
+Kondapur,Apartment,1693,3,2,2,4,23,24,1,Fully Furnished,East,1,1,1,1,1,17000000
+Shaikpet,Apartment,2400,3,2,2,4,11,12,1,Fully Furnished,East,1,1,1,1,1,31200000
+Shaikpet,Apartment,4920,4,3,2,4,6,12,1,Fully Furnished,East,1,1,1,1,1,73800000
+Madhapur,Apartment,2500,3,2,2,4,7,10,1,Fully Furnished,North-East,1,1,1,1,1,32500000
+Tellapur,Villa,3223,4,3,2,4,1,3,2,Fully Furnished,South,1,1,1,1,0,64100000
+Tukkuguda,Apartment,1600,3,2,2,4,1,12,1,Fully Furnished,East,1,1,1,1,1,8500000
+Kokapet,Apartment,1686,3,2,2,0,2,10,1,Fully Furnished,West,1,1,1,1,1,12600000
+Manikonda,Apartment,1891,3,2,2,0,5,15,1,Fully Furnished,West,1,1,1,1,1,16000000
+Kokapet,Apartment,1310,2,1,2,0,13,20,1,Fully Furnished,North-East,1,1,1,1,1,9825000
+Tellapur,Apartment,1695,3,2,2,0,1,5,1,Fully Furnished,East,1,1,1,1,1,11300000
+Tellapur,Apartment,1355,2,1,2,0,4,7,1,Fully Furnished,East,1,1,1,1,1,9077000
+Kollur,Apartment,1855,3,2,2,0,5,15,1,Fully Furnished,West,1,1,1,1,1,11100000
+Kollur,Apartment,1655,3,2,2,0,4,20,1,Fully Furnished,East,1,1,1,1,1,9928000
+Kokapet,Apartment,1085,2,1,2,0,16,20,1,Fully Furnished,East,1,1,1,1,1,8137000
+Narsingi,Apartment,1200,2,1,2,0,8,15,1,Fully Furnished,North-West,1,1,1,1,1,9540000
+Kollur,Apartment,2195,3,2,2,0,6,20,1,Fully Furnished,West,1,1,1,1,1,13100000
+Kollur,Apartment,1295,2,1,2,0,10,12,1,Semi-Furnished,North,0,0,1,1,1,7768000
+Kollur,Apartment,2425,3,2,2,0,9,20,1,Fully Furnished,South,1,1,1,1,1,14500000
+Kollur,Apartment,1900,3,2,2,0,1,7,1,Fully Furnished,West,1,1,1,1,1,11300000
+Kollur,Apartment,1875,3,2,2,0,2,20,1,Fully Furnished,East,1,1,1,1,1,11200000
+Kollur,Apartment,1400,3,2,2,0,1,12,1,Fully Furnished,East,1,1,1,1,1,8398000
+Kollur,Apartment,1880,3,2,2,0,8,20,1,Fully Furnished,West,1,1,1,1,1,10300000
+Kollur,Apartment,1385,2,1,2,0,11,12,1,Semi-Furnished,North,1,0,1,1,1,7616000
+Ghatkesar,Apartment,1297,2,1,2,0,8,12,1,Semi-Furnished,West,1,0,1,1,1,5447000
+Ghatkesar,Apartment,1009,2,1,2,0,8,20,1,Semi-Furnished,East,1,0,1,1,1,4658000
+Kollur,Apartment,2425,3,2,2,0,1,10,1,Fully Furnished,North,1,1,1,1,1,14500000
+Kollur,Apartment,1900,3,2,2,0,5,7,1,Fully Furnished,North-East,1,1,1,1,1,11300000
+Kollur,Apartment,1875,3,2,2,0,1,10,1,Fully Furnished,South,1,1,1,1,1,11200000
+Kollur,Apartment,1400,3,2,2,0,8,12,1,Fully Furnished,North-East,1,1,1,1,1,8398000
+Kollur,Apartment,1880,3,2,2,0,1,5,1,Fully Furnished,South,1,1,1,1,1,10300000
+Kollur,Apartment,1385,2,1,2,0,1,15,1,Semi-Furnished,West,0,0,1,1,1,7616000
+Ghatkesar,Apartment,1297,2,1,2,0,3,7,1,Semi-Furnished,South,0,0,1,1,1,5447000
+Ghatkesar,Apartment,1009,2,1,2,0,1,5,1,Semi-Furnished,East,1,0,1,1,1,4658000
+Kollur,Apartment,1283,2,1,2,0,8,12,1,Semi-Furnished,North,1,0,1,1,1,5772000
+Kokapet,Apartment,1730,3,2,2,0,4,12,1,Fully Furnished,North,1,1,1,1,1,13500000
+Puppalaguda,Apartment,2150,3,2,2,0,3,10,1,Fully Furnished,East,1,1,1,1,1,19500000
+Kokapet,Villa,4396,4,3,2,4,0,1,2,Fully Furnished,South,1,1,1,1,0,200000000
+Kondapur,Apartment,1297,2,1,2,4,5,10,1,Fully Furnished,North-East,1,1,1,1,1,16000000
+Kompally,Apartment,1100,2,1,2,4,6,12,1,Semi-Furnished,East,1,0,1,1,1,5520000
+Kompally,Apartment,1550,3,2,2,4,10,15,1,Semi-Furnished,South,0,0,1,1,1,7634999
+Dammaiguda,Independent House,2700,4,3,2,4,1,2,1,Fully Furnished,East,0,1,1,1,0,13000000
+Alwal,Apartment,1600,3,2,2,4,4,7,1,Fully Furnished,North,1,1,1,1,1,8940000
+Yapral,Apartment,1250,3,2,2,4,8,20,1,Semi-Furnished,North,1,0,1,1,1,5000000
+Alwal,Apartment,1560,3,2,2,4,9,15,1,Fully Furnished,North,1,1,1,1,1,8600000
+Yapral,Independent House,3300,5,4,2,4,0,2,1,Fully Furnished,North-East,0,0,1,1,0,23000000
+Attapur,Apartment,2011,3,2,2,0,3,15,1,Fully Furnished,South,1,1,1,1,1,12300000
+Umdanagar,Apartment,3698,4,3,2,0,6,7,1,Fully Furnished,East,1,1,1,1,1,22700000
+Madhapur,Apartment,4070,4,3,2,4,9,10,1,Fully Furnished,North-West,1,1,1,1,1,93600000
+Serilingampally,Apartment,2650,3,2,2,4,10,15,1,Fully Furnished,North-East,1,1,1,1,1,18500000
+Sainikpuri,Apartment,1360,3,2,2,4,2,12,1,Semi-Furnished,East,1,0,1,1,1,7500000
+Kistareddypet,Independent House,2700,4,3,2,4,1,2,1,Fully Furnished,South,0,1,1,1,0,12500000
+Sainikpuri,Independent House,3500,5,4,2,4,1,3,1,Fully Furnished,South,1,0,1,1,0,22000000
+Tukkuguda,Villa,3805,3,2,2,0,0,2,2,Fully Furnished,East,1,1,1,1,0,28600000
+Nallakunta,Apartment,1811,3,2,2,4,5,7,1,Fully Furnished,North-East,1,1,1,1,1,13500000
+Nallakunta,Independent House,3750,5,4,2,4,0,2,1,Fully Furnished,North,1,0,1,1,0,22000000
+Nallakunta,Apartment,1057,2,1,2,4,12,15,1,Semi-Furnished,North,0,0,1,1,1,6200000
+Himayat Nagar,Apartment,2000,3,2,2,4,1,10,1,Fully Furnished,West,1,1,1,1,1,21000000
+Kokapet,Apartment,1200,2,1,2,4,9,20,1,Fully Furnished,North,1,1,1,1,1,8040000
+Kokapet,Apartment,1630,3,2,2,4,11,12,1,Fully Furnished,West,1,1,1,1,1,10900000
+Kokapet,Apartment,1630,3,2,2,4,10,12,1,Fully Furnished,West,1,1,1,1,1,10900000
+Himayat Nagar,Apartment,1350,3,2,2,4,6,15,1,Fully Furnished,South,1,1,1,1,1,10800000
+Bandlaguda Jagir,Apartment,6000,4,3,2,0,4,10,1,Fully Furnished,North-West,1,1,1,1,1,38300000
+Gachibowli,Apartment,4999,4,3,2,0,3,7,1,Fully Furnished,North-East,1,1,1,1,1,57400000
+Bhanur,Villa,3140,4,3,2,0,1,2,2,Fully Furnished,North-East,1,1,1,1,0,17900000
+Kachiguda,Independent House,2856,4,3,2,4,1,2,1,Fully Furnished,West,0,1,1,1,0,20000000
+Kokapet,Apartment,1575,3,2,2,4,7,10,1,Fully Furnished,West,1,1,1,1,1,14000000
+Bandlaguda Jagir,Apartment,5000,4,3,2,0,12,20,1,Fully Furnished,South,1,1,1,1,1,31900000
+Manchirevula,Apartment,1250,2,1,2,0,18,20,1,Fully Furnished,North-East,1,1,1,1,1,9998000
+Patighanpur,Apartment,1266,3,2,2,0,14,15,1,Semi-Furnished,East,0,0,1,1,1,6456000
+Kukatpally,Apartment,1800,3,2,2,0,8,12,1,Semi-Furnished,West,0,0,1,1,1,7700000
+Kapra,Apartment,2600,3,2,2,0,14,15,1,Fully Furnished,East,1,1,1,1,1,15000000
+Cherlapalli,Apartment,1250,2,1,2,4,12,15,1,Semi-Furnished,North,0,0,1,1,1,7400000
+Sainikpuri,Apartment,1585,3,2,2,0,6,7,1,Fully Furnished,West,1,1,1,1,1,8216000
+Boduppal,Independent Floor,1900,3,2,2,4,1,2,0,Fully Furnished,West,0,1,1,1,0,10600000
+Moula Ali,Apartment,1900,3,2,2,4,2,10,1,Fully Furnished,East,1,1,1,1,1,11000000
+Miyapur,Independent Floor,1503,3,2,2,4,1,2,0,Fully Furnished,West,0,1,1,1,0,8200000
+Kistareddypet,Apartment,1100,2,1,2,4,4,15,1,Semi-Furnished,North-East,1,0,1,1,1,3650000
+Nagole,Apartment,1705,3,2,2,4,15,20,1,Fully Furnished,East,1,1,1,1,1,9610000
+Moosapet,Apartment,1565,3,2,2,0,8,12,1,Fully Furnished,South,1,1,1,1,1,8607000
+Himayat Nagar,Apartment,1898,3,2,2,4,6,10,1,Fully Furnished,North,1,1,1,1,1,15800000
+Himayat Nagar,Apartment,1898,3,2,2,4,1,12,1,Fully Furnished,North-East,1,1,1,1,1,15800000
+Tellapur,Apartment,2240,3,2,2,4,6,12,1,Fully Furnished,East,1,1,1,1,1,16000000
+Manikonda,Apartment,1890,3,2,2,0,7,12,1,Fully Furnished,North-West,1,1,1,1,1,11700000
+Kompally,Apartment,1240,2,1,2,0,9,12,1,Semi-Furnished,North,1,0,1,1,1,6198000
+Tellapur,Apartment,2240,3,2,2,4,8,15,1,Fully Furnished,North-West,1,1,1,1,1,16100000
+As Rao Nagar,Apartment,1185,2,1,2,4,8,12,1,Semi-Furnished,North-East,0,0,1,1,1,6800000
+Banjara Hills,Independent House,6600,7,6,2,4,0,2,1,Fully Furnished,East,1,1,1,1,0,125000000
+Somajiguda,Apartment,2300,3,2,2,4,1,15,1,Fully Furnished,East,1,1,1,1,1,21000000
+Somajiguda,Apartment,2300,3,2,2,4,3,10,1,Fully Furnished,East,1,1,1,1,1,21000000
+Jubilee Hills,Villa,6400,5,4,2,4,1,3,2,Fully Furnished,North,1,1,1,1,0,135000000
+Manikonda,Apartment,2695,4,3,2,0,11,20,1,Fully Furnished,East,1,1,1,1,1,22900000
+Rampally,Independent House,1200,2,1,2,4,0,2,1,Fully Furnished,West,1,0,1,1,0,9500000
+Miyapur,Apartment,1290,2,1,2,4,14,15,1,Fully Furnished,West,1,1,1,1,1,8384999
+Miyapur,Apartment,3252,4,3,2,0,11,15,1,Fully Furnished,South,1,1,1,1,1,23400000
+Manikonda,Apartment,1890,3,2,2,0,13,15,1,Fully Furnished,North-East,1,1,1,1,1,11700000
+Miyapur,Apartment,2424,3,2,2,0,4,12,1,Fully Furnished,North-East,1,1,1,1,1,17400000
+Miyapur,Apartment,2115,3,2,2,4,2,5,1,Fully Furnished,North,1,1,1,1,1,13700000
+Narsingi,Apartment,1920,3,2,2,0,12,20,1,Fully Furnished,East,1,1,1,1,1,12600000
+Kukatpally,Apartment,1350,2,1,2,0,14,15,1,Semi-Furnished,East,0,0,1,1,1,5130000
+Ibrahimpatnam,Apartment,1020,2,1,2,4,5,15,1,Unfurnished,South,0,0,1,1,1,2896000
+Ibrahimpatnam,Apartment,1800,4,3,2,0,11,12,1,Semi-Furnished,West,0,0,1,1,1,6500000
+Shankarpally Road,Apartment,1765,3,2,2,0,7,15,1,Fully Furnished,North-East,1,1,1,1,1,10000000
+Mokila,Apartment,1330,2,1,2,4,3,12,1,Semi-Furnished,East,0,0,1,1,1,7579000
+Lb Nagar,Apartment,1600,3,2,2,0,4,24,1,Fully Furnished,East,1,1,1,1,1,8800000
+Manikonda,Apartment,1890,3,2,2,0,4,12,1,Fully Furnished,West,1,1,1,1,1,11300000
+Manikonda,Apartment,1890,3,2,2,0,8,15,1,Fully Furnished,North,1,1,1,1,1,14100000
+Manikonda,Apartment,1890,3,2,2,0,5,10,1,Fully Furnished,West,1,1,1,1,1,11300000
+HITEC City,Apartment,1660,3,2,2,0,6,15,1,Fully Furnished,North-East,1,1,1,1,1,9130000
+Tellapur,Apartment,1865,3,2,2,0,5,15,1,Fully Furnished,East,1,1,1,1,1,8579000
+Kokapet,Apartment,1960,3,2,2,4,2,5,1,Fully Furnished,North,1,1,1,1,1,14100000
+Narsingi,Apartment,1670,3,2,2,0,9,12,1,Fully Furnished,North,1,1,1,1,1,9853000
+Uppal,Apartment,1660,3,2,2,0,1,12,1,Fully Furnished,East,1,1,1,1,1,8300000
+Kondapur,Apartment,1695,3,2,2,0,4,12,1,Fully Furnished,North-East,1,1,1,1,1,12300000
+Kondapur,Apartment,1916,3,2,2,0,3,12,1,Fully Furnished,South,1,1,1,1,1,11400000
+Kukatpally,Apartment,1660,3,2,2,0,2,7,1,Fully Furnished,South,1,1,1,1,1,12400000
+Puppalaguda,Apartment,1230,2,1,2,0,4,12,1,Semi-Furnished,North-East,0,0,1,1,1,6765000
+Kondapur,Apartment,1800,3,2,2,0,2,7,1,Fully Furnished,South,1,1,1,1,1,13500000
+Tellapur,Apartment,1355,2,1,2,0,3,12,1,Semi-Furnished,East,0,0,1,1,1,6775000
+Miyapur,Apartment,1640,3,2,2,0,3,10,1,Fully Furnished,South,1,1,1,1,1,12300000
+Narsingi,Apartment,1860,3,2,2,0,3,12,1,Fully Furnished,West,1,1,1,1,1,14800000
+Narsingi,Apartment,1860,3,2,2,0,5,7,1,Fully Furnished,East,1,1,1,1,1,15800000
+Kokapet,Apartment,2100,3,2,2,0,10,15,1,Fully Furnished,East,1,1,1,1,1,12600000
+Kokapet,Apartment,1670,3,2,2,0,4,15,1,Fully Furnished,South,1,1,1,1,1,9853000
+Somajiguda,Apartment,3278,4,3,2,0,4,12,1,Fully Furnished,East,1,1,1,1,1,44900000
+Kukatpally,Apartment,2155,3,2,2,0,1,7,1,Fully Furnished,South,1,1,1,1,1,14400000
+Ibrahimpatnam,Apartment,1000,2,1,2,4,2,12,1,Unfurnished,East,0,0,1,0,1,2826000
+HITEC City,Apartment,2265,3,2,2,0,1,12,1,Fully Furnished,North,1,1,1,1,1,21500000
+Velimela,Apartment,2196,3,2,2,0,11,12,1,Fully Furnished,East,1,1,1,1,1,13300000
+Moosapet,Apartment,2880,3,2,2,0,9,15,1,Fully Furnished,West,1,1,1,1,1,21500000
+Moosapet,Apartment,1300,2,1,2,0,13,20,1,Fully Furnished,South,1,1,1,1,1,9748000
+Gachibowli,Apartment,2650,3,2,2,4,6,10,1,Fully Furnished,South,1,1,1,1,1,18000000
+Kondapur,Apartment,1800,3,2,2,0,11,15,1,Fully Furnished,South,1,1,1,1,1,8500000
+Bachupally,Apartment,1200,2,1,2,0,14,15,1,Semi-Furnished,North-East,1,0,1,1,1,6719000
+Tarnaka,Apartment,1040,2,1,2,4,7,15,1,Semi-Furnished,South,0,0,1,1,1,5500000
+Nallakunta,Apartment,1200,2,1,2,4,5,12,1,Semi-Furnished,North,0,0,1,1,1,7500000
+Nallakunta,Apartment,1633,2,1,2,4,2,10,1,Fully Furnished,East,1,0,1,1,1,8000000
+Nallakunta,Apartment,1500,3,2,2,4,1,10,1,Fully Furnished,North,1,1,1,1,1,9900000
+Uppal Kalan,Apartment,1500,3,2,2,4,6,12,1,Fully Furnished,East,1,1,1,1,1,8800000
+Manikonda,Apartment,1500,3,2,2,0,1,10,1,Fully Furnished,South,1,1,1,1,1,8700000
+Manikonda,Apartment,1608,3,2,2,0,19,20,1,Fully Furnished,West,1,1,1,1,1,9326000
+Puppalaguda,Apartment,1425,3,2,2,0,10,20,1,Fully Furnished,North,1,1,1,1,1,9262000
+Ameenpur,Apartment,1518,3,2,2,0,19,20,1,Fully Furnished,East,1,1,1,1,1,9108000
+Ameenpur,Apartment,1260,2,1,2,0,5,12,1,Semi-Furnished,South,0,0,1,1,1,7559999
+Puppalaguda,Apartment,1605,3,2,2,0,5,12,1,Fully Furnished,North-East,1,1,1,1,1,10400000
+Ameenpur,Apartment,1300,2,1,2,0,5,12,1,Semi-Furnished,West,0,0,1,1,1,7800000
+Ameenpur,Apartment,1261,2,1,2,0,10,15,1,Semi-Furnished,North-East,0,0,1,1,1,7600000
+Isnapur,Apartment,1210,2,1,2,4,2,7,1,Semi-Furnished,East,1,0,1,1,1,5445000
+Manikonda,Apartment,1500,3,2,2,0,4,20,1,Fully Furnished,North,1,1,1,1,1,8700000
+Isnapur,Apartment,1210,2,1,2,0,6,15,1,Semi-Furnished,North-East,0,0,1,1,1,5445000
+Patighanpur,Apartment,1306,2,1,2,4,9,10,1,Semi-Furnished,East,1,0,1,1,1,6659000
+Gachibowli,Apartment,2650,3,2,2,4,8,15,1,Fully Furnished,East,1,1,1,1,1,18000000
+Film Nagar,Independent Floor,4127,4,3,2,4,0,2,0,Fully Furnished,North-East,0,1,1,1,0,64000000
+Bowrampet,Apartment,1730,3,2,2,0,4,5,1,Semi-Furnished,East,0,0,1,1,1,7783000
+Bowrampet,Apartment,1650,3,2,2,0,6,7,1,Semi-Furnished,North-West,0,0,1,1,1,7423000
+Bowrampet,Apartment,1165,2,1,2,0,3,5,1,Semi-Furnished,North-West,0,0,1,1,1,5241000
+Nizampet,Apartment,1500,3,2,2,0,8,10,1,Fully Furnished,East,1,1,1,1,1,9000000
+Mallampet,Apartment,1350,3,2,2,0,16,24,1,Semi-Furnished,East,0,0,0,0,1,3100000
+Madhapur,Apartment,3430,3,2,2,4,10,15,1,Fully Furnished,West,1,1,1,1,1,81000000
+Miyapur,Apartment,1185,2,1,2,4,6,20,1,Semi-Furnished,East,0,0,1,1,1,6200000
+Thimmapur,Independent House,1001,2,1,2,4,1,2,1,Semi-Furnished,South,0,0,1,1,0,4800000
+Hyder Nagar,Apartment,1060,2,1,2,0,8,12,1,Semi-Furnished,East,1,0,1,1,1,3800000
+Hyder Nagar,Apartment,1060,2,1,2,0,2,5,1,Semi-Furnished,North-East,0,0,1,1,1,3800000
+Hyder Nagar,Apartment,1060,2,1,2,0,4,20,1,Semi-Furnished,East,0,0,1,1,1,3800000
+Gachibowli,Apartment,1290,2,1,2,0,7,10,1,Semi-Furnished,East,0,0,1,1,1,5805000
+Hayathnagar,Independent House,2800,3,2,2,4,1,2,1,Fully Furnished,West,0,1,1,1,0,14000000
+Bachupally,Apartment,1230,2,1,2,0,8,10,1,Semi-Furnished,South,1,0,1,1,1,5500000
+Tellapur,Apartment,1290,2,1,2,0,8,12,1,Semi-Furnished,East,1,0,1,1,1,4515000
+Miyapur,Apartment,1215,2,1,2,0,7,12,1,Fully Furnished,West,1,1,1,1,1,8140000
+Kollur,Apartment,1290,2,1,2,0,10,12,1,Semi-Furnished,North,0,0,1,1,1,5160000
+Chandanagar,Apartment,1415,3,2,2,4,9,12,1,Semi-Furnished,East,0,0,1,1,1,7781999
+Kondapur,Apartment,1580,3,2,2,0,5,12,1,Fully Furnished,East,1,1,1,1,1,9480000
+Lingampally,Apartment,1350,3,2,2,0,3,10,1,Semi-Furnished,North-East,0,0,1,0,1,3400000
+Gachibowli,Apartment,1290,2,1,2,0,5,15,1,Semi-Furnished,North,1,0,1,1,1,6964000
+Chandanagar,Apartment,1200,2,1,2,0,3,12,1,Unfurnished,East,0,0,0,1,1,2801000
+Patancheru,Villa,2000,3,2,2,0,0,1,2,Semi-Furnished,South,1,1,1,1,0,6500000
+Ameenpur,Apartment,1450,3,2,2,0,12,20,1,Semi-Furnished,North-West,0,0,1,1,1,6233000
+Ameenpur,Apartment,1070,2,1,2,4,9,10,1,Semi-Furnished,East,0,0,1,1,1,5300000
+Ameenpur,Apartment,1070,2,1,2,4,1,5,1,Semi-Furnished,East,0,0,1,1,1,5300000
+Ameenpur,Apartment,1500,3,2,2,0,9,10,1,Fully Furnished,North-West,1,1,1,1,1,8298000
+Ameenpur,Apartment,1500,3,2,2,0,1,20,1,Fully Furnished,South,1,1,1,1,1,8298000
+Ameenpur,Apartment,1150,2,1,2,0,2,12,1,Semi-Furnished,South,1,0,1,1,1,6698000
+Ameenpur,Apartment,1100,2,1,2,0,11,12,1,Semi-Furnished,North-East,0,0,1,1,1,6378000
+Ameenpur,Apartment,1150,2,1,2,0,6,7,1,Semi-Furnished,East,1,0,1,1,1,6698000
+Ameenpur,Apartment,1100,2,1,2,0,2,12,1,Semi-Furnished,South,0,0,1,1,1,6378000
+Ameenpur,Apartment,1500,3,2,2,0,6,7,1,Fully Furnished,North,1,1,1,1,1,8298000
+Ameenpur,Apartment,1100,2,1,2,0,10,20,1,Semi-Furnished,North-East,0,0,1,1,1,6378000
+Gachibowli,Apartment,2530,4,3,2,4,2,10,1,Fully Furnished,North,1,1,1,1,1,34200000
+Nallakunta,Independent House,2000,4,3,2,4,1,3,1,Fully Furnished,North,1,1,1,1,0,9500000
+Patancheru,Villa,1630,3,2,2,0,0,2,2,Fully Furnished,West,1,1,1,1,0,8300000
+Bachupally,Apartment,1125,2,1,2,4,3,7,1,Semi-Furnished,West,0,0,1,1,1,4500000
+Kompally,Villa,3300,4,3,2,0,0,1,2,Fully Furnished,South,1,1,1,1,0,23000000
+Gajularamaram,Apartment,1375,2,1,2,0,8,12,1,Semi-Furnished,North,1,0,1,1,1,7562000
+Gajularamaram,Apartment,1315,2,1,2,0,6,15,1,Semi-Furnished,North,0,0,1,1,1,7231999
+Gajularamaram,Apartment,1515,3,2,2,0,10,20,1,Fully Furnished,West,1,1,1,1,1,8331999
+Gajularamaram,Apartment,1160,2,1,2,0,19,24,1,Semi-Furnished,North,1,0,1,1,1,6380000
+Gajularamaram,Apartment,1490,3,2,2,0,7,15,1,Fully Furnished,South,1,1,1,1,1,8195000
+Kukatpally,Apartment,1854,3,2,2,4,4,20,1,Fully Furnished,South,1,1,1,1,1,16500000
+Kukatpally,Apartment,1854,3,2,2,4,6,15,1,Fully Furnished,East,1,1,1,1,1,16500000
+HITEC City,Apartment,4761,4,3,2,4,4,5,1,Fully Furnished,West,1,1,1,1,1,50000000
+Kokapet,Apartment,2630,4,3,2,4,14,20,1,Fully Furnished,West,1,1,1,1,1,18400000
+Nacharam,Independent House,1076,4,3,2,4,0,1,1,Semi-Furnished,West,0,0,1,1,0,6500000
+Chilkanagar,Independent House,1233,1,1,1,4,0,2,1,Unfurnished,North,0,0,0,1,0,2700000
+Uppal Kalan,Apartment,1250,3,2,2,4,17,24,1,Semi-Furnished,West,1,0,1,1,1,7650000
+Mes Colony,Apartment,1400,3,2,2,4,1,5,1,Fully Furnished,East,1,0,1,1,1,8000000
+Moti Nagar,Apartment,850,2,1,2,4,3,7,1,Semi-Furnished,West,1,0,1,1,1,6300000
+Kondapur,Apartment,1100,2,1,2,4,1,20,1,Fully Furnished,East,1,1,1,1,1,8900000
+Kukatpally,Apartment,1520,3,2,2,4,3,12,1,Fully Furnished,North,1,1,1,1,1,9500000
+Padmarao Nagar,Apartment,1100,3,2,2,4,4,7,1,Semi-Furnished,East,0,0,1,1,1,5500000
+Kompally,Apartment,1768,3,2,2,4,11,12,1,Semi-Furnished,North-East,1,0,1,1,1,7665000
+Yapral,Apartment,1495,3,2,2,0,3,12,1,Semi-Furnished,West,0,0,1,1,1,6530000
+Bowrampet,Apartment,1730,3,2,2,0,11,12,1,Semi-Furnished,East,1,0,1,1,1,7863000
+Kompally,Villa,3078,4,3,2,4,1,3,2,Fully Furnished,South,1,1,1,1,0,12400000
+Miyapur,Apartment,1485,3,2,2,0,8,12,1,Semi-Furnished,West,0,0,1,1,1,7651000
+Auto Nagar,Apartment,1612,3,2,2,4,9,12,1,Semi-Furnished,East,0,0,1,1,1,7652000
+Uppal Kalan,Villa,1958,3,2,2,4,1,2,2,Fully Furnished,North,1,1,1,1,0,8156000
+Yousufguda,Apartment,2180,3,2,2,4,7,15,1,Fully Furnished,North,1,1,1,1,1,8960000
+Kothapet,Apartment,1581,3,2,2,4,14,15,1,Semi-Furnished,South,1,0,1,1,1,7128000
+Kothapet,Apartment,1750,3,2,2,0,10,12,1,Semi-Furnished,East,1,0,1,1,1,7652000
+Lb Nagar,Apartment,2100,3,2,2,0,6,12,1,Fully Furnished,West,1,1,1,1,1,8562000
+Kondapur,Apartment,1869,3,2,2,4,7,15,1,Semi-Furnished,East,0,0,1,1,1,7765000
+Chandanagar,Apartment,1912,3,2,2,4,13,15,1,Semi-Furnished,East,1,0,1,1,1,6584000
+Miyapur,Apartment,1620,3,2,2,4,18,20,1,Semi-Furnished,North-East,1,0,1,1,1,6795000
+Sainikpuri,Apartment,2640,3,2,2,4,6,10,1,Fully Furnished,South,1,1,1,1,1,10300000
+Saroor Nagar,Apartment,1385,3,2,2,4,1,7,1,Semi-Furnished,West,1,0,1,1,1,7630000
+Attapur,Apartment,2800,4,3,2,4,4,5,1,Fully Furnished,North,1,1,1,1,1,12400000
+Banjara Hills,Apartment,2338,3,2,2,4,16,20,1,Fully Furnished,East,1,1,1,1,1,9563000
+Narsingi,Villa,8214,5,4,2,0,0,1,2,Fully Furnished,East,1,1,1,1,0,76400000
+Fair Lands,Apartment,1100,2,1,2,4,6,12,1,Semi-Furnished,East,0,0,1,1,1,6700000
+Falaknuma,Independent House,1500,2,1,2,4,1,3,1,Fully Furnished,North,1,0,1,1,0,8000000
+Sbi Executive Enclave,Apartment,1100,2,1,2,4,9,20,1,Semi-Furnished,North,1,0,1,1,1,6100000
+Excise Colony,Apartment,1000,2,1,2,4,14,20,1,Semi-Furnished,North,0,0,1,1,1,5900000
+Express Highway,Apartment,1200,2,1,2,4,1,10,1,Semi-Furnished,East,1,0,1,1,1,6500000
+Etebar Chowk Hyderabad,Apartment,1100,2,1,2,4,7,12,1,Semi-Furnished,West,0,0,1,1,1,4900000
+Essamiya Bazar,Apartment,900,2,1,2,4,6,7,1,Semi-Furnished,North,0,0,1,1,1,4900000
+Ghori Nagar,Apartment,1190,2,1,2,4,4,15,1,Semi-Furnished,East,0,0,1,1,1,5900000
+Gopanpally,Apartment,1290,2,1,2,4,23,24,1,Semi-Furnished,North-East,1,0,1,1,1,7600000
+Giani Zail Singh Nagar,Apartment,900,2,1,2,4,5,7,1,Semi-Furnished,East,0,0,1,1,1,5800000
+Ghouse Nagar,Apartment,1090,2,1,2,4,1,12,1,Semi-Furnished,North,1,0,1,1,1,6700000
+Hill Top Colony,Apartment,1100,2,1,2,4,4,5,1,Semi-Furnished,South,1,0,1,1,1,6900000
+Himayatnagar,Apartment,980,2,1,2,4,5,20,1,Semi-Furnished,East,1,0,1,1,1,6800000
+Himayat Nagar,Apartment,1000,2,1,2,4,9,24,1,Semi-Furnished,North,1,0,1,1,1,6300000
+HITEC City,Apartment,1190,2,1,2,4,18,20,1,Fully Furnished,North-East,1,1,1,1,1,8900000
+Hcl Nagar,Apartment,900,2,1,2,4,4,7,1,Semi-Furnished,East,1,0,1,1,1,5900000
+Hb Colony Main Road,Apartment,1180,2,1,2,4,2,10,1,Semi-Furnished,North-East,1,0,1,1,1,6100000
+Hasmathpet,Apartment,1100,2,1,2,4,12,20,1,Semi-Furnished,North,0,0,1,1,1,6100000
+Hakimpet,Apartment,900,2,1,2,4,8,10,1,Semi-Furnished,East,0,0,1,1,1,6800000
+Habsiguda,Apartment,1100,2,1,2,4,3,12,1,Semi-Furnished,West,0,0,1,1,1,6500000
+Ameenpur,Apartment,1150,2,1,2,0,16,20,1,Semi-Furnished,East,1,0,1,1,1,5520000
+Ameenpur,Apartment,1600,3,2,2,0,8,15,1,Semi-Furnished,North,1,0,1,1,1,7680000
+Osman Nagar,Apartment,1675,3,2,2,4,1,7,1,Semi-Furnished,North-East,1,0,1,1,1,7538000
+Osman Nagar,Apartment,1675,3,2,2,4,4,10,1,Unfurnished,East,0,0,1,0,1,2565000
+Ameenpur,Apartment,1335,2,1,2,0,19,20,1,Semi-Furnished,South,0,0,1,1,1,5800000
+Bachupally,Apartment,1962,3,2,2,4,7,15,1,Fully Furnished,North,1,1,1,1,1,9588000
+Kondapur,Apartment,1350,3,2,2,4,6,15,1,Semi-Furnished,East,0,0,1,1,1,6584999
+Boduppal Dwaraka Nagar,Independent House,3200,4,3,2,4,0,1,1,Fully Furnished,East,0,1,1,1,0,15800000
+Ameenpur,Apartment,1150,2,1,2,0,15,20,1,Semi-Furnished,South,1,0,1,1,1,5518000
+Ameenpur,Apartment,1150,2,1,2,0,1,10,1,Semi-Furnished,South,1,0,1,1,1,5518000
+Chandanagar,Apartment,1150,2,1,2,0,2,7,1,Semi-Furnished,North-East,1,0,1,1,1,5518000
+Ameenpur,Apartment,1600,3,2,2,0,8,10,1,Semi-Furnished,North,1,0,1,1,1,7678000
+Chandanagar,Apartment,1600,3,2,2,0,3,5,1,Semi-Furnished,East,1,0,1,1,1,7678000
+HITEC City,Apartment,1835,3,2,2,4,9,10,1,Semi-Furnished,South,0,0,1,1,1,7123000
+Gachibowli,Apartment,1815,4,3,2,0,1,15,1,Fully Furnished,South,1,1,1,1,1,9156000
+Srinagar Colony Road,Independent Floor,2608,4,3,2,4,1,2,0,Fully Furnished,East,0,1,1,1,0,33000000
+Tilak Nagar,Independent House,2205,4,3,2,4,0,2,1,Fully Furnished,North-East,1,0,1,1,0,29000000
+Mokila,Villa,3500,4,3,2,4,0,1,2,Fully Furnished,West,1,1,1,1,0,15300000
+Kompally,Apartment,1235,2,1,2,4,9,15,1,Semi-Furnished,North,0,0,1,1,1,5263000
+Kompally,Apartment,1730,3,2,2,0,5,10,1,Fully Furnished,East,0,0,1,1,1,8000000
+Ameenpur,Apartment,1150,2,1,2,0,1,5,1,Semi-Furnished,North-East,0,0,1,1,1,6323000
+Attapur,Apartment,1034,2,1,2,4,4,12,1,Semi-Furnished,South,0,0,1,1,1,6500000
+Chikkadapally,Independent House,1755,5,4,2,4,1,3,1,Fully Furnished,East,0,0,1,1,0,22500000
+Shastripuram Road,Apartment,1403,4,3,2,0,7,20,1,Semi-Furnished,East,0,0,1,1,1,5398000
+Gopanpally,Apartment,1450,3,2,2,4,13,20,1,Semi-Furnished,South,0,0,1,1,1,7562000
+Maheshwaram,Villa,3509,4,3,2,0,0,2,2,Fully Furnished,North,1,1,1,1,0,15600000
+Kondapur,Apartment,2005,3,2,2,0,6,15,1,Fully Furnished,East,1,1,1,1,1,17200000
+Kondapur,Apartment,1945,3,2,2,0,7,15,1,Fully Furnished,West,1,1,1,1,1,16700000
+Kondapur,Apartment,1845,3,2,2,0,2,10,1,Fully Furnished,East,1,1,1,1,1,15800000
+Kondapur,Apartment,1850,3,2,2,0,6,12,1,Fully Furnished,West,1,1,1,1,1,15900000
+Kondapur,Apartment,1585,3,2,2,0,5,10,1,Fully Furnished,South,1,1,1,1,1,13600000
+Kondapur,Apartment,1890,3,2,2,0,3,12,1,Fully Furnished,North,1,1,1,1,1,16200000
+Kondapur,Apartment,2190,3,2,2,0,11,12,1,Fully Furnished,East,1,1,1,1,1,18800000
+Kondapur,Apartment,1595,3,2,2,0,9,12,1,Fully Furnished,North-West,1,1,1,1,1,13700000
+Kondapur,Apartment,2300,3,2,2,0,10,12,1,Fully Furnished,North,1,1,1,1,1,19500000
+Kondapur,Apartment,1515,2,1,2,0,22,24,1,Fully Furnished,South,1,1,1,1,1,12800000
+Kondapur,Apartment,1715,3,2,2,0,19,20,1,Fully Furnished,East,1,1,1,1,1,14500000
+Kondapur,Apartment,1555,3,2,2,0,3,24,1,Fully Furnished,East,1,1,1,1,1,13200000
+Kondapur,Apartment,1750,3,2,2,0,9,15,1,Fully Furnished,East,1,1,1,1,1,14800000
+Kondapur,Apartment,1225,2,1,2,0,13,20,1,Fully Furnished,East,1,1,1,1,1,10400000
+Kondapur,Apartment,1695,3,2,2,0,9,24,1,Fully Furnished,West,1,1,1,1,1,14400000
+Kondapur,Apartment,2000,3,2,2,0,7,10,1,Fully Furnished,North-East,1,1,1,1,1,17000000
+Kondapur,Apartment,1870,3,2,2,0,3,12,1,Fully Furnished,West,1,1,1,1,1,15800000
+Ameenpur,Apartment,1150,2,1,2,0,14,20,1,Semi-Furnished,East,0,0,1,1,1,5520000
+Ameenpur,Apartment,1600,3,2,2,0,5,10,1,Semi-Furnished,North,0,0,1,1,1,7680000
+Ameenpur,Apartment,1600,3,2,2,0,8,12,1,Semi-Furnished,East,0,0,1,1,1,7680000
+Ameenpur,Apartment,1150,2,1,2,0,9,10,1,Semi-Furnished,North,1,0,1,1,1,5520000
+Ameenpur,Apartment,1600,3,2,2,0,4,5,1,Semi-Furnished,North,0,0,1,1,1,7680000
+Ameenpur,Apartment,1150,2,1,2,0,5,10,1,Semi-Furnished,South,1,0,1,1,1,5520000
+Ameenpur,Apartment,1600,3,2,2,0,9,10,1,Semi-Furnished,North-West,0,0,1,1,1,7680000
+Ameenpur,Apartment,1600,3,2,2,0,4,5,1,Semi-Furnished,East,1,0,1,1,1,7680000
+Ameenpur,Apartment,1150,2,1,2,0,2,20,1,Semi-Furnished,North,0,0,1,1,1,5520000
+Ameenpur,Apartment,1600,3,2,2,0,14,15,1,Semi-Furnished,North-East,0,0,1,1,1,7680000
+Ameenpur,Apartment,1150,2,1,2,0,8,10,1,Semi-Furnished,South,1,0,1,1,1,5520000
+Ameenpur,Apartment,1150,2,1,2,0,7,10,1,Semi-Furnished,North,0,0,1,1,1,5520000
+Ameenpur,Apartment,1600,3,2,2,0,1,12,1,Semi-Furnished,North-West,0,0,1,1,1,7680000
+Chandanagar,Apartment,1040,2,1,2,0,3,10,1,Semi-Furnished,East,0,0,1,1,1,5800000
+Peerzadiguda,Apartment,1110,2,1,2,4,2,10,1,Semi-Furnished,North-East,1,0,1,1,1,5395000
+Kukatpally,Apartment,1216,2,1,2,0,5,12,1,Fully Furnished,East,1,1,1,1,1,8700000
+Kollur Road,Villa,1800,3,2,2,0,0,2,2,Fully Furnished,North,1,1,1,1,0,25000000
+Kukatpally,Villa,2500,3,2,2,4,1,2,2,Fully Furnished,North-East,1,1,1,1,0,23000000
+Bhanur,Apartment,1440,2,1,2,0,1,12,1,Semi-Furnished,East,1,0,1,1,1,4320000
+Bachupally,Apartment,1210,2,1,2,4,9,15,1,Semi-Furnished,West,1,0,1,1,1,6655000
+Mallapur,Apartment,1017,2,1,2,0,4,20,1,Semi-Furnished,West,0,0,1,1,1,5083000
+Mallapur,Apartment,1017,2,1,2,0,2,20,1,Semi-Furnished,North-West,0,0,1,1,1,5083000
+Mallapur,Apartment,1179,2,1,2,0,1,20,1,Semi-Furnished,North-East,1,0,1,1,1,5893000
+Mallapur,Apartment,1179,2,1,2,0,3,5,1,Semi-Furnished,South,1,0,1,1,1,5893000
+Bachupally,Apartment,1200,2,1,2,4,6,12,1,Semi-Furnished,North,0,0,1,1,1,5400000
+Mallapur,Apartment,1125,3,2,2,0,9,12,1,Semi-Furnished,North-East,0,0,1,1,1,5624000
+Mallapur,Apartment,1125,3,2,2,0,4,10,1,Semi-Furnished,West,0,0,1,1,1,5624000
+Gagillapur,Apartment,1100,2,1,2,0,8,12,1,Semi-Furnished,West,1,0,1,1,1,5000000
+Begumpet,Independent House,7500,5,4,2,4,0,1,1,Fully Furnished,South,0,1,1,1,0,50000000
+Dammaiguda,Apartment,1000,2,1,2,0,9,12,1,Semi-Furnished,West,0,0,1,1,1,4500000
+Kukatpally,Apartment,1380,3,2,2,0,4,15,1,Semi-Furnished,East,0,0,1,1,1,6831000
+Kompally,Apartment,1850,3,2,2,0,12,15,1,Fully Furnished,East,1,1,1,1,1,8509000
+Kompally,Apartment,1175,2,1,2,0,6,7,1,Semi-Furnished,East,0,0,1,1,1,5405000
+Kompally,Apartment,1700,3,2,2,0,3,15,1,Semi-Furnished,North-East,0,0,1,1,1,7819000
+Kompally,Apartment,1500,3,2,2,0,2,15,1,Semi-Furnished,West,0,0,1,1,1,6898999
+Kompally,Apartment,1499,3,2,2,0,7,10,1,Semi-Furnished,South,0,0,1,1,1,6895999
+Kompally,Apartment,1200,2,1,2,0,8,24,1,Semi-Furnished,West,0,0,1,1,1,5519000
+Kompally,Apartment,1650,3,2,2,0,6,15,1,Semi-Furnished,East,0,0,1,1,1,7590000
+Kompally,Apartment,1550,3,2,2,0,18,20,1,Semi-Furnished,West,0,0,1,1,1,7130000
+Kompally,Apartment,1820,3,2,2,0,6,12,1,Fully Furnished,South,1,1,1,1,1,8370999
+Adibatla,Apartment,1196,2,1,2,4,4,5,1,Semi-Furnished,North,1,0,1,1,1,5681000
+Adibatla,Apartment,1394,3,2,2,4,1,10,1,Semi-Furnished,North-East,1,0,1,1,1,6620999
+Adibatla,Apartment,1069,2,1,2,4,1,12,1,Semi-Furnished,North,1,0,1,1,1,5077000
+Adibatla,Apartment,1500,3,2,2,4,14,15,1,Semi-Furnished,North,0,0,1,1,1,7125000
+Adibatla,Apartment,1199,2,1,2,4,13,15,1,Semi-Furnished,North,0,0,1,1,1,5695000
+Adibatla,Apartment,1101,2,1,2,4,1,12,1,Semi-Furnished,North-West,0,0,1,1,1,5229000
+Adibatla,Apartment,1100,2,1,2,4,6,12,1,Semi-Furnished,South,1,0,1,1,1,5225000
+Ameenpur,Apartment,1150,2,1,2,0,17,20,1,Semi-Furnished,East,0,0,1,1,1,5405000
+Ameenpur,Independent House,1250,2,1,2,0,1,3,1,Fully Furnished,North,0,1,1,1,0,16000000
+Boduppal,Independent House,4320,5,4,2,4,0,2,1,Fully Furnished,South,0,0,1,1,0,23000000
+Ameenpur,Independent House,1250,2,1,2,0,1,2,1,Fully Furnished,South,0,1,1,1,0,16000000
+Ameenpur,Independent House,1250,2,1,2,0,1,2,1,Fully Furnished,East,1,0,1,1,0,16000000
+Ameenpur,Independent House,1250,2,1,2,0,0,1,1,Fully Furnished,North-East,0,1,1,1,0,16000000
+Ameenpur,Independent House,1250,2,1,2,0,0,2,1,Fully Furnished,North-West,0,1,1,1,0,16000000
+Ameenpur,Independent House,1250,2,1,2,0,1,3,1,Fully Furnished,East,1,0,1,1,0,16000000
+Ameenpur,Independent House,1250,2,1,2,0,0,2,1,Fully Furnished,North-East,0,1,1,1,0,16000000
+Ameenpur,Independent House,1250,2,1,2,0,1,2,1,Fully Furnished,East,0,0,1,1,0,16000000
+Ameenpur,Independent House,1250,2,1,2,0,0,2,1,Fully Furnished,East,1,0,1,1,0,16000000
+Gagillapur,Villa,2190,3,2,2,0,0,1,2,Fully Furnished,East,1,1,1,1,0,13300000
+Medchal,Apartment,1100,2,1,2,0,8,15,1,Semi-Furnished,East,0,0,1,0,1,3080000
+Manikonda,Apartment,1605,3,2,2,0,11,12,1,Fully Furnished,North-East,1,1,1,1,1,11200000
+Manikonda,Apartment,1605,3,2,2,0,9,12,1,Fully Furnished,East,1,1,1,1,1,11200000
+Manikonda,Apartment,1370,3,2,2,0,4,5,1,Fully Furnished,East,1,1,1,1,1,9576000
+Manikonda,Apartment,1640,3,2,2,0,3,15,1,Fully Furnished,East,1,1,1,1,1,11400000
+Manikonda,Apartment,1545,3,2,2,0,1,12,1,Fully Furnished,East,1,1,1,1,1,10700000
+Manikonda,Apartment,1935,3,2,2,0,3,12,1,Fully Furnished,East,1,1,1,1,1,13500000
+Manikonda,Apartment,1935,3,2,2,0,8,12,1,Fully Furnished,North,1,1,1,1,1,13500000
+Manikonda,Apartment,1995,3,2,2,0,13,15,1,Fully Furnished,East,1,1,1,1,1,13900000
+Manikonda,Apartment,1995,3,2,2,0,1,15,1,Fully Furnished,North-East,1,1,1,1,1,13900000
+Manikonda,Apartment,2300,3,2,2,0,7,20,1,Fully Furnished,South,1,1,1,1,1,16000000
+Manikonda,Apartment,2300,3,2,2,0,5,24,1,Fully Furnished,East,1,1,1,1,1,16000000
+Manikonda,Apartment,1953,3,2,2,0,3,5,1,Fully Furnished,North-East,1,1,1,1,1,13600000
+Manikonda,Apartment,2410,3,2,2,0,2,5,1,Fully Furnished,East,1,1,1,1,1,16800000
+Manikonda,Apartment,2045,3,2,2,0,7,10,1,Fully Furnished,East,1,1,1,1,1,14200000
+Manikonda,Apartment,2045,3,2,2,0,4,5,1,Fully Furnished,East,1,1,1,1,1,14200000
+Manikonda,Apartment,2140,3,2,2,0,2,15,1,Fully Furnished,West,1,1,1,1,1,14900000
+Manikonda,Apartment,1940,3,2,2,0,1,15,1,Fully Furnished,North,1,1,1,1,1,13500000
+Manikonda,Apartment,1940,3,2,2,0,2,12,1,Fully Furnished,South,1,1,1,1,1,13500000
+Manikonda,Apartment,1827,3,2,2,0,4,7,1,Fully Furnished,West,1,1,1,1,1,12700000
+Manikonda,Apartment,1827,3,2,2,0,1,12,1,Fully Furnished,South,1,1,1,1,1,12700000
+Bachupally,Apartment,1172,3,2,2,0,2,7,1,Semi-Furnished,East,1,0,1,1,1,5155000
+Bachupally,Apartment,1174,2,1,2,0,9,10,1,Semi-Furnished,South,0,0,1,1,1,5164000
+Bachupally,Apartment,1172,3,2,2,0,9,20,1,Semi-Furnished,East,1,0,1,1,1,5155000
+Bachupally,Apartment,1191,3,2,2,0,3,15,1,Semi-Furnished,East,1,0,1,1,1,5239000
+Bachupally,Apartment,1191,3,2,2,0,10,12,1,Semi-Furnished,East,0,0,1,1,1,5239000
+Sadashivpet,Villa,1520,3,2,2,0,1,3,2,Semi-Furnished,East,1,1,1,1,0,6004000
+Kokapet,Apartment,6999,4,3,2,0,1,7,1,Fully Furnished,North,1,1,1,1,1,76900000
+Kokapet,Apartment,6565,4,3,2,0,12,15,1,Fully Furnished,North-East,1,1,1,1,1,72200000
+Kokapet,Apartment,6565,4,3,2,0,6,10,1,Fully Furnished,East,1,1,1,1,1,72200000
+Kokapet,Apartment,7000,4,3,2,0,2,7,1,Fully Furnished,South,1,1,1,1,1,76900000
+Tellapur,Apartment,1655,3,2,2,0,3,12,1,Fully Furnished,North,1,1,1,1,1,9433000
+Tellapur,Apartment,1010,2,1,2,0,8,12,1,Semi-Furnished,North-East,0,0,1,1,1,5757000
+Tellapur,Apartment,1655,3,2,2,0,9,20,1,Fully Furnished,East,1,1,1,1,1,9433000
+Tellapur,Apartment,1010,2,1,2,0,3,12,1,Semi-Furnished,West,0,0,1,1,1,5757000
+Tellapur,Apartment,1400,3,2,2,0,7,12,1,Semi-Furnished,North-East,1,0,1,1,1,7980000
+Tellapur,Apartment,1400,3,2,2,0,10,12,1,Semi-Furnished,North,1,0,1,1,1,7980000
+Tellapur,Apartment,1725,3,2,2,0,17,20,1,Fully Furnished,West,1,1,1,1,1,9832000
+Tellapur,Apartment,1725,3,2,2,0,9,10,1,Fully Furnished,East,1,1,1,1,1,9832000
+Kokapet,Apartment,6999,4,3,2,0,9,15,1,Fully Furnished,East,1,1,1,1,1,76900000
+Kokapet,Apartment,7000,4,3,2,0,5,7,1,Fully Furnished,North,1,1,1,1,1,76900000
+Padmarao Nagar,Apartment,1655,3,2,2,4,2,15,1,Fully Furnished,South,1,1,1,1,1,15700000
+Bowrampet,Apartment,1650,3,2,2,0,7,12,1,Semi-Furnished,East,1,0,1,1,1,7425000
+Kollur,Apartment,1835,3,2,2,0,6,12,1,Fully Furnished,North,1,1,1,1,1,10000000
+Kollur,Apartment,2020,3,2,2,0,12,15,1,Fully Furnished,North,1,1,1,1,1,11100000
+Tukkuguda,Apartment,1432,2,1,2,0,3,10,1,Semi-Furnished,North,0,0,1,1,1,6873000
+Kollur,Apartment,2210,3,2,2,0,9,12,1,Fully Furnished,South,1,1,1,1,1,12100000
+Tukkuguda,Apartment,1307,2,1,2,0,8,12,1,Semi-Furnished,North-East,1,0,1,1,1,6273000
+Tukkuguda,Apartment,1837,3,2,2,0,4,20,1,Fully Furnished,West,1,1,1,1,1,8817000
+Tukkuguda,Apartment,1248,2,1,2,0,8,12,1,Semi-Furnished,North-East,0,0,1,1,1,5990000
+Tukkuguda,Apartment,1687,3,2,2,0,8,12,1,Fully Furnished,East,1,1,1,1,1,8097000
+Tukkuguda,Apartment,1700,3,2,2,0,7,10,1,Fully Furnished,East,1,1,1,1,1,8159999
+Tukkuguda,Apartment,1220,2,1,2,0,1,7,1,Semi-Furnished,East,1,0,1,1,1,5856000
+Tukkuguda,Apartment,1610,3,2,2,0,4,10,1,Semi-Furnished,East,1,0,1,1,1,7728000
+Tukkuguda,Apartment,1654,3,2,2,0,2,10,1,Semi-Furnished,East,0,0,1,1,1,7939000
+Maheshwaram,Apartment,1340,3,2,2,4,11,15,1,Semi-Furnished,East,0,0,1,1,1,6030000
+Maheshwaram,Apartment,1620,3,2,2,4,11,12,1,Semi-Furnished,North-East,1,0,1,1,1,7290000
+Tukkuguda,Apartment,1130,2,1,2,0,1,12,1,Semi-Furnished,East,1,0,1,1,1,5424000
+Maheshwaram,Apartment,1130,2,1,2,4,5,7,1,Semi-Furnished,South,0,0,1,1,1,5085000
+Tukkuguda,Apartment,1550,2,1,2,0,4,12,1,Semi-Furnished,East,0,0,1,1,1,7440000
+Maheshwaram,Apartment,2060,3,2,2,4,6,12,1,Fully Furnished,North-West,1,1,1,1,1,9270000
+Tellapur,Apartment,1926,3,2,2,0,4,12,1,Fully Furnished,South,1,1,1,1,1,15000000
+Tellapur,Apartment,1573,2,1,2,0,2,10,1,Fully Furnished,East,1,1,1,1,1,13000000
+Tellapur,Apartment,2262,3,2,2,0,8,12,1,Fully Furnished,South,1,1,1,1,1,17000000
+Harshaguda,Villa,4000,3,2,2,0,1,2,2,Fully Furnished,North,1,1,1,1,0,33100000
+Harshaguda,Villa,6000,5,4,2,0,0,1,2,Fully Furnished,South,1,1,1,1,0,58200000
+Harshaguda,Villa,9000,5,4,2,0,0,2,2,Fully Furnished,North,1,1,1,1,0,93000000
+Harshaguda,Villa,7000,5,4,2,0,1,2,2,Fully Furnished,North,1,1,1,1,0,70700000
+Harshaguda,Villa,5250,4,3,2,0,1,3,2,Fully Furnished,South,1,1,1,1,0,49500000
+Ameenpur,Apartment,1600,3,2,2,0,10,20,1,Semi-Furnished,West,1,0,1,1,1,7680000
+Ameenpur,Apartment,1150,2,1,2,0,6,12,1,Semi-Furnished,East,0,0,1,1,1,5520000
+Sanath Nagar,Apartment,800,2,1,2,4,5,15,1,Semi-Furnished,North-East,0,0,1,1,1,3800000
+Sadashivpet,Independent House,1365,3,2,2,0,1,3,1,Semi-Furnished,West,0,0,1,1,0,5664000
+Ameenpur,Apartment,1525,3,2,2,0,5,20,1,Semi-Furnished,North,0,0,1,1,1,6556999
+Boduppal Road,Apartment,1140,2,1,2,0,5,24,1,Semi-Furnished,East,1,0,1,1,1,5500000
+Boduppal Road,Apartment,1140,2,1,2,0,6,12,1,Semi-Furnished,North,1,0,1,1,1,5500000
+Abids,Apartment,6618,4,3,2,0,12,15,1,Fully Furnished,North-West,1,1,1,1,1,29100000
+Ameenpur,Apartment,1200,2,1,2,0,11,12,1,Semi-Furnished,East,1,0,1,1,1,5400000
+Sadashivpet,Independent House,1340,3,2,2,0,0,2,1,Semi-Furnished,West,0,0,1,1,0,5293000
+Padmarao Nagar,Independent House,3000,3,2,2,4,1,2,1,Fully Furnished,South,1,0,1,1,0,25000000
+Aremaishamma,Apartment,1210,2,1,2,0,6,12,1,Semi-Furnished,South,0,0,0,1,1,3025000
+Kondapur,Apartment,1296,3,2,2,4,5,12,1,Semi-Furnished,West,0,0,1,1,1,6235000
+Kanchan Bagh,Apartment,1480,3,2,2,4,2,12,1,Semi-Furnished,West,1,0,1,1,1,6565000
+Kanchan Bagh,Apartment,1750,3,2,2,4,5,10,1,Semi-Furnished,North-East,0,0,1,1,1,7622000
+Sri Nagar Colony,Apartment,1800,3,2,2,4,19,20,1,Semi-Furnished,North,1,0,1,1,1,7865000
+Mallapur,Apartment,1025,2,1,2,0,2,12,1,Semi-Furnished,East,0,0,1,1,1,5232000
+Ibrahimpatnam,Apartment,1215,2,1,2,0,3,10,1,Semi-Furnished,East,0,0,1,1,1,5563000
+Ramachandrapuram,Apartment,1080,2,1,2,4,5,10,1,Semi-Furnished,North,0,0,1,1,1,5328000
+Sultanpur,Apartment,1220,2,1,2,0,5,10,1,Semi-Furnished,East,1,0,1,1,1,6152000
+Miyapur,Apartment,1200,2,1,2,4,7,24,1,Semi-Furnished,East,1,0,1,1,1,6238000
+Kondapur,Apartment,1770,3,2,2,4,1,12,1,Semi-Furnished,North-East,1,0,1,1,1,7565000
+Sitaram Nagar,Apartment,1740,3,2,2,0,8,12,1,Semi-Furnished,East,1,0,1,1,1,7120000
+Shankarpalli,Apartment,1660,3,2,2,0,13,24,1,Semi-Furnished,South,1,0,1,1,1,7415000
+Shankarpalli,Apartment,1050,2,1,2,0,11,15,1,Semi-Furnished,East,0,0,1,1,1,5355000
+Manikonda,Apartment,1370,2,1,2,4,1,10,1,Semi-Furnished,South,0,0,1,1,1,5323000
+Gachibowli,Apartment,1780,3,2,2,4,2,15,1,Semi-Furnished,South,1,0,1,1,1,7458000
+Begumpet,Apartment,1200,2,1,2,4,9,15,1,Semi-Furnished,East,1,0,1,1,1,6280000
+Malakpet,Apartment,1275,3,2,2,4,3,15,1,Semi-Furnished,North,1,0,1,1,1,6584999
+Nallakunta,Apartment,1756,3,2,2,4,5,10,1,Semi-Furnished,East,0,0,1,1,1,7562000
+Sri Nagar Colony,Apartment,1800,3,2,2,4,5,7,1,Fully Furnished,North-East,1,1,1,1,1,8632000
+Manikonda,Apartment,1093,2,1,2,4,4,12,1,Semi-Furnished,North-East,0,0,1,1,1,5363000
+Miyapur,Apartment,1450,3,2,2,0,2,20,1,Semi-Furnished,West,1,0,1,1,1,7153000
+Miyapur,Apartment,1175,2,1,2,0,13,15,1,Semi-Furnished,West,1,0,1,1,1,5648000
+Bandlaguda Jagir,Apartment,1493,3,2,2,4,6,12,1,Semi-Furnished,West,0,0,1,1,1,7563000
+Tukkuguda,Villa,2100,3,2,2,4,0,2,2,Fully Furnished,South,1,1,1,1,0,8652000
+Kowkur,Villa,3269,4,3,2,0,0,1,2,Fully Furnished,West,1,1,1,1,0,12300000
+Kowkur,Villa,2934,3,2,2,0,1,2,2,Fully Furnished,East,1,1,1,1,0,9563000
+Tukkuguda,Villa,2100,3,2,2,4,0,2,2,Fully Furnished,West,1,1,1,1,0,8960000
+Deluxe Colony,Apartment,1680,3,2,2,4,6,10,1,Semi-Furnished,East,1,0,1,1,1,7630000
+Miyapur,Apartment,1115,2,1,2,4,3,7,1,Semi-Furnished,South,1,0,1,1,1,5250000
+Miyapur,Apartment,1840,3,2,2,4,4,12,1,Fully Furnished,East,1,1,1,1,1,8430000
+Gachibowli,Apartment,1840,3,2,2,4,4,20,1,Fully Furnished,North,1,1,1,1,1,8650000
+Banjara Hills,Apartment,1985,3,2,2,4,1,10,1,Fully Furnished,East,1,1,1,1,1,9653000
+Miyapur,Apartment,1850,3,2,2,4,7,12,1,Fully Furnished,East,1,1,1,1,1,8653000
+Humayunagar,Apartment,1750,3,2,2,4,11,12,1,Fully Furnished,North,1,1,1,1,1,8453000
+Ahmed Nagar,Apartment,1640,3,2,2,4,19,20,1,Semi-Furnished,North-West,0,0,1,1,1,7153000
+Ahmed Nagar,Apartment,1810,3,2,2,4,3,12,1,Fully Furnished,South,1,1,1,1,1,8095999
+Ahmed Nagar,Apartment,1840,3,2,2,4,18,20,1,Semi-Furnished,East,1,0,1,1,1,7559999
+Ahmed Nagar,Apartment,1840,3,2,2,4,4,12,1,Fully Furnished,East,1,1,1,1,1,8159999
+Kapra,Apartment,1168,3,2,2,0,3,20,1,Semi-Furnished,North-East,1,0,1,1,1,5623000
+Begumpet,Apartment,3100,4,3,2,4,9,10,1,Fully Furnished,West,1,1,1,1,1,12200000
+Bolarum,Apartment,1242,3,2,2,4,5,7,1,Semi-Furnished,East,1,0,1,1,1,6453000
+Bolarum,Villa,2168,3,2,2,4,0,1,2,Fully Furnished,North-East,1,1,1,1,0,10500000
+Chandanagar,Apartment,1381,3,2,2,4,8,20,1,Semi-Furnished,South,1,0,1,1,1,7156000
+Gopanpally,Apartment,1757,3,2,2,4,6,7,1,Semi-Furnished,North-West,1,0,1,1,1,7653000
+Bolarum,Apartment,1400,3,2,2,4,5,10,1,Semi-Furnished,North-East,0,0,1,1,1,6853000
+Kondapur,Apartment,1840,3,2,2,0,7,12,1,Fully Furnished,North-East,1,1,1,1,1,8153000
+Sbh Colony,Apartment,1770,3,2,2,4,4,5,1,Semi-Furnished,East,0,0,1,1,1,7850000
+Sbh Colony,Apartment,1880,3,2,2,4,11,20,1,Semi-Furnished,East,0,0,1,1,1,7856000
+Gachibowli,Apartment,1880,3,2,2,4,10,20,1,Semi-Furnished,North,0,0,1,1,1,7850000
+Kukatpally,Apartment,1565,3,2,2,4,6,7,1,Semi-Furnished,North,0,0,1,1,1,7665000
+Lb Nagar,Apartment,1810,3,2,2,0,12,15,1,Semi-Furnished,West,0,0,1,1,1,7520000
+Gachibowli,Apartment,1891,3,2,2,0,3,20,1,Fully Furnished,West,1,1,1,1,1,8456000
+Maheshwaram,Apartment,1550,2,1,2,4,9,10,1,Semi-Furnished,West,0,0,1,1,1,7200000
+Miyapur,Apartment,1610,3,2,2,4,3,15,1,Unfurnished,North,0,0,0,1,1,1868000
+Banjara Hills,Apartment,4535,4,3,2,4,8,24,1,Fully Furnished,East,1,1,1,1,1,21000000
+Padmarao Nagar,Independent House,1980,2,1,2,4,1,2,1,Fully Furnished,East,0,1,1,1,0,26500000
+West Marredpally,Independent House,2025,2,1,2,4,1,2,1,Fully Furnished,South,1,1,1,1,0,22500000
+Banjara Hills,Villa,7200,5,4,2,4,0,1,2,Fully Furnished,East,1,1,1,1,0,180000000
+Padmarao Nagar,Independent House,2340,2,1,2,4,1,2,1,Fully Furnished,North,0,0,1,1,0,32000000
+Neknampur,Apartment,1202,2,1,2,0,5,15,1,Fully Furnished,South,1,1,1,1,1,8172000
+Tellapur,Apartment,1286,2,1,2,4,4,5,1,Semi-Furnished,West,0,0,1,1,1,7973000
+Neknampur,Apartment,1524,3,2,2,0,9,15,1,Fully Furnished,East,1,1,1,1,1,10300000
+Kollur,Apartment,1825,3,2,2,0,4,15,1,Fully Furnished,West,1,1,1,1,1,10400000
+Ameenpur,Apartment,1600,3,2,2,0,8,15,1,Semi-Furnished,East,0,0,1,1,1,7678000
+Chandanagar,Apartment,1150,2,1,2,0,2,12,1,Semi-Furnished,North-East,0,0,1,1,1,5748000
+Miyapur,Apartment,1190,2,1,2,0,4,7,1,Semi-Furnished,East,1,0,1,1,1,5355000
+Serilingampally,Apartment,1636,3,2,2,0,6,12,1,Fully Furnished,North,1,1,1,1,1,14800000
+Serilingampally,Apartment,1502,3,2,2,0,8,10,1,Fully Furnished,East,1,1,1,1,1,13600000
+Serilingampally,Apartment,1646,3,2,2,0,4,7,1,Fully Furnished,West,1,1,1,1,1,14900000
+Serilingampally,Apartment,1950,3,2,2,0,2,12,1,Fully Furnished,North,1,1,1,1,1,17700000
+Serilingampally,Apartment,1686,3,2,2,0,3,5,1,Fully Furnished,East,1,1,1,1,1,15300000
+Serilingampally,Apartment,1887,3,2,2,0,2,12,1,Fully Furnished,West,1,1,1,1,1,17100000
+Serilingampally,Apartment,1893,3,2,2,0,2,7,1,Fully Furnished,East,1,1,1,1,1,17200000
+Serilingampally,Apartment,1497,3,2,2,0,6,15,1,Fully Furnished,West,1,1,1,1,1,13600000
+Serilingampally,Apartment,1891,3,2,2,0,2,7,1,Fully Furnished,North,1,1,1,1,1,17200000
+Serilingampally,Apartment,1498,3,2,2,0,8,15,1,Fully Furnished,West,1,1,1,1,1,13600000
+Serilingampally,Apartment,1585,3,2,2,0,2,10,1,Fully Furnished,North-East,1,1,1,1,1,14400000
+Serilingampally,Apartment,1857,3,2,2,0,8,10,1,Fully Furnished,North,1,1,1,1,1,16800000
+Serilingampally,Apartment,1864,3,2,2,0,8,10,1,Fully Furnished,West,1,1,1,1,1,16900000
+Bachupally,Apartment,1440,3,2,2,0,11,12,1,Semi-Furnished,East,1,0,1,1,1,6909999
+Bachupally,Apartment,1335,2,1,2,0,3,5,1,Semi-Furnished,North,1,0,1,1,1,6406000
+Chandanagar,Apartment,1600,3,2,2,0,1,12,1,Semi-Furnished,South,0,0,1,1,1,7678000
+Ameenpur,Apartment,1150,2,1,2,0,5,12,1,Semi-Furnished,East,0,0,1,1,1,5518000
+Miyapur,Apartment,1720,3,2,2,4,3,5,1,Semi-Furnished,South,0,0,1,1,1,7540000
+Miyapur,Apartment,1650,3,2,2,4,9,12,1,Semi-Furnished,East,0,0,1,1,1,6540000
+Ameenpur,Apartment,1290,2,1,2,4,1,15,1,Semi-Furnished,North-East,0,0,1,1,1,5460000
+Hayathnagar,Independent House,1600,3,2,2,4,0,1,1,Semi-Furnished,East,1,0,1,1,0,6700000
+Chandanagar,Apartment,1150,2,1,2,0,10,20,1,Semi-Furnished,North-East,0,0,1,1,1,5518000
+Ameenpur,Apartment,1600,3,2,2,0,8,12,1,Semi-Furnished,North,1,0,1,1,1,7678000
+Nanakramguda,Apartment,2270,3,2,2,0,4,12,1,Fully Furnished,East,1,1,1,1,1,17200000
+Miyapur,Apartment,1210,2,1,2,0,14,15,1,Semi-Furnished,East,0,0,1,1,1,6895000
+Miyapur,Apartment,1940,3,2,2,0,4,12,1,Fully Furnished,West,1,1,1,1,1,11000000
+Miyapur,Apartment,1715,3,2,2,0,6,10,1,Fully Furnished,North-West,1,1,1,1,1,9773000
+Miyapur,Apartment,1625,3,2,2,0,4,12,1,Fully Furnished,East,1,1,1,1,1,9260000
+Miyapur,Apartment,1495,2,1,2,0,2,7,1,Fully Furnished,East,1,1,1,1,1,8520000
+Miyapur,Apartment,1330,2,1,2,0,2,12,1,Semi-Furnished,North,1,0,1,1,1,7579000
+Ameenpur,Apartment,1150,2,1,2,0,2,7,1,Semi-Furnished,North,1,0,1,1,1,5518000
+Ameenpur,Apartment,1150,2,1,2,0,9,15,1,Semi-Furnished,North,1,0,1,1,1,5518000
+Ameenpur,Apartment,1600,3,2,2,0,9,15,1,Semi-Furnished,North,0,0,1,1,1,7678000
+Beeramguda,Independent House,1600,4,3,2,4,0,1,1,Fully Furnished,South,0,1,1,1,0,10100000
+Beeramguda,Independent House,1800,4,3,2,4,1,2,1,Fully Furnished,North,1,1,1,1,0,10700000
+Beeramguda,Independent House,2500,4,3,2,4,1,3,1,Fully Furnished,North-East,1,1,1,1,0,13500000
+Beeramguda,Independent House,1250,2,1,2,4,1,3,1,Fully Furnished,East,0,1,1,1,0,10800000
+Beeramguda,Independent House,1050,4,3,2,4,1,2,1,Fully Furnished,North,1,1,1,1,0,11000000
+Beeramguda,Independent House,2500,4,3,2,4,0,2,1,Fully Furnished,East,0,0,1,1,0,14200000
+Beeramguda,Independent House,1250,3,2,2,4,1,3,1,Semi-Furnished,North,0,0,1,1,0,7500000
+Beeramguda,Independent House,1850,4,3,2,4,0,2,1,Fully Furnished,South,1,1,1,1,0,13700000
+Beeramguda,Independent House,2500,4,3,2,4,0,2,1,Fully Furnished,North,0,1,1,1,0,15000000
+Beeramguda,Independent House,2100,4,3,2,4,0,2,1,Fully Furnished,East,1,1,1,1,0,15000000
+Indresham,Independent House,1250,2,1,2,4,0,2,1,Fully Furnished,East,0,1,1,1,0,9000000
+Indresham,Independent House,1250,2,1,2,4,0,1,1,Fully Furnished,East,0,1,1,1,0,9500000
+Indresham,Independent House,1250,2,1,2,4,0,1,1,Fully Furnished,North,0,0,1,1,0,9000000
+Indresham,Independent House,1250,2,1,2,4,0,1,1,Fully Furnished,North-East,1,0,1,1,0,8000000
+Indresham,Independent House,1250,2,1,2,4,0,2,1,Fully Furnished,East,0,0,1,1,0,8800000
+Indresham,Independent House,1250,2,1,2,4,1,3,1,Fully Furnished,South,1,1,1,1,0,8500000
+Indresham,Independent House,1250,2,1,2,4,1,3,1,Fully Furnished,North-East,1,0,1,1,0,8600000
+Muthangi,Independent House,1350,2,1,2,4,0,1,1,Fully Furnished,North,0,0,1,1,0,8200000
+Muthangi,Independent House,1400,2,1,2,4,0,1,1,Fully Furnished,North,0,1,1,1,0,8400000
+Muthangi,Independent House,1350,2,1,2,4,0,2,1,Fully Furnished,South,0,0,1,1,0,8400000
+Beeramguda,Independent House,2600,4,3,2,4,1,3,1,Fully Furnished,East,0,0,1,1,0,15000000
+Beeramguda,Independent House,2600,4,3,2,4,1,2,1,Fully Furnished,East,1,1,1,1,0,14500000
+Beeramguda,Independent House,2300,4,3,2,4,0,1,1,Fully Furnished,East,0,0,1,1,0,15500000
+Beeramguda,Independent House,2200,4,3,2,4,1,2,1,Fully Furnished,North-West,0,1,1,1,0,13500000
+Beeramguda,Independent House,2500,4,3,2,4,1,2,1,Fully Furnished,North-East,1,0,1,1,0,17000000
+Beeramguda,Independent House,1850,4,3,2,4,0,2,1,Fully Furnished,South,0,1,1,1,0,13700000
+Beeramguda,Independent House,2100,4,3,2,4,0,1,1,Fully Furnished,East,1,1,1,1,0,15000000
+Beeramguda,Independent House,2200,4,3,2,4,1,2,1,Fully Furnished,West,0,0,1,1,0,15000000
+Beeramguda,Independent House,2300,4,3,2,4,1,2,1,Fully Furnished,East,0,1,1,1,0,15000000
+Muthangi,Independent House,1300,2,1,2,4,0,1,1,Semi-Furnished,East,1,0,1,1,0,7600000
+Muthangi,Independent House,1350,2,1,2,4,0,1,1,Fully Furnished,North,0,0,1,1,0,8200000
+Muthangi,Independent House,1350,2,1,2,4,0,1,1,Fully Furnished,North-West,0,0,1,1,0,8300000
+Muthangi,Independent House,1350,2,1,2,4,0,2,1,Fully Furnished,North-East,0,1,1,1,0,8200000
+Muthangi,Independent House,1400,2,1,2,4,1,2,1,Fully Furnished,South,0,0,1,1,0,8400000
+Muthangi,Independent House,1350,2,1,2,4,0,2,1,Fully Furnished,East,1,0,1,1,0,8400000
+Muthangi,Independent House,1350,2,1,2,4,0,1,1,Fully Furnished,East,0,0,1,1,0,8000000
+Muthangi,Independent House,1350,2,1,2,4,1,2,1,Fully Furnished,West,0,1,1,1,0,8500000
+Muthangi,Independent House,1350,2,1,2,4,0,2,1,Fully Furnished,South,1,0,1,1,0,8300000
+Muthangi,Independent House,1250,2,1,2,4,0,1,1,Fully Furnished,South,1,0,1,1,0,9500000
+Muthangi,Independent House,1350,2,1,2,4,1,2,1,Fully Furnished,West,1,0,1,1,0,8000000
+Attapur,Apartment,950,2,1,2,4,1,5,1,Semi-Furnished,West,1,0,1,1,1,5150000
+Attapur,Apartment,1183,2,1,2,4,7,12,1,Semi-Furnished,East,1,0,1,1,1,6509999
+Attapur,Apartment,1593,3,2,2,4,9,12,1,Fully Furnished,East,1,1,1,1,1,8761000
+Bowrampet,Apartment,1000,2,1,2,0,2,12,1,Unfurnished,West,0,0,1,1,1,2500000
+Saidabad Colony Road,Independent House,2403,5,4,2,4,1,3,1,Fully Furnished,East,1,1,1,1,0,27500000
+Miyapur,Apartment,1950,3,2,2,0,9,15,1,Semi-Furnished,West,1,0,1,1,1,4799000
+Ahmed Colony Hyderabad,Apartment,900,2,1,2,4,1,7,1,Semi-Furnished,West,1,0,1,1,1,5400000
+Ahilya Nagar,Apartment,1100,2,1,2,4,5,10,1,Semi-Furnished,East,0,0,1,1,1,5800000
+Jubilee Hills,Independent House,6084,4,3,2,4,0,2,1,Fully Furnished,East,0,1,1,1,0,200000000
+Alkapur Township,Apartment,800,2,1,2,0,16,20,1,Semi-Furnished,North,0,0,1,1,1,4000000
+7 Tombs Road,Apartment,1460,3,2,2,4,6,12,1,Semi-Furnished,West,0,0,1,1,1,5600000
+Manikonda,Apartment,1460,3,2,2,4,8,12,1,Semi-Furnished,East,1,0,1,1,1,5600000
+Janachaitanya Colony,Apartment,1302,3,2,2,0,4,15,1,Semi-Furnished,East,1,0,1,1,1,5800000
+Janachaitanya Colony,Apartment,1302,3,2,2,0,13,15,1,Semi-Furnished,North,1,0,1,1,1,5800000
+Tukkuguda,Villa,2500,3,2,2,0,0,2,2,Fully Furnished,South,1,1,1,1,0,8900000
+Attapur,Apartment,990,2,1,2,4,4,20,1,Semi-Furnished,East,1,0,1,1,1,7500000
+Triveninagar,Apartment,1100,2,1,2,4,12,15,1,Semi-Furnished,North,1,0,1,1,1,5000000
+Bachupally,Apartment,1090,2,1,2,4,12,24,1,Semi-Furnished,East,1,0,1,1,1,4800000
+Puppalaguda,Apartment,1180,2,1,2,4,8,12,1,Semi-Furnished,North,0,0,1,1,1,7500000
+Flamingo,Apartment,900,2,1,2,4,1,12,1,Semi-Furnished,East,1,0,1,1,1,7900000
+First Lancer Road,Apartment,1190,2,1,2,4,11,20,1,Semi-Furnished,South,1,0,1,1,1,6900000
+Gajularamaram,Independent House,1900,2,1,2,4,0,1,1,Fully Furnished,North-West,0,0,1,1,0,13000000
+Gandipet,Apartment,1100,2,1,2,4,6,7,1,Semi-Furnished,North-East,0,0,1,1,1,7800000
+Gachibowli,Apartment,1290,2,1,2,4,5,15,1,Fully Furnished,North,1,1,1,1,1,12000000
+Friends Colony Bandam Kommu,Apartment,1100,2,1,2,4,5,10,1,Semi-Furnished,West,1,0,1,1,1,6900000
+Friends Colony Jawahar Colony,Apartment,1210,2,1,2,4,13,15,1,Semi-Furnished,South,0,0,1,1,1,6900000
+Friends Colony Sai Nagar,Apartment,1090,2,1,2,4,8,12,1,Semi-Furnished,South,1,0,1,1,1,6900000
+Gachibowli,Apartment,1259,2,1,2,4,17,20,1,Fully Furnished,East,1,1,1,1,1,8812000
+Kollur,Apartment,1430,3,2,2,0,2,7,1,Fully Furnished,North-East,1,1,1,1,1,8578000
+Gachibowli,Apartment,1572,3,2,2,4,3,5,1,Fully Furnished,West,1,1,1,1,1,11000000
+Gachibowli,Apartment,1854,3,2,2,4,1,12,1,Fully Furnished,East,1,1,1,1,1,12900000
+Gachibowli,Apartment,1048,2,1,2,4,11,20,1,Semi-Furnished,East,1,0,1,1,1,7334999
+Gachibowli,Apartment,1384,3,2,2,4,6,20,1,Fully Furnished,East,1,1,1,1,1,9687000
+Gachibowli,Apartment,1730,3,2,2,4,7,15,1,Fully Furnished,North,1,1,1,1,1,12100000
+Gachibowli,Apartment,1115,3,2,2,4,1,15,1,Semi-Furnished,East,1,0,1,1,1,7804000
+Gachibowli,Apartment,1754,3,2,2,4,10,12,1,Fully Furnished,East,1,1,1,1,1,12200000
+Gachibowli,Apartment,1707,3,2,2,4,10,20,1,Fully Furnished,East,1,1,1,1,1,11900000
+Gachibowli,Apartment,1841,3,2,2,4,14,15,1,Fully Furnished,North,1,1,1,1,1,12800000
+Gachibowli,Apartment,1325,2,1,2,4,5,12,1,Fully Furnished,South,1,1,1,1,1,9274000
+Gachibowli,Apartment,1912,3,2,2,4,5,10,1,Fully Furnished,West,1,1,1,1,1,13300000
+Gachibowli,Apartment,1669,3,2,2,4,7,10,1,Fully Furnished,East,1,1,1,1,1,11600000
+Gachibowli,Apartment,1569,3,2,2,4,4,12,1,Fully Furnished,East,1,1,1,1,1,10900000
+Gachibowli,Apartment,1147,2,1,2,4,12,15,1,Fully Furnished,North-East,1,1,1,1,1,8028000
+Gachibowli,Apartment,1143,2,1,2,4,3,5,1,Fully Furnished,North,1,0,1,1,1,8000000
+Gachibowli,Apartment,1098,2,1,2,4,13,15,1,Semi-Furnished,West,0,0,1,1,1,7684999
+Gachibowli,Apartment,1564,2,1,2,4,15,24,1,Fully Furnished,East,1,1,1,1,1,10900000
+Gachibowli,Apartment,1298,2,1,2,4,11,15,1,Fully Furnished,South,1,1,1,1,1,9085000
+Ameenpur,Apartment,1600,3,2,2,0,8,20,1,Semi-Furnished,South,1,0,1,1,1,7678000
+Ameenpur,Apartment,1150,2,1,2,0,4,10,1,Semi-Furnished,North,0,0,1,1,1,5518000
+Miyapur,Apartment,1070,2,1,2,4,9,20,1,Semi-Furnished,North,1,0,1,1,1,5348000
+Ameenpur,Apartment,1150,2,1,2,0,2,20,1,Semi-Furnished,East,0,0,1,1,1,5405000
+Ameenpur,Apartment,1150,2,1,2,0,7,12,1,Semi-Furnished,West,1,0,1,1,1,5405000
+Miyapur,Apartment,1020,2,1,2,4,4,15,1,Semi-Furnished,East,1,0,1,1,1,4896000
+Miyapur,Apartment,1020,2,1,2,4,9,24,1,Semi-Furnished,East,1,0,1,1,1,4896000
+Miyapur,Apartment,1070,2,1,2,4,8,10,1,Semi-Furnished,West,1,0,1,1,1,5136000
+Miyapur,Apartment,1070,2,1,2,4,18,24,1,Semi-Furnished,East,1,0,1,1,1,5136000
+Miyapur,Apartment,1070,2,1,2,4,12,15,1,Semi-Furnished,East,0,0,1,1,1,5136000
+Ameenpur,Apartment,1150,2,1,2,0,1,15,1,Semi-Furnished,East,0,0,1,1,1,5175000
+Ameenpur,Apartment,1150,2,1,2,0,7,10,1,Semi-Furnished,East,1,0,1,1,1,5518000
+Miyapur,Apartment,1070,2,1,2,4,2,7,1,Semi-Furnished,East,0,0,1,1,1,5348000
+Ameenpur,Apartment,1150,2,1,2,0,13,20,1,Semi-Furnished,North-West,1,0,1,1,1,5518000
+Miyapur,Apartment,1070,2,1,2,4,5,10,1,Semi-Furnished,East,0,0,1,1,1,5348000
+Miyapur,Apartment,1190,2,1,2,0,4,12,1,Semi-Furnished,North,0,0,1,1,1,5593000
+Miyapur,Apartment,1070,2,1,2,0,11,12,1,Semi-Furnished,East,1,0,1,1,1,5029000
+Gaddi Annaram,Independent Floor,1000,2,1,2,4,0,1,0,Semi-Furnished,North-East,1,0,1,1,0,5000000
+Falaknuma,Independent Floor,1000,2,1,2,4,0,1,0,Semi-Furnished,East,1,0,1,1,0,5100000
+Himayat Nagar,Apartment,1000,2,1,2,4,15,20,1,Semi-Furnished,North-West,1,0,1,1,1,5500000
+Ameenpur,Apartment,1150,2,1,2,0,6,7,1,Semi-Furnished,North,1,0,1,1,1,5405000
+Ameenpur,Apartment,1150,2,1,2,0,1,7,1,Semi-Furnished,East,0,0,1,1,1,5405000
+Ameenpur,Apartment,1150,2,1,2,0,9,20,1,Semi-Furnished,North-East,0,0,1,1,1,5405000
+Ameenpur,Apartment,1150,2,1,2,0,6,12,1,Semi-Furnished,North,1,0,1,1,1,5405000
+Ameenpur,Independent House,1250,2,1,2,0,0,2,1,Fully Furnished,East,1,1,1,1,0,16000000
+Ameenpur,Independent House,1250,2,1,2,0,1,2,1,Fully Furnished,South,1,0,1,1,0,16000000
+Ameenpur,Independent House,1250,2,1,2,0,1,2,1,Fully Furnished,North-East,0,1,1,1,0,16000000
+Ameenpur,Independent House,1250,2,1,2,0,1,2,1,Fully Furnished,North,0,0,1,1,0,16000000
+Ameenpur,Independent House,1250,2,1,2,0,1,2,1,Fully Furnished,West,0,0,1,1,0,16000000
+Ameenpur,Independent House,1250,2,1,2,0,1,2,1,Fully Furnished,South,1,1,1,1,0,16000000
+Ameenpur,Independent House,1250,2,1,2,0,1,3,1,Fully Furnished,South,1,1,1,1,0,16000000
+Ameenpur,Independent House,1250,2,1,2,0,1,3,1,Fully Furnished,North-East,0,1,1,1,0,16000000
+Ameenpur,Independent House,1250,2,1,2,0,1,3,1,Fully Furnished,South,0,0,1,1,0,16000000
+Ameenpur,Apartment,1150,2,1,2,0,3,12,1,Semi-Furnished,East,0,0,1,1,1,5405000
+Ameenpur,Apartment,1150,2,1,2,0,8,10,1,Semi-Furnished,North-East,1,0,1,1,1,5405000
+Ameenpur,Apartment,1150,2,1,2,0,1,10,1,Semi-Furnished,East,1,0,1,1,1,5405000
+Ameenpur,Apartment,1150,2,1,2,0,3,7,1,Semi-Furnished,East,1,0,1,1,1,5405000
+Ameenpur,Apartment,1150,2,1,2,0,11,15,1,Semi-Furnished,North,1,0,1,1,1,5405000
+Ameenpur,Apartment,1150,2,1,2,0,6,12,1,Semi-Furnished,North,0,0,1,1,1,5405000
+Ameenpur,Apartment,1600,3,2,2,0,4,7,1,Semi-Furnished,East,1,0,1,1,1,7678000
+Ameenpur,Independent House,1250,2,1,2,0,0,2,1,Fully Furnished,South,1,0,1,1,0,16000000
+Aminpur,Independent House,1250,2,1,2,0,1,3,1,Fully Furnished,West,0,1,1,1,0,16000000
+Ameenpur,Independent House,1250,2,1,2,0,1,2,1,Fully Furnished,West,1,1,1,1,0,16000000
+Ameenpur,Independent House,1250,2,1,2,0,1,3,1,Fully Furnished,South,1,1,1,1,0,16000000
+Ameenpur,Independent House,1250,2,1,2,0,0,2,1,Fully Furnished,West,0,0,1,1,0,16000000
+Ameenpur,Independent House,1250,2,1,2,0,0,1,1,Fully Furnished,East,0,0,1,1,0,16000000
+Ameenpur,Apartment,1150,2,1,2,0,3,12,1,Semi-Furnished,East,1,0,1,1,1,5405000
+Ameenpur,Independent House,1250,2,1,2,0,0,1,1,Fully Furnished,North-West,1,1,1,1,0,16000000
+Aminpur,Independent House,1250,2,1,2,0,1,3,1,Fully Furnished,East,0,1,1,1,0,16000000
+Aminpur,Independent House,1250,2,1,2,0,1,3,1,Fully Furnished,West,0,0,1,1,0,16000000
+Ameenpur,Independent House,1250,2,1,2,0,1,3,1,Fully Furnished,North,1,1,1,1,0,16000000
+Ameenpur,Apartment,1150,2,1,2,0,2,20,1,Semi-Furnished,North,0,0,1,1,1,5405000
+Ameenpur,Apartment,1150,2,1,2,0,11,15,1,Semi-Furnished,East,0,0,1,1,1,5405000
+Ameenpur,Apartment,1250,2,1,2,0,2,12,1,Semi-Furnished,North,1,0,1,1,1,5405000
+Ameenpur,Apartment,1150,2,1,2,0,8,24,1,Semi-Furnished,West,0,0,1,1,1,5405000
+Ameenpur,Independent House,1440,4,3,2,0,0,2,1,Fully Furnished,North-West,0,1,1,1,0,16500000
+Miyapur,Apartment,1070,2,1,2,0,4,12,1,Semi-Furnished,East,0,0,1,1,1,5029000
+Ameenpur,Independent House,1250,4,3,2,0,0,2,1,Fully Furnished,West,0,0,1,1,0,16500000
+Miyapur,Apartment,1070,2,1,2,4,7,15,1,Semi-Furnished,West,1,0,1,1,1,5348000
+Aminpur,Apartment,1150,2,1,2,0,4,15,1,Semi-Furnished,West,1,0,1,1,1,5518000
+Tukkuguda,Villa,2560,3,2,2,0,1,3,2,Fully Furnished,North,1,1,1,1,0,16600000
+Mallampet,Villa,2950,5,4,2,0,1,2,2,Fully Furnished,East,1,1,1,1,0,17600000
+Yapral,Villa,2210,4,3,2,0,1,3,2,Fully Furnished,East,1,1,1,1,0,165000000
+Medchal,Villa,3875,3,2,2,0,0,1,2,Fully Furnished,South,1,1,1,1,0,30900000
+Ranga Reddy,Villa,2290,4,3,2,0,1,3,2,Fully Furnished,North,1,1,1,1,0,14100000
+Bandlaguda Jagir,Villa,3083,4,3,2,4,0,2,2,Fully Furnished,West,1,1,1,1,0,33900000
+Beeramguda,Villa,1800,3,2,2,0,1,3,2,Fully Furnished,East,1,1,1,1,0,14800000
+Shamirpet,Villa,2938,3,2,2,0,1,2,2,Fully Furnished,East,1,1,1,1,0,17600000
+Srisailam Highway,Villa,1998,4,3,2,0,0,1,2,Fully Furnished,East,1,1,1,1,0,29800000
+Ameenpur,Apartment,1150,2,1,2,0,8,10,1,Semi-Furnished,East,0,0,1,1,1,5748000
+Ameenpur,Apartment,1150,2,1,2,0,8,20,1,Semi-Furnished,North,0,0,1,1,1,5748000
+Ameenpur,Apartment,1150,2,1,2,0,5,20,1,Semi-Furnished,North-East,0,0,1,1,1,5748000
+Ameenpur,Apartment,1150,2,1,2,0,3,10,1,Semi-Furnished,East,0,0,1,1,1,5748000
+Ameenpur,Apartment,1150,2,1,2,0,13,20,1,Semi-Furnished,West,1,0,1,1,1,5748000
+Ameenpur,Apartment,1150,2,1,2,0,1,7,1,Semi-Furnished,East,1,0,1,1,1,5748000
+Ameenpur,Independent House,1250,2,1,2,0,1,3,1,Semi-Furnished,West,0,0,1,1,0,5748000
+Ameenpur,Independent House,1250,2,1,2,0,0,1,1,Fully Furnished,East,0,0,1,1,0,16000000
+Ameenpur,Independent House,1250,2,1,2,0,1,2,1,Fully Furnished,North-East,0,0,1,1,0,16000000
+Ameenpur,Independent House,1250,2,1,2,0,0,2,1,Fully Furnished,North,1,1,1,1,0,16000000
+Ameenpur,Independent House,1150,2,1,2,0,0,1,1,Fully Furnished,North-West,1,0,1,1,0,16000000
+Ameenpur,Independent House,1250,2,1,2,0,0,1,1,Fully Furnished,North-East,1,0,1,1,0,16000000
+Tellapur,Villa,3600,4,3,2,0,0,2,2,Fully Furnished,West,1,1,1,1,0,24000000
+Ameenpur,Independent House,1250,2,1,2,0,1,2,1,Fully Furnished,North,0,1,1,1,0,16000000
+Ameenpur,Independent House,1250,2,1,2,0,1,2,1,Fully Furnished,East,0,1,1,1,0,16000000
+Ameenpur,Independent House,1250,2,1,2,0,0,1,1,Fully Furnished,West,1,1,1,1,0,16000000
+Aminpur,Independent House,1250,2,1,2,0,0,1,1,Fully Furnished,North-East,1,0,1,1,0,16000000
+Ameenpur,Independent House,1250,2,1,2,0,1,3,1,Fully Furnished,East,1,1,1,1,0,16000000
+Ameenpur,Independent House,1250,2,1,2,0,0,2,1,Fully Furnished,North-East,1,0,1,1,0,16000000
+Ameenpur,Independent House,1250,2,1,2,0,0,2,1,Fully Furnished,West,1,0,1,1,0,16000000
+Ameenpur,Independent House,1250,2,1,2,0,0,2,1,Fully Furnished,North-East,1,0,1,1,0,16000000
+Ameenpur,Apartment,1150,2,1,2,0,2,12,1,Semi-Furnished,North-West,1,0,1,1,1,5405000
+Ameenpur,Independent House,1250,2,1,2,0,1,2,1,Fully Furnished,North,0,0,1,1,0,16000000
+Aminpur,Independent House,1250,2,1,2,0,1,2,1,Fully Furnished,North,0,0,1,1,0,16000000
+Aminpur,Independent House,1250,2,1,2,0,1,3,1,Fully Furnished,West,0,0,1,1,0,16000000
+Ameenpur,Independent House,1250,2,1,2,0,0,2,1,Fully Furnished,North-East,1,1,1,1,0,16000000
+Ameenpur,Apartment,1150,2,1,2,0,2,7,1,Semi-Furnished,North-West,1,0,1,1,1,5405000
+Ameenpur,Apartment,1150,2,1,2,0,9,20,1,Semi-Furnished,South,0,0,1,1,1,5405000
+Ameenpur,Apartment,1250,2,1,2,0,2,5,1,Semi-Furnished,North,0,0,1,1,1,5405000
+Ameenpur,Apartment,1150,2,1,2,0,22,24,1,Semi-Furnished,North,0,0,1,1,1,5405000
+Ameenpur,Apartment,1150,2,1,2,0,13,20,1,Semi-Furnished,North-East,1,0,1,1,1,5518000
+Dlf Cyber City,Apartment,1150,2,1,2,4,4,10,1,Fully Furnished,North,1,1,1,1,1,8100000
+Dk Enclave,Apartment,1090,2,1,2,4,11,12,1,Semi-Furnished,South,1,0,1,1,1,5800000
+Dk Road,Apartment,1000,2,1,2,4,5,12,1,Semi-Furnished,North,0,0,1,1,1,5100000
+Digwal,Apartment,900,2,1,2,4,10,12,1,Semi-Furnished,East,0,0,1,1,1,4900000
+Diamond Point Road,Apartment,800,2,1,2,4,13,20,1,Semi-Furnished,West,1,0,1,1,1,5600000
+Diamond Hill Colony,Apartment,1000,2,1,2,4,7,12,1,Semi-Furnished,West,1,0,1,1,1,6900000
+Miyapur,Apartment,1070,2,1,2,4,14,20,1,Semi-Furnished,East,0,0,1,1,1,5134000
+Ameenpur,Apartment,1600,3,2,2,0,10,15,1,Semi-Furnished,North,0,0,1,1,1,7678000
+Ameenpur,Apartment,1150,2,1,2,0,18,20,1,Semi-Furnished,East,0,0,1,1,1,5518000
+Ameenpur,Apartment,1150,2,1,2,0,8,10,1,Semi-Furnished,West,0,0,1,1,1,5518000
+Miyapur,Apartment,1070,2,1,2,4,3,10,1,Semi-Furnished,South,0,0,1,1,1,5348000
+Ameenpur,Apartment,1150,2,1,2,0,9,12,1,Semi-Furnished,North-West,1,0,1,1,1,5748000
+Ameenpur,Apartment,1150,2,1,2,0,10,12,1,Semi-Furnished,South,0,0,1,1,1,5748000
+Ameenpur,Apartment,1150,2,1,2,0,5,20,1,Semi-Furnished,North-West,0,0,1,1,1,5748000
+Ameenpur,Apartment,1150,2,1,2,0,8,12,1,Semi-Furnished,South,0,0,1,1,1,5748000
+Rajendra Nagar,Villa,4910,5,4,2,4,0,2,2,Fully Furnished,East,1,1,1,1,0,73600000
+Ameenpur,Apartment,1150,2,1,2,0,4,5,1,Semi-Furnished,North,0,0,1,1,1,5748000
+Shamirpet,Villa,2938,3,2,2,0,1,2,2,Fully Furnished,South,1,1,1,1,0,13600000
+Turkayamjal,Villa,3915,4,3,2,0,1,3,2,Fully Furnished,West,1,1,1,1,0,32600000
+Ameenpur,Apartment,1150,2,1,2,0,3,15,1,Semi-Furnished,East,0,0,1,1,1,5748000
+Ameenpur,Apartment,1150,2,1,2,0,1,12,1,Semi-Furnished,South,1,0,1,1,1,5748000
+Ameenpur,Apartment,1150,2,1,2,0,8,12,1,Semi-Furnished,East,1,0,1,1,1,5748000
+Meerkhanpet,Apartment,1150,2,1,2,0,5,10,1,Semi-Furnished,North,0,0,1,1,1,5748000
+Ameenpur,Apartment,1150,2,1,2,0,5,12,1,Semi-Furnished,East,1,0,1,1,1,5748000
+Ameenpur,Apartment,1150,2,1,2,0,9,15,1,Semi-Furnished,North,0,0,1,1,1,5748000
+Ameenpur,Apartment,1150,2,1,2,0,6,12,1,Semi-Furnished,North,1,0,1,1,1,5748000
+Ameenpur,Apartment,1150,2,1,2,0,9,12,1,Semi-Furnished,East,0,0,1,1,1,5748000
+Ameenpur,Apartment,1150,2,1,2,0,7,24,1,Semi-Furnished,West,0,0,1,1,1,5748000
+Ameenpur,Apartment,1150,2,1,2,0,5,10,1,Semi-Furnished,North,1,0,1,1,1,5748000
+Ameenpur,Apartment,1150,2,1,2,0,3,10,1,Semi-Furnished,North-East,0,0,1,1,1,5748000
+Ameenpur,Apartment,1150,2,1,2,0,15,20,1,Fully Furnished,North-East,1,1,1,1,1,57400000
+Ameenpur,Apartment,1150,2,1,2,0,6,10,1,Semi-Furnished,North,0,0,1,1,1,5748000
+Ameenpur,Apartment,1150,2,1,2,0,4,15,1,Semi-Furnished,South,0,0,1,1,1,5748000
+Ameenpur,Apartment,1150,2,1,2,0,5,15,1,Semi-Furnished,West,0,0,1,1,1,5748000
+Ameenpur,Apartment,1150,2,1,2,0,10,15,1,Semi-Furnished,West,0,0,1,1,1,5748000
+Ameenpur,Apartment,1150,2,1,2,0,5,10,1,Semi-Furnished,East,1,0,1,1,1,5748000
+Ameenpur,Apartment,1150,2,1,2,0,11,15,1,Semi-Furnished,North,1,0,1,1,1,5748000
+Ameenpur,Apartment,1150,2,1,2,0,9,10,1,Semi-Furnished,West,1,0,1,1,1,5748000
+Ameenpur,Apartment,1150,2,1,2,0,11,12,1,Semi-Furnished,East,0,0,1,1,1,5748000
+Nagaram,Independent House,1400,2,1,2,4,0,2,1,Fully Furnished,North,1,0,1,1,0,8300000
+Dammaiguda,Independent House,2300,4,3,2,4,1,2,1,Fully Furnished,East,1,0,1,1,0,13000000
+Kompally,Apartment,1765,3,2,2,4,6,10,1,Fully Furnished,East,1,1,1,1,1,9136000
+Suchitra,Apartment,1400,3,2,2,4,5,12,1,Semi-Furnished,East,0,0,1,1,1,7000000
+Sainikpuri,Apartment,2000,4,3,2,4,3,7,1,Fully Furnished,East,1,1,1,1,1,12000000
+Alwal,Independent House,3000,5,4,2,4,0,1,1,Fully Furnished,North,1,0,1,1,0,12500000
+Ecil,Independent House,2000,3,2,2,4,1,3,1,Fully Furnished,East,1,0,1,1,0,18000000
+Ramnagar Hyderabad,Apartment,1056,2,1,2,4,2,5,1,Semi-Furnished,East,0,0,1,1,1,5500000
+Narsingi,Independent Floor,2000,3,2,2,4,0,2,0,Fully Furnished,North-East,1,1,1,1,0,13000000
+General Bazar,Independent Floor,700,2,1,2,4,0,1,0,Semi-Furnished,North,0,0,1,1,0,5500000
+Mokila,Apartment,1263,2,1,2,4,10,24,1,Semi-Furnished,North,1,0,1,1,1,6368000
+As Rao Nagar,Apartment,1165,2,1,2,4,1,12,1,Semi-Furnished,West,1,0,1,1,1,4600000
+Ecil,Apartment,700,2,1,2,4,4,15,1,Unfurnished,North,0,0,1,0,1,1800000
+Bachupally,Apartment,1240,2,1,2,4,11,15,1,Semi-Furnished,East,0,0,0,1,1,3000000
+Attapur,Apartment,1183,2,1,2,4,6,15,1,Semi-Furnished,South,1,0,1,1,1,6509999
+Attapur,Apartment,1593,3,2,2,4,9,15,1,Fully Furnished,East,1,1,1,1,1,8761000
+Attapur,Apartment,975,2,1,2,4,1,10,1,Semi-Furnished,North,0,0,1,1,1,4875000
+Attapur,Apartment,960,2,1,2,4,2,20,1,Semi-Furnished,West,0,0,1,1,1,4800000
+Attapur,Apartment,950,2,1,2,4,7,15,1,Semi-Furnished,South,0,0,1,1,1,4700000
+Adibatla,Apartment,1120,2,1,2,4,1,12,1,Semi-Furnished,North,1,0,1,1,1,3600000
+Adibatla,Apartment,1040,2,1,2,4,2,7,1,Semi-Furnished,West,0,0,0,0,1,3400000
+Badangpet,Apartment,1150,2,1,2,4,14,15,1,Semi-Furnished,East,0,0,1,1,1,4600000
+Idpl Colony,Apartment,875,2,1,2,4,2,10,1,Semi-Furnished,North,0,0,1,0,1,3300000
+Hayathnagar,Apartment,940,2,1,2,4,9,20,1,Semi-Furnished,North-West,0,0,1,1,1,4126000
+Ecil,Apartment,1310,2,1,2,4,6,10,1,Semi-Furnished,North-East,1,0,1,1,1,5000000
+Ecil,Apartment,1285,2,1,2,4,5,15,1,Semi-Furnished,East,1,0,1,1,1,5000000
+Dilsukhnagar,Apartment,1400,3,2,2,4,17,20,1,Fully Furnished,West,1,1,1,1,1,9500000
+Dilsukhnagar,Apartment,1000,2,1,2,4,13,15,1,Semi-Furnished,North-East,0,0,1,1,1,5500000
+Chandanagar,Apartment,995,2,1,2,0,1,20,1,Semi-Furnished,North,0,0,0,1,1,3482000
+Pragathi Nagar,Apartment,1200,2,1,2,0,4,10,1,Semi-Furnished,North,1,0,1,1,1,4798000
+Pragathi Nagar,Apartment,1150,2,1,2,0,4,15,1,Semi-Furnished,North-East,1,0,1,1,1,4598000
+Kukatpally,Apartment,1440,3,2,2,4,3,12,1,Semi-Furnished,North-East,1,0,1,1,1,5758000
+Kukatpally,Apartment,1240,2,1,2,0,3,15,1,Semi-Furnished,North,1,0,1,1,1,4958000
+Kukatpally,Apartment,1225,2,1,2,0,2,5,1,Semi-Furnished,West,1,0,1,1,1,4898000
+Kukatpally,Apartment,1200,2,1,2,0,2,15,1,Semi-Furnished,West,0,0,1,1,1,4798000
+Kukatpally,Apartment,1150,2,1,2,0,4,12,1,Semi-Furnished,South,0,0,1,1,1,4598000
+Bowrampet,Apartment,1700,3,2,2,0,3,12,1,Semi-Furnished,East,0,0,1,1,1,6958000
+Bowrampet,Apartment,1655,3,2,2,0,1,15,1,Semi-Furnished,East,0,0,1,1,1,6787000
+Bowrampet,Apartment,1100,2,1,2,0,19,24,1,Semi-Furnished,West,1,0,1,1,1,4874000
+Bowrampet,Apartment,1100,2,1,2,0,5,12,1,Semi-Furnished,East,0,0,1,1,1,4963000
+Bowrampet,Apartment,1655,3,2,2,0,6,15,1,Semi-Furnished,South,1,0,1,1,1,6787000
+Begumpet,Apartment,1100,2,1,2,4,6,7,1,Semi-Furnished,North,0,0,1,1,1,7000000
+Ameenpur,Apartment,1000,2,1,2,0,11,12,1,Semi-Furnished,North,0,0,1,1,1,3900000
+Almasguda,Independent House,1080,2,1,2,4,0,2,1,Semi-Furnished,West,1,0,1,1,0,5800000
+Badangpet,Independent House,1350,2,1,2,4,0,2,1,Fully Furnished,North-East,0,0,1,1,0,8000000
+Medipally,Independent House,1620,2,1,2,0,0,2,1,Semi-Furnished,East,0,0,1,1,0,6000000
+Rampally,Independent House,1800,2,1,2,0,1,2,1,Semi-Furnished,South,0,0,1,1,0,6998999
+Adibatla,Apartment,1000,2,1,2,0,6,10,1,Semi-Furnished,North-East,1,0,1,1,1,3800000
+Cherlapalli,Villa,2600,3,2,2,0,0,1,2,Fully Furnished,West,1,1,1,1,0,14500000
+Kothur,Villa,2000,3,2,2,4,0,2,2,Fully Furnished,North,1,1,1,1,0,12500000
+Kowkur,Villa,2355,4,3,2,4,0,2,2,Fully Furnished,North-West,1,1,1,1,0,10500000
+Cherlapalli,Villa,2600,3,2,2,0,1,2,2,Fully Furnished,East,1,1,1,1,0,14500000
+Shankarpalli,Villa,2160,3,2,2,0,0,2,2,Fully Furnished,North,1,1,1,1,0,27000000
+Bowrampet,Villa,2126,3,2,2,0,1,2,2,Fully Furnished,West,1,1,1,1,0,16000000
+Rampally,Villa,1120,2,1,2,4,0,1,2,Fully Furnished,East,1,1,1,1,0,9500000
+Kapra,Villa,3500,5,4,2,4,1,3,2,Fully Furnished,South,1,1,1,1,0,27000000
+Beeramguda,Villa,2600,3,2,2,0,1,3,2,Fully Furnished,North-East,1,1,1,1,0,12000000
+Bowrampet,Villa,2300,3,2,2,0,1,2,2,Fully Furnished,South,1,1,1,1,0,16000000
+Kollur,Villa,1700,3,2,2,0,0,2,2,Fully Furnished,East,1,1,1,1,0,22800000
+Mokila,Villa,3910,3,2,2,4,1,2,2,Fully Furnished,East,1,1,1,1,0,55000000
+Bachupally,Villa,1120,2,1,2,4,0,1,2,Fully Furnished,North,1,1,1,1,0,9500000
+Bachupally,Villa,3800,5,4,2,4,0,2,2,Fully Furnished,East,1,1,1,1,0,52500000
+Bachupally,Villa,3800,5,4,2,4,0,2,2,Fully Furnished,North,1,1,1,1,0,52500000
+Annojiguda,Villa,1500,3,2,2,4,0,1,2,Fully Furnished,North,1,1,1,1,0,15000000
+Narepally,Villa,3194,3,2,2,0,0,2,2,Fully Furnished,North,1,1,1,1,0,23900000
+Mokila,Villa,3600,4,3,2,4,1,2,2,Fully Furnished,North,1,1,1,1,0,42000000
+Ibrahimpatnam,Villa,750,2,1,2,0,1,3,2,Semi-Furnished,West,1,1,1,1,0,7500000
+Nagarjuna Sagar Road,Villa,3000,4,3,2,4,0,1,2,Fully Furnished,East,1,1,1,1,0,26500000
+Kollur,Villa,1700,3,2,2,0,1,3,2,Fully Furnished,West,1,1,1,1,0,22800000
+Kompally,Villa,5500,4,3,2,4,1,2,2,Fully Furnished,North,1,1,1,1,0,60000000
+Srisailam Highway,Villa,1620,4,3,2,0,0,2,2,Fully Furnished,North,1,1,1,1,0,14300000
+Saleem Nagar,Villa,4000,6,5,2,4,0,1,2,Fully Furnished,South,1,1,1,1,0,19000000
+Cherlapalli,Villa,2600,3,2,2,0,1,3,2,Fully Furnished,South,1,1,1,1,0,14500000
+Kothur,Villa,2000,3,2,2,4,0,1,2,Fully Furnished,North-West,1,1,1,1,0,12500000
+Kowkur,Villa,2355,4,3,2,4,1,2,2,Fully Furnished,East,1,1,1,1,0,10500000
+Cherlapalli,Villa,2600,3,2,2,0,0,2,2,Fully Furnished,East,1,1,1,1,0,14500000
+Shankarpalli,Villa,2160,3,2,2,0,1,2,2,Fully Furnished,West,1,1,1,1,0,27000000
+Bowrampet,Villa,2126,3,2,2,0,0,1,2,Fully Furnished,South,1,1,1,1,0,16000000
+Rampally,Villa,1120,2,1,2,4,1,2,2,Fully Furnished,West,1,1,1,1,0,9500000
+Kapra,Villa,3500,5,4,2,4,0,2,2,Fully Furnished,South,1,1,1,1,0,27000000
+Beeramguda,Villa,2600,3,2,2,0,1,2,2,Fully Furnished,North,1,1,1,1,0,12000000
+Bowrampet,Villa,2300,3,2,2,0,1,3,2,Fully Furnished,North-East,1,1,1,1,0,16000000
+Kollur,Villa,1700,3,2,2,0,0,2,2,Fully Furnished,North-West,1,1,1,1,0,22800000
+Mokila,Villa,3910,3,2,2,4,1,2,2,Fully Furnished,East,1,1,1,1,0,55000000
+Bachupally,Villa,1120,2,1,2,4,1,2,2,Fully Furnished,West,1,1,1,1,0,9500000
+Bachupally,Villa,3800,5,4,2,4,0,2,2,Fully Furnished,North,1,1,1,1,0,52500000
+Bachupally,Villa,3800,5,4,2,4,1,3,2,Fully Furnished,East,1,1,1,1,0,52500000
+Annojiguda,Villa,1500,3,2,2,4,0,2,2,Fully Furnished,West,1,1,1,1,0,15000000
+Dammaiguda,Independent House,1980,3,2,2,4,0,2,1,Semi-Furnished,East,1,0,1,1,0,7500000
+Vanasthalipuram,Independent House,1260,2,1,2,4,1,3,1,Semi-Furnished,North-East,0,0,1,1,0,7800000
+Hayathnagar,Independent House,1170,2,1,2,4,0,2,1,Semi-Furnished,South,1,0,1,1,0,6700000
+Narayanguda,Independent Floor,700,2,1,2,4,1,2,0,Semi-Furnished,East,0,0,1,1,0,7000000
+Falaknuma,Independent Floor,800,2,1,2,4,0,2,0,Semi-Furnished,North,0,0,1,1,0,6900000
+Ramachandra Puram,Independent House,1080,2,1,2,4,1,3,1,Fully Furnished,North,1,1,1,1,0,13000000
+Ramachandra Puram,Independent House,1170,2,1,2,4,0,1,1,Fully Furnished,West,0,1,1,1,0,8500000
+Syed Ali Guda,Independent House,1080,2,1,2,4,0,1,1,Fully Furnished,East,0,0,1,1,0,12000000
+New Malakpet,Independent House,900,2,1,2,4,1,2,1,Fully Furnished,South,1,0,1,1,0,9800000
+Himayat Nagar,Independent Floor,1000,2,1,2,4,0,1,0,Semi-Furnished,East,1,0,1,1,0,7900000
+Rani Gunj,Independent Floor,1000,2,1,2,4,1,3,0,Semi-Furnished,South,0,0,1,1,0,6800000
+Nallagandla Road,Apartment,1000,2,1,2,4,2,12,1,Fully Furnished,South,1,1,1,1,1,8600000
+Saidabad,Independent Floor,1000,2,1,2,4,1,3,0,Semi-Furnished,West,1,0,1,1,0,6600000
+Mallapur,Independent Floor,1000,2,1,2,4,1,3,0,Semi-Furnished,East,1,0,1,1,0,5900000
+Puppalaguda,Apartment,1000,2,1,2,4,11,24,1,Semi-Furnished,East,1,0,1,1,1,6500000
+Kothapet,Independent Floor,1000,2,1,2,4,0,1,0,Semi-Furnished,North,1,0,1,1,0,5000000
+Panjagutta,Independent Floor,1000,2,1,2,4,0,1,0,Fully Furnished,South,0,1,1,1,0,9000000
+Quthbullapur,Independent Floor,1000,2,1,2,4,0,2,0,Semi-Furnished,West,0,0,1,1,0,4900000
+As Rao Nagar,Independent Floor,1000,2,1,2,4,1,2,0,Semi-Furnished,North,1,0,1,1,0,6900000
+Gachibowli,Apartment,900,2,1,2,4,4,12,1,Semi-Furnished,West,1,0,1,1,1,6900000
+Shamshabad,Villa,1620,4,3,2,0,1,2,2,Fully Furnished,West,1,1,1,1,0,18900000
+Attapur,Villa,4058,4,3,2,0,1,2,2,Fully Furnished,East,1,1,1,1,0,48600000
+Kollur,Villa,5514,5,4,2,0,0,2,2,Fully Furnished,East,1,1,1,1,0,48500000
+Kadthal,Villa,1800,3,2,2,0,1,2,2,Semi-Furnished,East,1,1,1,1,0,4900000
+Isnapur,Villa,1600,3,2,2,0,1,3,2,Fully Furnished,West,1,1,1,1,0,9370000
+Appa Junction,Villa,3713,4,3,2,4,0,2,2,Fully Furnished,North-East,1,1,1,1,0,31700000
+Rampally,Villa,2387,3,2,2,0,0,1,2,Fully Furnished,South,1,1,1,1,0,13700000
+Kondapur,Apartment,1410,2,1,2,4,1,15,1,Fully Furnished,East,1,1,1,1,1,12000000
+Manikonda,Apartment,1900,3,2,2,4,6,15,1,Fully Furnished,East,1,1,1,1,1,14000000
+Gachibowli,Apartment,5200,3,2,2,4,4,10,1,Fully Furnished,East,1,1,1,1,1,57500000
+Gachibowli,Apartment,3300,3,2,2,4,2,10,1,Fully Furnished,West,1,1,1,1,1,34000000
+Kondapur,Apartment,2160,3,2,2,4,1,20,1,Fully Furnished,North,1,1,1,1,1,19400000
+Manikonda,Apartment,3141,4,3,2,4,1,7,1,Fully Furnished,West,1,1,1,1,1,30000000
+Bandlaguda Jagir,Apartment,3455,4,3,2,4,6,10,1,Fully Furnished,East,1,1,1,1,1,42500000
+Manikonda,Apartment,3688,4,3,2,4,4,20,1,Fully Furnished,East,1,1,1,1,1,40000000
+Madhapur,Apartment,1825,3,2,2,4,9,15,1,Fully Furnished,East,1,1,1,1,1,16500000
+Kismatpur,Apartment,4150,4,3,2,4,1,7,1,Fully Furnished,East,1,1,1,1,1,48500000
+HITEC City,Apartment,4320,4,3,2,4,4,5,1,Fully Furnished,South,1,1,1,1,1,60500000
+Chandanagar,Apartment,1665,3,2,2,4,9,20,1,Fully Furnished,East,1,1,1,1,1,15000000
+Manikonda,Apartment,1200,2,1,2,0,4,24,1,Semi-Furnished,East,1,0,1,1,1,5500000
+Raidurgam,Independent Floor,1000,2,1,2,4,0,1,0,Semi-Furnished,South,1,0,1,1,0,6000000
+Appa Junction,Independent House,1350,2,1,2,4,1,3,1,Semi-Furnished,South,0,0,1,1,0,6500000
+Venkatraya Nagar,Independent Floor,1000,2,1,2,4,1,3,0,Semi-Furnished,North,0,0,1,1,0,6000000
+Narsingi,Apartment,1300,2,1,2,0,6,10,1,Semi-Furnished,North-East,0,0,1,1,1,5600000
+Hafiz Baba Nagar,Independent Floor,1000,2,1,2,4,0,2,0,Semi-Furnished,South,0,0,1,1,0,4900000
+Upperpally,Independent Floor,1000,2,1,2,4,1,2,0,Semi-Furnished,North-East,0,0,1,1,0,6000000
+Basheer Bagh,Independent Floor,1000,2,1,2,4,1,3,0,Semi-Furnished,West,0,0,1,1,0,6500000
+Balapur,Villa,2000,3,2,2,4,0,2,2,Fully Furnished,South,1,1,1,1,0,16000000
+Bowenpally,Villa,6000,5,4,2,4,0,1,2,Fully Furnished,North-West,1,1,1,1,0,50000000
+Sadashivpet,Villa,3050,4,3,2,0,0,1,2,Semi-Furnished,South,1,1,1,1,0,7500000
+Annojiguda,Villa,1500,3,2,2,4,1,2,2,Fully Furnished,East,1,1,1,1,0,20000000
+Patighanpur,Villa,3248,4,3,2,0,0,2,2,Fully Furnished,North,1,1,1,1,0,19400000
+Bandlaguda Jagir,Villa,3411,4,3,2,0,0,1,2,Fully Furnished,North,1,1,1,1,0,56100000
+Kollur,Villa,4500,3,2,2,0,0,1,2,Fully Furnished,East,1,1,1,1,0,29000000
+Pati,Villa,3700,4,3,2,0,1,2,2,Fully Furnished,North-West,1,1,1,1,0,18500000
+Shankarpalli,Villa,2920,4,3,2,0,1,3,2,Fully Furnished,East,1,1,1,1,0,14200000
+Mokila,Villa,4300,5,4,2,0,0,1,2,Fully Furnished,East,1,1,1,1,0,26200000
+Annojiguda,Villa,1500,3,2,2,4,0,1,2,Fully Furnished,North-East,1,1,1,1,0,20000000
+Bowrampet,Villa,2295,4,3,2,0,1,3,2,Fully Furnished,West,1,1,1,1,0,16000000
+Ramachandra Puram,Apartment,1230,3,2,2,0,8,15,1,Semi-Furnished,East,0,0,1,1,1,4200000
+Financial District,Apartment,1300,3,2,2,0,5,15,1,Semi-Furnished,North,1,0,1,1,1,4500000
+Beeramguda,Apartment,1009,2,1,2,0,15,20,1,Semi-Furnished,North,0,0,1,0,1,3200000
+Kukatpally,Apartment,1203,3,2,2,0,1,5,1,Semi-Furnished,East,1,0,1,1,1,4250000
+Financial District,Apartment,886,2,1,2,0,5,10,1,Semi-Furnished,North-West,0,0,1,1,1,3400000
+Gopanpally,Apartment,750,1,1,1,0,2,7,1,Unfurnished,North,0,0,1,0,1,2700000
+Financial District,Apartment,753,1,1,1,0,5,7,1,Unfurnished,North,0,0,1,1,1,2725000
+Gachibowli,Apartment,742,1,1,1,0,10,12,1,Unfurnished,North,0,0,0,1,1,2758000
+Madinaguda,Apartment,756,1,1,1,0,2,12,1,Unfurnished,North,0,0,0,0,1,2658000
+Linghampally,Apartment,953,2,1,2,0,7,12,1,Semi-Furnished,East,0,0,1,1,1,3450000
+Linghampally,Apartment,1232,3,2,2,0,6,20,1,Semi-Furnished,East,0,0,1,1,1,4500000
+Linghampally,Apartment,753,1,1,1,0,4,12,1,Unfurnished,North,0,0,1,1,1,2700000
+Linghampally,Apartment,1050,3,2,2,0,13,20,1,Semi-Furnished,South,1,0,1,1,1,4120000
+Jai Hind Nagar Road,Apartment,753,1,1,1,0,3,15,1,Unfurnished,East,0,0,1,0,1,2560000
+Vasanth Nagar Colony,Apartment,780,1,1,1,0,1,15,1,Unfurnished,North,0,0,0,0,1,2860000
+Vasanth Nagar Colony,Apartment,960,2,1,2,0,8,10,1,Semi-Furnished,South,1,0,1,1,1,3679999
+Jai Hind Nagar Road,Apartment,856,2,1,2,0,2,7,1,Semi-Furnished,East,1,0,1,1,1,3679999
+Madinaguda,Apartment,1232,3,2,2,0,6,12,1,Semi-Furnished,East,0,0,1,1,1,4560000
+Vasanth Nagar Colony,Apartment,750,1,1,1,0,7,15,1,Unfurnished,West,0,0,0,0,1,2500000
+Madinaguda,Apartment,852,2,1,2,0,1,10,1,Semi-Furnished,North,0,0,1,1,1,4200000
+Kismatpur,Villa,3854,4,3,2,4,1,2,2,Fully Furnished,East,1,1,1,1,0,45000000
+Narepally,Villa,3000,4,3,2,4,0,2,2,Fully Furnished,West,1,1,1,1,0,15000000
+Janawada,Villa,2430,4,3,2,0,1,2,2,Fully Furnished,North,1,1,1,1,0,12000000
+Mokila,Villa,3600,4,3,2,4,0,2,2,Fully Furnished,North,1,1,1,1,0,42000000
+Kukatpally,Villa,2000,3,2,2,4,0,2,2,Fully Furnished,East,1,1,1,1,0,20000000
+Manchirevula,Villa,2690,4,3,2,4,0,1,2,Fully Furnished,West,1,1,1,1,0,45000000
+Appa Junction,Villa,3904,4,3,2,0,1,3,2,Fully Furnished,South,1,1,1,1,0,45000000
+Nandigama,Villa,1850,4,3,2,0,1,3,2,Fully Furnished,North-West,1,1,1,1,0,12000000
+Chandanagar,Apartment,1300,2,1,2,0,11,12,1,Semi-Furnished,North-East,1,0,1,1,1,4900000
+Patancheru,Apartment,1200,2,1,2,0,18,20,1,Unfurnished,North,0,0,1,0,1,2900000
+Financial District,Apartment,1200,2,1,2,0,11,20,1,Semi-Furnished,West,1,0,1,1,1,5400000
+Rajendra Nagar,Villa,5200,4,3,2,0,1,2,2,Fully Furnished,West,1,1,1,1,0,91800000
+Dullapally,Villa,2500,3,2,2,0,0,2,2,Fully Furnished,East,1,1,1,1,0,14500000
+Patancheru,Villa,1760,3,2,2,0,1,3,2,Semi-Furnished,East,1,1,1,1,0,6500000
+Narsingi,Villa,2406,3,2,2,0,0,1,2,Fully Furnished,South,1,1,1,1,0,24000000
+Bhanur,Villa,2550,3,2,2,0,0,2,2,Fully Furnished,East,1,1,1,1,0,14800000
+Mokila,Villa,4030,5,4,2,0,1,3,2,Fully Furnished,East,1,1,1,1,0,26700000
+Medchal,Villa,1440,3,2,2,0,1,2,2,Fully Furnished,North-West,1,1,1,1,0,11500000
+Rameshwaram Banda,Villa,2000,3,2,2,0,0,1,2,Fully Furnished,East,1,1,1,1,0,15000000
+Sangareddy,Villa,1000,2,1,2,0,0,2,2,Semi-Furnished,East,1,1,1,1,0,5700000
+Lb Nagar,Apartment,2092,3,2,2,4,1,5,1,Fully Furnished,South,1,1,1,1,1,15400000
+Gopanpally,Apartment,1200,2,1,2,4,6,10,1,Fully Furnished,South,1,1,1,1,1,12500000
+Saleem Nagar,Villa,4000,6,5,2,4,0,2,2,Fully Furnished,East,1,1,1,1,0,19000000
+Financial District,Apartment,1200,2,1,2,0,1,12,1,Semi-Furnished,North,0,0,1,1,1,5800000
+Gachibowli,Apartment,1100,2,1,2,0,5,10,1,Semi-Furnished,North,1,0,1,1,1,4900000
+Nanakramguda,Apartment,1200,2,1,2,0,3,15,1,Semi-Furnished,South,1,0,1,1,1,5800000
+Manchirevula,Apartment,1200,2,1,2,0,19,20,1,Semi-Furnished,South,0,0,1,1,1,5600000
+Kokapet,Apartment,1200,2,1,2,0,5,7,1,Semi-Furnished,North,1,0,1,1,1,4900000
+Manikonda,Apartment,1200,2,1,2,0,4,5,1,Semi-Furnished,West,0,0,1,1,1,5000000
+Neknampur,Apartment,1100,2,1,2,0,8,10,1,Semi-Furnished,North-East,0,0,1,1,1,4500000
+Puppalaguda,Apartment,1200,2,1,2,0,9,12,1,Semi-Furnished,West,0,0,1,1,1,4900000
+Narsingi,Apartment,1310,2,1,2,0,10,12,1,Semi-Furnished,North,1,0,1,1,1,5600000
+Saleem Nagar,Villa,4000,6,5,2,4,1,3,2,Fully Furnished,West,1,1,1,1,0,19000000
+Kompally,Villa,5600,4,3,2,4,0,1,2,Fully Furnished,North-East,1,1,1,1,0,60000000
+Medchal,Villa,2750,4,3,2,4,0,2,2,Fully Furnished,West,1,1,1,1,0,42500000
+Nagarjuna Sagar Road,Villa,3000,4,3,2,4,1,2,2,Fully Furnished,West,1,1,1,1,0,26500000
+Sita Meadows,Villa,1150,3,2,2,0,1,2,2,Fully Furnished,South,1,1,1,1,0,9500000
+Mallepally,Independent House,1800,2,1,2,4,1,3,1,Semi-Furnished,North,1,0,1,1,0,5900000
+Ameerpet,Apartment,1000,2,1,2,4,10,12,1,Semi-Furnished,East,1,0,1,1,1,6000000
+Jawahar Nagar,Independent House,2000,2,1,2,4,1,2,1,Semi-Furnished,North,1,0,1,1,0,6500000
+Rasoolpura,Independent Floor,1000,2,1,2,4,1,2,0,Semi-Furnished,South,1,0,1,1,0,6500000
+Begum Bazar Chatri,Independent Floor,1000,2,1,2,4,0,1,0,Semi-Furnished,North-West,0,0,1,1,0,5500000
+Rajeev Nagar,Independent House,1350,2,1,2,4,0,1,1,Semi-Furnished,North,0,0,1,1,0,6700000

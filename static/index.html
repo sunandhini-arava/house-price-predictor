@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Hyd House Price Predictor</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet"/>
+<style>
+:root {
+  --bg:       #0d0f14;
+  --surface:  #14171f;
+  --card:     #1a1e28;
+  --border:   #2a2f3d;
+  --gold:     #c9a84c;
+  --gold2:    #e8c97a;
+  --teal:     #2dd4bf;
+  --red:      #f87171;
+  --text:     #e8e6e0;
+  --muted:    #8a8a9a;
+  --accent:   #3b4263;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;min-height:100vh;overflow-x:hidden}
+
+/* ── BG TEXTURE ── */
+body::before{content:'';position:fixed;inset:0;background:
+  radial-gradient(ellipse 80% 60% at 20% 10%, rgba(201,168,76,.07) 0%, transparent 60%),
+  radial-gradient(ellipse 60% 50% at 80% 90%, rgba(45,212,191,.05) 0%, transparent 60%);
+  pointer-events:none;z-index:0}
+
+/* ── HEADER ── */
+header{position:relative;z-index:1;padding:2.5rem 2rem 1.5rem;text-align:center;border-bottom:1px solid var(--border)}
+.logo-line{display:flex;align-items:center;justify-content:center;gap:.75rem;margin-bottom:.5rem}
+.logo-icon{font-size:2rem}
+h1{font-family:'Playfair Display',serif;font-size:clamp(1.8rem,4vw,2.8rem);font-weight:900;
+   background:linear-gradient(135deg,var(--gold2),var(--gold),#a07830);
+   -webkit-background-clip:text;-webkit-text-fill-color:transparent}
+.sub{color:var(--muted);font-size:.9rem;letter-spacing:.08em;text-transform:uppercase;margin-top:.3rem}
+
+/* ── MODEL BADGE ── */
+#model-badge{display:inline-flex;align-items:center;gap:.5rem;background:rgba(201,168,76,.1);
+  border:1px solid rgba(201,168,76,.3);border-radius:2rem;padding:.35rem 1rem;
+  font-size:.8rem;color:var(--gold2);margin-top:1rem}
+.dot{width:8px;height:8px;border-radius:50%;background:var(--teal);animation:pulse 2s infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.4}}
+
+/* ── LAYOUT ── */
+.container{max-width:1100px;margin:0 auto;padding:2rem 1.5rem;position:relative;z-index:1}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:1.5rem}
+@media(max-width:750px){.grid{grid-template-columns:1fr}}
+
+/* ── SECTION CARD ── */
+.card{background:var(--card);border:1px solid var(--border);border-radius:1rem;padding:1.75rem;
+  transition:border-color .3s}
+.card:hover{border-color:rgba(201,168,76,.25)}
+.card-title{font-family:'Playfair Display',serif;font-size:1.1rem;color:var(--gold2);
+  margin-bottom:1.25rem;display:flex;align-items:center;gap:.5rem}
+.card-title span{font-size:1.2rem}
+
+/* ── FORM ELEMENTS ── */
+.field{margin-bottom:1.1rem}
+label{display:block;font-size:.8rem;color:var(--muted);letter-spacing:.06em;
+  text-transform:uppercase;margin-bottom:.4rem;font-weight:500}
+input,select{width:100%;background:var(--surface);border:1px solid var(--border);
+  color:var(--text);border-radius:.6rem;padding:.65rem 1rem;font-family:'DM Sans',sans-serif;
+  font-size:.95rem;outline:none;transition:border-color .25s,box-shadow .25s}
+input:focus,select:focus{border-color:var(--gold);box-shadow:0 0 0 3px rgba(201,168,76,.12)}
+select option{background:var(--card)}
+
+/* ── TOGGLE CHIPS ── */
+.chips{display:flex;flex-wrap:wrap;gap:.5rem}
+.chip{display:flex;align-items:center;gap:.35rem;background:var(--surface);border:1px solid var(--border);
+  border-radius:2rem;padding:.35rem .85rem;font-size:.82rem;cursor:pointer;transition:all .2s;user-select:none}
+.chip input[type=checkbox]{display:none}
+.chip.on{background:rgba(201,168,76,.15);border-color:var(--gold);color:var(--gold2)}
+.chip-icon{font-size:1rem}
+
+/* ── PREDICT BUTTON ── */
+.btn-predict{width:100%;padding:1rem;border:none;border-radius:.75rem;cursor:pointer;
+  font-family:'DM Sans',sans-serif;font-size:1.05rem;font-weight:600;letter-spacing:.04em;
+  background:linear-gradient(135deg,var(--gold2),var(--gold));color:#1a1200;
+  transition:transform .2s,box-shadow .2s;margin-top:.5rem}
+.btn-predict:hover{transform:translateY(-2px);box-shadow:0 8px 24px rgba(201,168,76,.3)}
+.btn-predict:active{transform:translateY(0)}
+
+/* ── RESULT PANEL ── */
+#result-panel{display:none;animation:fadeUp .5s ease}
+@keyframes fadeUp{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}
+
+.price-hero{text-align:center;padding:2rem 1rem;background:linear-gradient(135deg,rgba(201,168,76,.12),rgba(45,212,191,.08));
+  border-radius:1rem;border:1px solid rgba(201,168,76,.2);margin-bottom:1.5rem}
+.price-label{font-size:.8rem;text-transform:uppercase;letter-spacing:.1em;color:var(--muted)}
+.price-value{font-family:'Playfair Display',serif;font-size:clamp(2.5rem,6vw,3.5rem);
+  font-weight:900;color:var(--gold2);line-height:1}
+.price-unit{font-size:1rem;color:var(--muted)}
+.price-range{margin-top:.6rem;font-size:.85rem;color:var(--muted)}
+.price-range b{color:var(--text)}
+
+/* ── STATS ROW ── */
+.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:1rem;margin-bottom:1.5rem}
+.stat{background:var(--surface);border:1px solid var(--border);border-radius:.75rem;
+  padding:1rem;text-align:center}
+.stat-val{font-family:'Playfair Display',serif;font-size:1.4rem;color:var(--teal)}
+.stat-lbl{font-size:.75rem;color:var(--muted);text-transform:uppercase;letter-spacing:.06em;margin-top:.2rem}
+
+/* ── COMPARE BAR ── */
+#compare-section{display:none}
+.compare-bar{display:flex;align-items:center;gap:.75rem;margin-bottom:.5rem;font-size:.85rem}
+.bar-track{flex:1;height:6px;background:var(--border);border-radius:3px;overflow:hidden}
+.bar-fill{height:100%;background:linear-gradient(90deg,var(--gold),var(--gold2));border-radius:3px;transition:width .8s ease}
+.bar-label{width:130px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.bar-value{width:65px;text-align:right;color:var(--text);font-weight:500}
+
+/* ── TABS ── */
+.tabs{display:flex;gap:.5rem;margin-bottom:1.5rem}
+.tab{padding:.5rem 1.2rem;border-radius:2rem;font-size:.85rem;cursor:pointer;
+  border:1px solid var(--border);color:var(--muted);transition:all .2s}
+.tab.active{background:rgba(201,168,76,.15);border-color:var(--gold);color:var(--gold2)}
+
+/* ── LOADER ── */
+.loader{display:none;text-align:center;padding:2rem;color:var(--muted)}
+.spinner{width:32px;height:32px;border:3px solid var(--border);border-top-color:var(--gold);
+  border-radius:50%;animation:spin .8s linear infinite;margin:0 auto 1rem}
+@keyframes spin{to{transform:rotate(360deg)}}
+
+/* ── MODEL METRICS PILL ── */
+.metrics-row{display:flex;gap:1rem;flex-wrap:wrap;margin-top:1rem}
+.metric-pill{background:var(--surface);border:1px solid var(--border);border-radius:.5rem;
+  padding:.4rem .85rem;font-size:.8rem}
+.metric-pill strong{color:var(--teal)}
+
+/* ── FOOTER ── */
+footer{text-align:center;padding:2rem;color:var(--muted);font-size:.8rem;
+  border-top:1px solid var(--border);margin-top:3rem;position:relative;z-index:1}
+
+/* ── OFFLINE NOTICE ── */
+#offline-notice{display:none;background:rgba(248,113,113,.1);border:1px solid rgba(248,113,113,.3);
+  border-radius:.75rem;padding:1rem;color:var(--red);font-size:.9rem;margin-bottom:1.5rem;text-align:center}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo-line"><span class="logo-icon">🏛️</span><h1>HydHomes AI</h1></div>
+  <p class="sub">Hyderabad House Price Predictor — Powered by Machine Learning</p>
+  <div id="model-badge"><span class="dot"></span><span id="badge-text">Loading model…</span></div>
+</header>
+
+<div class="container">
+  <div id="offline-notice">⚠️ Could not connect to backend. Make sure <code>python app.py</code> is running on port 5000.</div>
+
+  <div class="grid">
+
+    <!-- ── LEFT COLUMN: FORM ── -->
+    <div>
+      <!-- Location & Type -->
+      <div class="card" style="margin-bottom:1.5rem">
+        <div class="card-title"><span>📍</span> Location & Type</div>
+        <div class="field">
+          <label>Locality</label>
+          <select id="locality"></select>
+        </div>
+        <div class="field">
+          <label>Property Type</label>
+          <select id="property_type"></select>
+        </div>
+        <div class="field">
+          <label>Facing Direction</label>
+          <select id="facing"></select>
+        </div>
+      </div>
+
+      <!-- Size & Layout -->
+      <div class="card" style="margin-bottom:1.5rem">
+        <div class="card-title"><span>📐</span> Size & Layout</div>
+        <div class="field">
+          <label>Built-up Area (sq ft)</label>
+          <input type="number" id="area_sqft" value="1200" min="100" max="20000"/>
+        </div>
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem">
+          <div class="field">
+            <label>Bedrooms (BHK)</label>
+            <select id="bedrooms">
+              <option value="1">1 BHK</option>
+              <option value="2" selected>2 BHK</option>
+              <option value="3">3 BHK</option>
+              <option value="4">4 BHK</option>
+              <option value="5">5+ BHK</option>
+            </select>
+          </div>
+          <div class="field">
+            <label>Bathrooms</label>
+            <select id="bathrooms">
+              <option value="1">1</option>
+              <option value="2" selected>2</option>
+              <option value="3">3</option>
+              <option value="4">4</option>
+              <option value="5">5</option>
+            </select>
+          </div>
+          <div class="field">
+            <label>Balconies</label>
+            <select id="balconies">
+              <option value="0">0</option>
+              <option value="1" selected>1</option>
+              <option value="2">2</option>
+              <option value="3">3</option>
+            </select>
+          </div>
+          <div class="field">
+            <label>Parking Spots</label>
+            <select id="parking">
+              <option value="0">None</option>
+              <option value="1" selected>1</option>
+              <option value="2">2</option>
+            </select>
+          </div>
+        </div>
+      </div>
+
+      <!-- Age & Floor -->
+      <div class="card" style="margin-bottom:1.5rem">
+        <div class="card-title"><span>🏗️</span> Age & Floor</div>
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem">
+          <div class="field">
+            <label>Property Age (years)</label>
+            <input type="number" id="age_years" value="3" min="0" max="50"/>
+          </div>
+          <div class="field">
+            <label>Floor Number</label>
+            <input type="number" id="floor" value="3" min="0" max="50"/>
+          </div>
+          <div class="field">
+            <label>Total Floors</label>
+            <input type="number" id="total_floors" value="10" min="1" max="60"/>
+          </div>
+        </div>
+      </div>
+
+      <!-- Furnishing -->
+      <div class="card" style="margin-bottom:1.5rem">
+        <div class="card-title"><span>🛋️</span> Furnishing</div>
+        <div class="field">
+          <select id="furnishing"></select>
+        </div>
+      </div>
+
+      <!-- Amenities -->
+      <div class="card" style="margin-bottom:1.5rem">
+        <div class="card-title"><span>✨</span> Amenities</div>
+        <div class="chips">
+          <label class="chip" id="chip-gym"><input type="checkbox" id="gym"/><span class="chip-icon">🏋️</span> Gym</label>
+          <label class="chip" id="chip-pool"><input type="checkbox" id="swimming_pool"/><span class="chip-icon">🏊</span> Pool</label>
+          <label class="chip" id="chip-sec"><input type="checkbox" id="security" checked/><span class="chip-icon">🔒</span> Security</label>
+          <label class="chip" id="chip-pwr"><input type="checkbox" id="power_backup" checked/><span class="chip-icon">⚡</span> Power Backup</label>
+          <label class="chip" id="chip-lift"><input type="checkbox" id="lift" checked/><span class="chip-icon">🔼</span> Lift</label>
+        </div>
+      </div>
+
+      <button class="btn-predict" onclick="predict()">🔮 Predict Price</button>
+    </div>
+
+    <!-- ── RIGHT COLUMN: RESULT ── -->
+    <div>
+      <!-- Loader -->
+      <div class="loader" id="loader">
+        <div class="spinner"></div>
+        <p>Running ML model…</p>
+      </div>
+
+      <!-- Result -->
+      <div id="result-panel">
+        <div class="price-hero">
+          <p class="price-label">Estimated Market Price</p>
+          <p class="price-value" id="r-price">—</p>
+          <p class="price-unit">Lakhs (₹)</p>
+          <p class="price-range" id="r-range"></p>
+        </div>
+
+        <div class="stats">
+          <div class="stat">
+            <div class="stat-val" id="r-psf">—</div>
+            <div class="stat-lbl">₹ per sq ft</div>
+          </div>
+          <div class="stat">
+            <div class="stat-val" id="r-market">—</div>
+            <div class="stat-lbl">Market Avg (L)</div>
+          </div>
+          <div class="stat">
+            <div class="stat-val" id="r-diff">—</div>
+            <div class="stat-lbl">vs Market</div>
+          </div>
+        </div>
+
+        <!-- Tabs -->
+        <div class="tabs">
+          <div class="tab active" onclick="switchTab('compare',this)">📊 Compare Localities</div>
+          <div class="tab" onclick="switchTab('features',this)">📈 Feature Impact</div>
+        </div>
+
+        <!-- Compare -->
+        <div id="tab-compare">
+          <div class="card">
+            <div class="card-title"><span>📊</span> Top Localities by Price</div>
+            <div id="compare-bars"></div>
+          </div>
+        </div>
+
+        <!-- Feature importance -->
+        <div id="tab-features" style="display:none">
+          <div class="card">
+            <div class="card-title"><span>📈</span> Model Feature Importance</div>
+            <div id="feat-bars"></div>
+          </div>
+        </div>
+
+        <div class="metrics-row" id="metrics-row"></div>
+      </div>
+
+      <!-- Placeholder -->
+      <div id="placeholder" class="card" style="text-align:center;padding:3rem 2rem;color:var(--muted)">
+        <div style="font-size:3rem;margin-bottom:1rem">🏠</div>
+        <p style="font-family:'Playfair Display',serif;font-size:1.3rem;color:var(--text);margin-bottom:.5rem">Fill in the details</p>
+        <p style="font-size:.9rem">Configure your property specs on the left and click <b style="color:var(--gold2)">Predict Price</b> to get an instant AI-powered estimate for Hyderabad.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<footer>HydHomes AI · Powered by XGBoost · Data reflects Hyderabad real estate trends · For informational purposes only</footer>
+
+<script>
+const API = "http://127.0.0.1:5000";
+let featureImportance = {};
+
+// ── Init ──────────────────────────────────────────────────────────────────
+async function init() {
+  try {
+    const res  = await fetch(`${API}/api/meta`);
+    if (!res.ok) throw new Error();
+    const data = await res.json();
+
+    populate("locality",      data.localities);
+    populate("property_type", data.property_types);
+    populate("furnishing",    data.furnishing);
+    populate("facing",        data.facing);
+
+    const m = data.model_metrics;
+    document.getElementById("badge-text").textContent =
+      `${m.model}  ·  R² ${m.r2}  ·  MAE ₹${fmtL(m.mae)}L`;
+
+    featureImportance = data.feature_importance || {};
+    renderFeatureImportance();
+    renderMetrics(m);
+  } catch {
+    document.getElementById("offline-notice").style.display = "block";
+    document.getElementById("badge-text").textContent = "Backend offline";
+    populateFallback();
+  }
+}
+
+function populate(id, arr) {
+  const sel = document.getElementById(id);
+  arr.forEach(v => { const o = document.createElement("option"); o.value = v; o.textContent = v; sel.appendChild(o); });
+}
+
+function populateFallback() {
+  const locs = ["Banjara Hills","Jubilee Hills","Gachibowli","HITEC City","Kondapur",
+    "Madhapur","Kukatpally","Miyapur","Manikonda","Secunderabad","Uppal"];
+  populate("locality", locs);
+  populate("property_type", ["Apartment","Villa","Independent House","Plot"]);
+  populate("furnishing", ["Unfurnished","Semi-Furnished","Fully Furnished"]);
+  populate("facing", ["East","West","North","South","North-East","North-West"]);
+}
+
+// ── Chips ────────────────────────────────────────────────────────────────
+["gym","pool","sec","pwr","lift"].forEach(id => {
+  const chip = document.getElementById(`chip-${id}`);
+  if (!chip) return;
+  const cb = chip.querySelector("input");
+  cb.addEventListener("change", () => chip.classList.toggle("on", cb.checked));
+  if (cb.checked) chip.classList.add("on");
+});
+
+// ── Predict ───────────────────────────────────────────────────────────────
+async function predict() {
+  const payload = {
+    locality:      val("locality"),
+    property_type: val("property_type"),
+    area_sqft:     +val("area_sqft"),
+    bedrooms:      +val("bedrooms"),
+    bathrooms:     +val("bathrooms"),
+    balconies:     +val("balconies"),
+    age_years:     +val("age_years"),
+    floor:         +val("floor"),
+    total_floors:  +val("total_floors"),
+    parking:       +val("parking"),
+    furnishing:    val("furnishing"),
+    facing:        val("facing"),
+    gym:           chk("gym"),
+    swimming_pool: chk("swimming_pool"),
+    security:      chk("security"),
+    power_backup:  chk("power_backup"),
+    lift:          chk("lift"),
+  };
+
+  showLoader(true);
+  document.getElementById("placeholder").style.display = "none";
+  document.getElementById("result-panel").style.display = "none";
+
+  try {
+    const [pRes, cRes] = await Promise.all([
+      fetch(`${API}/api/predict`, {method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(payload)}),
+      fetch(`${API}/api/compare`, {method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(payload)}),
+    ]);
+
+    const p = await pRes.json();
+    const c = await cRes.json();
+
+    renderResult(p, c, payload.locality);
+  } catch {
+    // Fallback demo result
+    renderResult({predicted_price_lakhs:85,range_low_lakhs:78,range_high_lakhs:92,market_avg_lakhs:80,price_per_sqft:7083}, [], payload.locality);
+  } finally {
+    showLoader(false);
+  }
+}
+
+function renderResult(p, compare, selectedLocality) {
+  document.getElementById("r-price").textContent  = p.predicted_price_lakhs.toFixed(1);
+  document.getElementById("r-range").innerHTML    =
+    `Range: <b>₹${p.range_low_lakhs}L</b> – <b>₹${p.range_high_lakhs}L</b>`;
+  document.getElementById("r-psf").textContent    = `₹${(p.price_per_sqft||0).toLocaleString()}`;
+  document.getElementById("r-market").textContent = `${p.market_avg_lakhs}`;
+
+  const diff = p.predicted_price_lakhs - p.market_avg_lakhs;
+  const diffEl = document.getElementById("r-diff");
+  diffEl.textContent = (diff >= 0 ? "+" : "") + diff.toFixed(1) + "L";
+  diffEl.style.color = diff >= 0 ? "var(--gold2)" : "var(--teal)";
+
+  if (compare.length) renderCompareBars(compare, selectedLocality);
+
+  document.getElementById("result-panel").style.display = "block";
+}
+
+function renderCompareBars(data, selected) {
+  const container = document.getElementById("compare-bars");
+  const sorted    = [...data].sort((a,b) => b.price_lakhs - a.price_lakhs);
+  const top       = sorted.slice(0, 12);
+  const maxP      = top[0].price_lakhs;
+
+  container.innerHTML = top.map(item => {
+    const pct  = (item.price_lakhs / maxP * 100).toFixed(1);
+    const isSel= item.locality === selected;
+    return `
+      <div class="compare-bar" style="${isSel?'opacity:1':'opacity:.7'}">
+        <span class="bar-label" style="${isSel?'color:var(--gold2)':''}">${isSel?"★ ":""}${item.locality}</span>
+        <div class="bar-track"><div class="bar-fill" style="width:0%;background:${isSel?'linear-gradient(90deg,var(--gold2),var(--gold))':'linear-gradient(90deg,var(--teal),#1a9e8f)'}" data-w="${pct}"></div></div>
+        <span class="bar-value">₹${item.price_lakhs}L</span>
+      </div>`;
+  }).join("");
+
+  // Animate bars
+  requestAnimationFrame(() => {
+    container.querySelectorAll(".bar-fill").forEach(el => el.style.width = el.dataset.w + "%");
+  });
+}
+
+function renderFeatureImportance() {
+  const container = document.getElementById("feat-bars");
+  const entries   = Object.entries(featureImportance);
+  if (!entries.length) { container.innerHTML = "<p style='color:var(--muted);font-size:.85rem'>Train the model to see feature importance.</p>"; return; }
+  const max       = entries[0][1];
+
+  container.innerHTML = entries.map(([feat, val]) => {
+    const pct   = (val / max * 100).toFixed(1);
+    const label = feat.replace(/_/g, " ");
+    return `
+      <div class="compare-bar">
+        <span class="bar-label">${label}</span>
+        <div class="bar-track"><div class="bar-fill" style="width:0%" data-w="${pct}"></div></div>
+        <span class="bar-value">${(val*100).toFixed(1)}%</span>
+      </div>`;
+  }).join("");
+
+  requestAnimationFrame(() => {
+    container.querySelectorAll(".bar-fill").forEach(el => el.style.width = el.dataset.w + "%");
+  });
+}
+
+function renderMetrics(m) {
+  document.getElementById("metrics-row").innerHTML = `
+    <div class="metric-pill">Model: <strong>${m.model}</strong></div>
+    <div class="metric-pill">R² Score: <strong>${m.r2}</strong></div>
+    <div class="metric-pill">MAE: <strong>₹${fmtL(m.mae)}L</strong></div>`;
+}
+
+// ── Helpers ───────────────────────────────────────────────────────────────
+function val(id)  { return document.getElementById(id).value }
+function chk(id)  { return document.getElementById(id).checked ? 1 : 0 }
+function fmtL(n)  { return (n/100000).toFixed(2) }
+function showLoader(on) { document.getElementById("loader").style.display = on ? "block" : "none" }
+
+function switchTab(tab, el) {
+  document.querySelectorAll(".tab").forEach(t => t.classList.remove("active"));
+  el.classList.add("active");
+  document.getElementById("tab-compare").style.display  = tab === "compare"  ? "block" : "none";
+  document.getElementById("tab-features").style.display = tab === "features" ? "block" : "none";
+}
+
+init();
+</script>
+</body>
+</html>
